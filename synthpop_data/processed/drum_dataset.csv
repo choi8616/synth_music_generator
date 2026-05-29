@@ -1,0 +1,341 @@
+artist,song,original_path,drum_path,n_drum_tracks_merged,n_notes,n_unique_drums,bpm,duration
+ABC,4 Ever 2 Gether.mid,data/clean_midi/ABC/4 Ever 2 Gether.mid,synthpop_data/processed/drums_all/ABC__4_Ever_2_Gether.mid,1,3214,13,89.99995500002248,207.43065927083336
+ABC,"Look of Love, Part 1.mid","data/clean_midi/ABC/Look of Love, Part 1.mid","synthpop_data/processed/drums_all/ABC__Look_of_Love,_Part_1.mid",1,1714,14,120.99994353335968,208.12819630000004
+ABC,Poison Arrow.mid,data/clean_midi/ABC/Poison Arrow.mid,synthpop_data/processed/drums_all/ABC__Poison_Arrow.mid,1,2263,15,126.00012600012602,202.936305
+Bronski Beat,Small Town Boy.mid,data/clean_midi/Bronski Beat/Small Town Boy.mid,synthpop_data/processed/drums_all/Bronski_Beat__Small_Town_Boy.mid,1,2931,9,126.99998518333504,310.5516879083333
+Culture Club,Church of the Poison Mind.mid,data/clean_midi/Culture Club/Church of the Poison Mind.mid,synthpop_data/processed/drums_all/Culture_Club__Church_of_the_Poison_Mind.mid,2,2533,7,130.00013000013,238.10913689062497
+Culture Club,Do You Really Want to Hurt Me.1.mid,data/clean_midi/Culture Club/Do You Really Want to Hurt Me.1.mid,synthpop_data/processed/drums_all/Culture_Club__Do_You_Really_Want_to_Hurt_Me.1.mid,1,1538,13,82.00000693333426,256.365352
+Culture Club,Do You Really Want to Hurt Me.mid,data/clean_midi/Culture Club/Do You Really Want to Hurt Me.mid,synthpop_data/processed/drums_all/Culture_Club__Do_You_Really_Want_to_Hurt_Me.mid,1,1538,13,104.00001386666852,258.68346066666663
+Depeche Mode,Barrel Of A Gun.mid,data/clean_midi/Depeche Mode/Barrel Of A Gun.mid,synthpop_data/processed/drums_all/Depeche_Mode__Barrel_Of_A_Gun.mid,4,2170,7,82.9999502000299,301.25018074999997
+Depeche Mode,Black Celebration.1.mid,data/clean_midi/Depeche Mode/Black Celebration.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Black_Celebration.1.mid,1,3185,11,120.0,316.0
+Depeche Mode,Black Celebration.2.mid,data/clean_midi/Depeche Mode/Black Celebration.2.mid,synthpop_data/processed/drums_all/Depeche_Mode__Black_Celebration.2.mid,10,3185,11,120.0,315.875
+Depeche Mode,Black Celebration.3.mid,data/clean_midi/Depeche Mode/Black Celebration.3.mid,synthpop_data/processed/drums_all/Depeche_Mode__Black_Celebration.3.mid,10,3185,11,120.0,314.0
+Depeche Mode,Black Celebration.mid,data/clean_midi/Depeche Mode/Black Celebration.mid,synthpop_data/processed/drums_all/Depeche_Mode__Black_Celebration.mid,10,3185,11,120.0,314.0
+Depeche Mode,Blasphemous Rumours.1.mid,data/clean_midi/Depeche Mode/Blasphemous Rumours.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Blasphemous_Rumours.1.mid,1,988,11,109.99990833340972,229.08655454166663
+Depeche Mode,Blasphemous Rumours.2.mid,data/clean_midi/Depeche Mode/Blasphemous Rumours.2.mid,synthpop_data/processed/drums_all/Depeche_Mode__Blasphemous_Rumours.2.mid,1,988,11,110.00011000011,229.0849981875
+Depeche Mode,Blasphemous Rumours.mid,data/clean_midi/Depeche Mode/Blasphemous Rumours.mid,synthpop_data/processed/drums_all/Depeche_Mode__Blasphemous_Rumours.mid,1,988,11,110.00011000011,229.08613455000005
+Depeche Mode,Boys Say Go!.mid,data/clean_midi/Depeche Mode/Boys Say Go!.mid,synthpop_data/processed/drums_all/Depeche_Mode__Boys_Say_Go!.mid,1,1827,10,137.0000639333632,180.76633899999996
+Depeche Mode,But Not Tonight.mid,data/clean_midi/Depeche Mode/But Not Tonight.mid,synthpop_data/processed/drums_all/Depeche_Mode__But_Not_Tonight.mid,1,1536,10,128.0000725334107,253.69276116666668
+Depeche Mode,Dream On.mid,data/clean_midi/Depeche Mode/Dream On.mid,synthpop_data/processed/drums_all/Depeche_Mode__Dream_On.mid,1,2856,7,126.99998518333504,262.55908575
+Depeche Mode,Dreaming of Me.1.mid,data/clean_midi/Depeche Mode/Dreaming of Me.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Dreaming_of_Me.1.mid,2,1334,4,135.000135000135,215.0627479
+Depeche Mode,Dreaming of Me.2.mid,data/clean_midi/Depeche Mode/Dreaming of Me.2.mid,synthpop_data/processed/drums_all/Depeche_Mode__Dreaming_of_Me.2.mid,2,1713,5,130.00013000013,225.230544
+Depeche Mode,Dreaming of Me.mid,data/clean_midi/Depeche Mode/Dreaming of Me.mid,synthpop_data/processed/drums_all/Depeche_Mode__Dreaming_of_Me.mid,2,1334,4,135.000135000135,215.0627479
+Depeche Mode,Enjoy the Silence.1.mid,data/clean_midi/Depeche Mode/Enjoy the Silence.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Enjoy_the_Silence.1.mid,6,2517,10,120.0,212.05208333333337
+Depeche Mode,Enjoy the Silence.mid,data/clean_midi/Depeche Mode/Enjoy the Silence.mid,synthpop_data/processed/drums_all/Depeche_Mode__Enjoy_the_Silence.mid,1,1826,7,115.00201253521936,254.65586953125
+Depeche Mode,Everything Counts.1.mid,data/clean_midi/Depeche Mode/Everything Counts.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Everything_Counts.1.mid,1,1908,12,108.000108000108,217.772930375
+Depeche Mode,Everything Counts.2.mid,data/clean_midi/Depeche Mode/Everything Counts.2.mid,synthpop_data/processed/drums_all/Depeche_Mode__Everything_Counts.2.mid,2,1836,11,109.00014170018422,235.59143685
+Depeche Mode,Everything Counts.mid,data/clean_midi/Depeche Mode/Everything Counts.mid,synthpop_data/processed/drums_all/Depeche_Mode__Everything_Counts.mid,1,1908,12,108.000108000108,217.77177296875
+Depeche Mode,Fly on the Windscreen (Final).mid,data/clean_midi/Depeche Mode/Fly on the Windscreen (Final).mid,synthpop_data/processed/drums_all/Depeche_Mode__Fly_on_the_Windscreen_(Final).mid,2,2365,6,94.999992083334,333.42634357500003
+Depeche Mode,I Sometimes Wish I Was Dead.mid,data/clean_midi/Depeche Mode/I Sometimes Wish I Was Dead.mid,synthpop_data/processed/drums_all/Depeche_Mode__I_Sometimes_Wish_I_Was_Dead.mid,1,276,2,127.000254000508,138.18869999999998
+Depeche Mode,Ice Machine.1.mid,data/clean_midi/Depeche Mode/Ice Machine.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Ice_Machine.1.mid,1,1529,6,135.000135000135,234.666432
+Depeche Mode,Ice Machine.mid,data/clean_midi/Depeche Mode/Ice Machine.mid,synthpop_data/processed/drums_all/Depeche_Mode__Ice_Machine.mid,1,907,1,112.0000597333652,299.99984000000006
+Depeche Mode,In Your Room.mid,data/clean_midi/Depeche Mode/In Your Room.mid,synthpop_data/processed/drums_all/Depeche_Mode__In_Your_Room.mid,1,3141,10,99.000099000099,390.26476125
+Depeche Mode,It's No Good.mid,data/clean_midi/Depeche Mode/It's No Good.mid,synthpop_data/processed/drums_all/Depeche_Mode__It's_No_Good.mid,3,4501,6,99.19995238402284,358.2410993750001
+Depeche Mode,Just Can't Get Enough.1.mid,data/clean_midi/Depeche Mode/Just Can't Get Enough.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Just_Can't_Get_Enough.1.mid,3,888,3,130.00013000013,177.23059199999997
+Depeche Mode,Just Can't Get Enough.2.mid,data/clean_midi/Depeche Mode/Just Can't Get Enough.2.mid,synthpop_data/processed/drums_all/Depeche_Mode__Just_Can't_Get_Enough.2.mid,4,1252,5,128.0,184.0673828125
+Depeche Mode,Just Can't Get Enough.3.mid,data/clean_midi/Depeche Mode/Just Can't Get Enough.3.mid,synthpop_data/processed/drums_all/Depeche_Mode__Just_Can't_Get_Enough.3.mid,1,1377,4,130.0023833770286,230.765
+Depeche Mode,Just Can't Get Enough.mid,data/clean_midi/Depeche Mode/Just Can't Get Enough.mid,synthpop_data/processed/drums_all/Depeche_Mode__Just_Can't_Get_Enough.mid,1,1377,4,130.00013000013,259.4997405
+Depeche Mode,Master and Servant.1.mid,data/clean_midi/Depeche Mode/Master and Servant.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Master_and_Servant.1.mid,1,1180,4,126.000126000126,216.66248175
+Depeche Mode,Master and Servant.2.mid,data/clean_midi/Depeche Mode/Master and Servant.2.mid,synthpop_data/processed/drums_all/Depeche_Mode__Master_and_Servant.2.mid,1,1924,16,126.00012600012602,221.79789328124997
+Depeche Mode,Master and Servant.mid,data/clean_midi/Depeche Mode/Master and Servant.mid,synthpop_data/processed/drums_all/Depeche_Mode__Master_and_Servant.mid,1,1180,4,126.00012600012602,216.66148968749997
+Depeche Mode,Never Let Me Down Again.mid,data/clean_midi/Depeche Mode/Never Let Me Down Again.mid,synthpop_data/processed/drums_all/Depeche_Mode__Never_Let_Me_Down_Again.mid,5,3107,5,109.00014170018424,281.83449599999994
+Depeche Mode,New Life (remix).mid,data/clean_midi/Depeche Mode/New Life (remix).mid,synthpop_data/processed/drums_all/Depeche_Mode__New_Life_(remix).mid,1,3636,6,159.0002067002687,239.056293
+Depeche Mode,New Life.mid,data/clean_midi/Depeche Mode/New Life.mid,synthpop_data/processed/drums_all/Depeche_Mode__New_Life.mid,1,3152,6,159.0002067002687,223.584615
+Depeche Mode,No Disco.mid,data/clean_midi/Depeche Mode/No Disco.mid,synthpop_data/processed/drums_all/Depeche_Mode__No_Disco.mid,1,765,3,123.00022140039852,256.584904
+Depeche Mode,People Are People.mid,data/clean_midi/Depeche Mode/People Are People.mid,synthpop_data/processed/drums_all/Depeche_Mode__People_Are_People.mid,1,990,5,120.0,230.0
+Depeche Mode,Personal Jesus.mid,data/clean_midi/Depeche Mode/Personal Jesus.mid,synthpop_data/processed/drums_all/Depeche_Mode__Personal_Jesus.mid,1,4260,16,135.06668917778154,204.3435
+Depeche Mode,Photographic.1.mid,data/clean_midi/Depeche Mode/Photographic.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Photographic.1.mid,4,1696,4,120.0,256.0
+Depeche Mode,Photographic.2.mid,data/clean_midi/Depeche Mode/Photographic.2.mid,synthpop_data/processed/drums_all/Depeche_Mode__Photographic.2.mid,2,856,2,155.00271254746957,278.70480000000003
+Depeche Mode,Photographic.3.mid,data/clean_midi/Depeche Mode/Photographic.3.mid,synthpop_data/processed/drums_all/Depeche_Mode__Photographic.3.mid,1,856,2,146.00032120070665,266.3281812
+Depeche Mode,Photographic.mid,data/clean_midi/Depeche Mode/Photographic.mid,synthpop_data/processed/drums_all/Depeche_Mode__Photographic.mid,1,824,2,150.0,286.5
+Depeche Mode,Pipeline.mid,data/clean_midi/Depeche Mode/Pipeline.mid,synthpop_data/processed/drums_all/Depeche_Mode__Pipeline.mid,3,504,4,80.0,209.8125
+Depeche Mode,Policy of Truth.1.mid,data/clean_midi/Depeche Mode/Policy of Truth.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Policy_of_Truth.1.mid,1,308,2,110.00011000011,192.999807
+Depeche Mode,Policy of Truth.mid,data/clean_midi/Depeche Mode/Policy of Truth.mid,synthpop_data/processed/drums_all/Depeche_Mode__Policy_of_Truth.mid,1,1748,6,120.0,233.97916666666663
+Depeche Mode,Puppets.1.mid,data/clean_midi/Depeche Mode/Puppets.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Puppets.1.mid,2,1120,4,120.0,251.70833333333337
+Depeche Mode,Puppets.mid,data/clean_midi/Depeche Mode/Puppets.mid,synthpop_data/processed/drums_all/Depeche_Mode__Puppets.mid,1,1908,6,120.0,216.51302083333331
+Depeche Mode,Shake the Disease.1.mid,data/clean_midi/Depeche Mode/Shake the Disease.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Shake_the_Disease.1.mid,1,1529,4,120.0,261.99583333333334
+Depeche Mode,Shout (Rio mix).mid,data/clean_midi/Depeche Mode/Shout (Rio mix).mid,synthpop_data/processed/drums_all/Depeche_Mode__Shout_(Rio_mix).mid,1,5766,10,118.500026662506,453.1433579583333
+Depeche Mode,Shout.mid,data/clean_midi/Depeche Mode/Shout.mid,synthpop_data/processed/drums_all/Depeche_Mode__Shout.mid,1,3007,9,118.500026662506,226.835392
+Depeche Mode,Strange Love.1.mid,data/clean_midi/Depeche Mode/Strange Love.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Strange_Love.1.mid,4,1033,4,120.0,171.48958333333331
+Depeche Mode,Strange Love.mid,data/clean_midi/Depeche Mode/Strange Love.mid,synthpop_data/processed/drums_all/Depeche_Mode__Strange_Love.mid,1,1033,4,120.0,173.48958333333331
+Depeche Mode,Strangelove.1.mid,data/clean_midi/Depeche Mode/Strangelove.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Strangelove.1.mid,4,1033,4,120.0,171.48958333333331
+Depeche Mode,Strangelove.mid,data/clean_midi/Depeche Mode/Strangelove.mid,synthpop_data/processed/drums_all/Depeche_Mode__Strangelove.mid,1,1033,4,120.0,171.48958333333331
+Depeche Mode,The Things You Said.1.mid,data/clean_midi/Depeche Mode/The Things You Said.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__The_Things_You_Said.1.mid,1,677,3,110.00011000011,175.3543701
+Depeche Mode,The Things You Said.mid,data/clean_midi/Depeche Mode/The Things You Said.mid,synthpop_data/processed/drums_all/Depeche_Mode__The_Things_You_Said.mid,2,596,3,115.0000287500072,185.543431875
+Depeche Mode,Tora! Tora! Tora!.1.mid,data/clean_midi/Depeche Mode/Tora! Tora! Tora!.1.mid,synthpop_data/processed/drums_all/Depeche_Mode__Tora!_Tora!_Tora!.1.mid,1,3887,13,118.00013373348489,275.7200265
+Depeche Mode,Walking in My Shoes.mid,data/clean_midi/Depeche Mode/Walking in My Shoes.mid,synthpop_data/processed/drums_all/Depeche_Mode__Walking_in_My_Shoes.mid,1,3557,8,94.00115934763195,315.5812141666667
+Duran Duran,A View To A Kill.1.mid,data/clean_midi/Duran Duran/A View To A Kill.1.mid,synthpop_data/processed/drums_all/Duran_Duran__A_View_To_A_Kill.1.mid,3,1148,12,126.99998518333504,220.6555375541667
+Duran Duran,A View To A Kill.2.mid,data/clean_midi/Duran Duran/A View To A Kill.2.mid,synthpop_data/processed/drums_all/Duran_Duran__A_View_To_A_Kill.2.mid,1,1148,12,126.99003974788243,220.67281855833335
+Duran Duran,A View To A Kill.3.mid,data/clean_midi/Duran Duran/A View To A Kill.3.mid,synthpop_data/processed/drums_all/Duran_Duran__A_View_To_A_Kill.3.mid,3,1148,12,126.99998518333504,220.6555375541667
+Duran Duran,A View To A Kill.mid,data/clean_midi/Duran Duran/A View To A Kill.mid,synthpop_data/processed/drums_all/Duran_Duran__A_View_To_A_Kill.mid,1,1148,12,126.99003974788243,220.67281855833335
+Duran Duran,Come Undone.2.mid,data/clean_midi/Duran Duran/Come Undone.2.mid,synthpop_data/processed/drums_all/Duran_Duran__Come_Undone.2.mid,1,2463,9,100.05002501250624,220.6896
+Duran Duran,Come Undone.3.mid,data/clean_midi/Duran Duran/Come Undone.3.mid,synthpop_data/processed/drums_all/Duran_Duran__Come_Undone.3.mid,1,2463,9,100.05002501250624,220.6896
+Duran Duran,Come Undone.4.mid,data/clean_midi/Duran Duran/Come Undone.4.mid,synthpop_data/processed/drums_all/Duran_Duran__Come_Undone.4.mid,1,2467,9,100.05002501250624,218.2908
+Duran Duran,Come Undone.5.mid,data/clean_midi/Duran Duran/Come Undone.5.mid,synthpop_data/processed/drums_all/Duran_Duran__Come_Undone.5.mid,1,2467,9,100.04935768312367,218.292256
+Duran Duran,Come Undone.mid,data/clean_midi/Duran Duran/Come Undone.mid,synthpop_data/processed/drums_all/Duran_Duran__Come_Undone.mid,1,4074,10,87.00065250489381,282.92891249999997
+Duran Duran,Downtown.mid,data/clean_midi/Duran Duran/Downtown.mid,synthpop_data/processed/drums_all/Duran_Duran__Downtown.mid,1,1835,10,120.0,196.13802083333331
+Duran Duran,Girls On Film.mid,data/clean_midi/Duran Duran/Girls On Film.mid,synthpop_data/processed/drums_all/Duran_Duran__Girls_On_Film.mid,3,2300,11,132.20023046906846,214.0786736875
+Duran Duran,Girls on Film.1.mid,data/clean_midi/Duran Duran/Girls on Film.1.mid,synthpop_data/processed/drums_all/Duran_Duran__Girls_on_Film.1.mid,1,1857,12,105.00157502362536,285.9123779166667
+Duran Duran,Hungry Like The Wolf (Night Version).mid,data/clean_midi/Duran Duran/Hungry Like The Wolf (Night Version).mid,synthpop_data/processed/drums_all/Duran_Duran__Hungry_Like_The_Wolf_(Night_Version).mid,1,1210,7,134.00005806669182,204.26483685833333
+Duran Duran,Hungry Like a Wolf.1.mid,data/clean_midi/Duran Duran/Hungry Like a Wolf.1.mid,synthpop_data/processed/drums_all/Duran_Duran__Hungry_Like_a_Wolf.1.mid,1,1646,9,120.0,200.0
+Duran Duran,Hungry Like a Wolf.mid,data/clean_midi/Duran Duran/Hungry Like a Wolf.mid,synthpop_data/processed/drums_all/Duran_Duran__Hungry_Like_a_Wolf.mid,1,1646,9,120.0,200.0
+Duran Duran,New Moon on Monday.1.mid,data/clean_midi/Duran Duran/New Moon on Monday.1.mid,synthpop_data/processed/drums_all/Duran_Duran__New_Moon_on_Monday.1.mid,3,2524,11,120.0,264.00416666666666
+Duran Duran,New Moon on Monday.mid,data/clean_midi/Duran Duran/New Moon on Monday.mid,synthpop_data/processed/drums_all/Duran_Duran__New_Moon_on_Monday.mid,3,2524,11,120.0,264.00416666666666
+Duran Duran,Notorious.1.mid,data/clean_midi/Duran Duran/Notorious.1.mid,synthpop_data/processed/drums_all/Duran_Duran__Notorious.1.mid,2,2146,9,107.00012661681652,236.53593505208332
+Duran Duran,Notorious.2.mid,data/clean_midi/Duran Duran/Notorious.2.mid,synthpop_data/processed/drums_all/Duran_Duran__Notorious.2.mid,1,2145,9,107.00012661681652,238.77892305208331
+Duran Duran,Notorious.mid,data/clean_midi/Duran Duran/Notorious.mid,synthpop_data/processed/drums_all/Duran_Duran__Notorious.mid,1,2146,9,107.00146235331884,238.7759422916667
+Duran Duran,Notorius.mid,data/clean_midi/Duran Duran/Notorius.mid,synthpop_data/processed/drums_all/Duran_Duran__Notorius.mid,1,2145,9,107.00012661681652,238.77892305208331
+Duran Duran,Ordinary World.2.mid,data/clean_midi/Duran Duran/Ordinary World.2.mid,synthpop_data/processed/drums_all/Duran_Duran__Ordinary_World.2.mid,1,1413,11,70.00023333411112,301.71328
+Duran Duran,Ordinary World.mid,data/clean_midi/Duran Duran/Ordinary World.mid,synthpop_data/processed/drums_all/Duran_Duran__Ordinary_World.mid,1,1732,13,138.000828004968,262.2878284375
+Duran Duran,Rio.1.mid,data/clean_midi/Duran Duran/Rio.1.mid,synthpop_data/processed/drums_all/Duran_Duran__Rio.1.mid,6,3303,8,131.00007641671124,304.13150197916667
+Duran Duran,Rio.mid,data/clean_midi/Duran Duran/Rio.mid,synthpop_data/processed/drums_all/Duran_Duran__Rio.mid,6,3303,8,131.00007641671124,304.13150197916667
+Duran Duran,Save a Prayer.1.mid,data/clean_midi/Duran Duran/Save a Prayer.1.mid,synthpop_data/processed/drums_all/Duran_Duran__Save_a_Prayer.1.mid,2,1883,7,113.00009605008168,335.6634315
+Duran Duran,Save a Prayer.mid,data/clean_midi/Duran Duran/Save a Prayer.mid,synthpop_data/processed/drums_all/Duran_Duran__Save_a_Prayer.mid,1,1883,7,113.00009605008168,335.6634315
+Duran Duran,The Chauffeur.1.mid,data/clean_midi/Duran Duran/The Chauffeur.1.mid,synthpop_data/processed/drums_all/Duran_Duran__The_Chauffeur.1.mid,1,2455,16,82.00003553334875,321.69498254999996
+Duran Duran,The Chauffeur.mid,data/clean_midi/Duran Duran/The Chauffeur.mid,synthpop_data/processed/drums_all/Duran_Duran__The_Chauffeur.mid,1,1601,13,89.99995500002248,202.666768
+Duran Duran,The Reflex.1.mid,data/clean_midi/Duran Duran/The Reflex.1.mid,synthpop_data/processed/drums_all/Duran_Duran__The_Reflex.1.mid,1,3512,13,122.99996925000768,277.45332139583337
+Duran Duran,The Reflex.2.mid,data/clean_midi/Duran Duran/The Reflex.2.mid,synthpop_data/processed/drums_all/Duran_Duran__The_Reflex.2.mid,1,3512,13,122.99996925000768,277.45332139583337
+Duran Duran,The Reflex.mid,data/clean_midi/Duran Duran/The Reflex.mid,synthpop_data/processed/drums_all/Duran_Duran__The_Reflex.mid,1,3512,13,123.00022140039852,277.45275261666666
+Duran Duran,The Wild Boys.1.mid,data/clean_midi/Duran Duran/The Wild Boys.1.mid,synthpop_data/processed/drums_all/Duran_Duran__The_Wild_Boys.1.mid,1,2998,7,116.99988885010558,241.41048575
+Duran Duran,The Wild Boys.mid,data/clean_midi/Duran Duran/The Wild Boys.mid,synthpop_data/processed/drums_all/Duran_Duran__The_Wild_Boys.mid,1,2998,7,116.99988885010558,241.41048575
+Duran Duran,Union of the Snake.1.mid,data/clean_midi/Duran Duran/Union of the Snake.1.mid,synthpop_data/processed/drums_all/Duran_Duran__Union_of_the_Snake.1.mid,1,2713,12,107.5000143750036,263.03471700000006
+Duran Duran,Union of the Snake.mid,data/clean_midi/Duran Duran/Union of the Snake.mid,synthpop_data/processed/drums_all/Duran_Duran__Union_of_the_Snake.mid,1,2713,12,117.5000143750036,262.93471700000003
+Erasure,A Little Respect.1.mid,data/clean_midi/Erasure/A Little Respect.1.mid,synthpop_data/processed/drums_all/Erasure__A_Little_Respect.1.mid,4,1267,9,113.99995440001828,210.52639999999997
+Erasure,A Little Respect.2.mid,data/clean_midi/Erasure/A Little Respect.2.mid,synthpop_data/processed/drums_all/Erasure__A_Little_Respect.2.mid,1,1267,9,114.00125401379417,212.62924
+Erasure,A Little Respect.3.mid,data/clean_midi/Erasure/A Little Respect.3.mid,synthpop_data/processed/drums_all/Erasure__A_Little_Respect.3.mid,1,1267,9,114.00017100025649,210.526
+Erasure,A Little Respect.4.mid,data/clean_midi/Erasure/A Little Respect.4.mid,synthpop_data/processed/drums_all/Erasure__A_Little_Respect.4.mid,4,1267,9,114.00017100025649,210.526
+Erasure,A Little Respect.mid,data/clean_midi/Erasure/A Little Respect.mid,synthpop_data/processed/drums_all/Erasure__A_Little_Respect.mid,4,1267,9,114.00017100025649,210.526
+Erasure,Abba-Esque (Take a Chance On Me).mid,data/clean_midi/Erasure/Abba-Esque (Take a Chance On Me).mid,synthpop_data/processed/drums_all/Erasure__Abba-Esque_(Take_a_Chance_On_Me).mid,1,4603,11,122.00180562672328,252.562860375
+Erasure,Always.1.mid,data/clean_midi/Erasure/Always.1.mid,synthpop_data/processed/drums_all/Erasure__Always.1.mid,4,1599,11,104.00001386666852,238.846122
+Erasure,Always.2.mid,data/clean_midi/Erasure/Always.2.mid,synthpop_data/processed/drums_all/Erasure__Always.2.mid,4,1599,11,104.00001386666852,238.846122
+Erasure,Always.3.mid,data/clean_midi/Erasure/Always.3.mid,synthpop_data/processed/drums_all/Erasure__Always.3.mid,1,1599,11,104.00001386666852,238.846122
+Erasure,Always.mid,data/clean_midi/Erasure/Always.mid,synthpop_data/processed/drums_all/Erasure__Always.mid,1,2084,9,103.00075533887248,229.440065
+Erasure,Blue Savannah.1.mid,data/clean_midi/Erasure/Blue Savannah.1.mid,synthpop_data/processed/drums_all/Erasure__Blue_Savannah.1.mid,5,2693,8,135.000135000135,229.3812521
+Erasure,Blue Savannah.2.mid,data/clean_midi/Erasure/Blue Savannah.2.mid,synthpop_data/processed/drums_all/Erasure__Blue_Savannah.2.mid,1,2693,8,135.00135001350014,231.1550958333333
+Erasure,Blue Savannah.mid,data/clean_midi/Erasure/Blue Savannah.mid,synthpop_data/processed/drums_all/Erasure__Blue_Savannah.mid,5,2693,8,135.000135000135,229.3812521
+Erasure,Breath of Life.1.mid,data/clean_midi/Erasure/Breath of Life.1.mid,synthpop_data/processed/drums_all/Erasure__Breath_of_Life.1.mid,1,2392,15,132.9999468000213,234.567763
+Erasure,Breath of Life.2.mid,data/clean_midi/Erasure/Breath of Life.2.mid,synthpop_data/processed/drums_all/Erasure__Breath_of_Life.2.mid,1,2392,15,132.9999468000213,234.567763
+Erasure,Breath of Life.mid,data/clean_midi/Erasure/Breath of Life.mid,synthpop_data/processed/drums_all/Erasure__Breath_of_Life.mid,1,205,5,132.000132000132,245.908845
+Erasure,Chains of Love.1.mid,data/clean_midi/Erasure/Chains of Love.1.mid,synthpop_data/processed/drums_all/Erasure__Chains_of_Love.1.mid,4,1520,8,105.50012140014206,234.11759710000004
+Erasure,Chains of Love.2.mid,data/clean_midi/Erasure/Chains of Love.2.mid,synthpop_data/processed/drums_all/Erasure__Chains_of_Love.2.mid,4,1520,8,105.50012140014206,232.1503851
+Erasure,Chains of Love.3.mid,data/clean_midi/Erasure/Chains of Love.3.mid,synthpop_data/processed/drums_all/Erasure__Chains_of_Love.3.mid,1,1520,8,105.50151185504536,234.11512083333335
+Erasure,Chains of Love.mid,data/clean_midi/Erasure/Chains of Love.mid,synthpop_data/processed/drums_all/Erasure__Chains_of_Love.mid,1,1520,8,105.50012140014206,234.11759710000004
+Erasure,Fingers & Thumbs (Cold Summer's Day).1.mid,data/clean_midi/Erasure/Fingers & Thumbs (Cold Summer's Day).1.mid,synthpop_data/processed/drums_all/Erasure__Fingers_&_Thumbs_(Cold_Summer's_Day).1.mid,6,3281,11,125.0,299.75600000000003
+Erasure,Fingers & Thumbs (Cold Summer's Day).mid,data/clean_midi/Erasure/Fingers & Thumbs (Cold Summer's Day).mid,synthpop_data/processed/drums_all/Erasure__Fingers_&_Thumbs_(Cold_Summer's_Day).mid,6,3281,11,125.0,299.75600000000003
+Erasure,Glass Angel.mid,data/clean_midi/Erasure/Glass Angel.mid,synthpop_data/processed/drums_all/Erasure__Glass_Angel.mid,5,2925,11,120.0,248.0
+Erasure,Home.1.mid,data/clean_midi/Erasure/Home.1.mid,synthpop_data/processed/drums_all/Erasure__Home.1.mid,4,1033,8,107.5000143750036,252.83472000000003
+Erasure,Home.mid,data/clean_midi/Erasure/Home.mid,synthpop_data/processed/drums_all/Erasure__Home.mid,4,1033,8,107.5000143750036,252.83472000000003
+Erasure,I Love Saturday.mid,data/clean_midi/Erasure/I Love Saturday.mid,synthpop_data/processed/drums_all/Erasure__I_Love_Saturday.mid,4,2673,17,130.00013000013,236.3305329
+Erasure,Magic Moments.1.mid,data/clean_midi/Erasure/Magic Moments.1.mid,synthpop_data/processed/drums_all/Erasure__Magic_Moments.1.mid,3,1090,3,156.00015600015604,156.06715162499998
+Erasure,Magic Moments.mid,data/clean_midi/Erasure/Magic Moments.mid,synthpop_data/processed/drums_all/Erasure__Magic_Moments.mid,3,1090,3,156.00015600015604,156.06715162499998
+Erasure,Man in the Moon.1.mid,data/clean_midi/Erasure/Man in the Moon.1.mid,synthpop_data/processed/drums_all/Erasure__Man_in_the_Moon.1.mid,4,1012,9,118.00013373348489,240.24972771666668
+Erasure,Man in the Moon.mid,data/clean_midi/Erasure/Man in the Moon.mid,synthpop_data/processed/drums_all/Erasure__Man_in_the_Moon.mid,4,1012,9,118.00013373348489,240.24972771666668
+Erasure,Miracle.mid,data/clean_midi/Erasure/Miracle.mid,synthpop_data/processed/drums_all/Erasure__Miracle.mid,3,1910,8,120.0,256.49583333333334
+Erasure,Oh L'Amour.mid,data/clean_midi/Erasure/Oh L'Amour.mid,synthpop_data/processed/drums_all/Erasure__Oh_L'Amour.mid,5,2133,14,82.00003553334875,183.579046375
+Erasure,Oh Lamour.mid,data/clean_midi/Erasure/Oh Lamour.mid,synthpop_data/processed/drums_all/Erasure__Oh_Lamour.mid,5,2133,14,82.00003553334875,183.579046375
+Erasure,Siren Song.mid,data/clean_midi/Erasure/Siren Song.mid,synthpop_data/processed/drums_all/Erasure__Siren_Song.mid,6,1602,6,92.00012880018032,281.89634447500003
+Erasure,So the Story Goes.mid,data/clean_midi/Erasure/So the Story Goes.mid,synthpop_data/processed/drums_all/Erasure__So_the_Story_Goes.mid,7,1802,8,97.5000975000975,234.47873423333337
+Erasure,Sometimes (12'' mix).mid,data/clean_midi/Erasure/Sometimes (12'' mix).mid,synthpop_data/processed/drums_all/Erasure__Sometimes_(12''_mix).mid,5,3158,16,130.00013000013,361.845792
+Erasure,Sometimes.mid,data/clean_midi/Erasure/Sometimes.mid,synthpop_data/processed/drums_all/Erasure__Sometimes.mid,1,1881,9,108.000108000108,250.12127765625
+Erasure,Star.mid,data/clean_midi/Erasure/Star.mid,synthpop_data/processed/drums_all/Erasure__Star.mid,4,2025,7,123.00022140039852,234.389822
+Erasure,Stop!.1.mid,data/clean_midi/Erasure/Stop!.1.mid,synthpop_data/processed/drums_all/Erasure__Stop!.1.mid,5,1805,7,120.0,179.5
+Erasure,Stop!.mid,data/clean_midi/Erasure/Stop!.mid,synthpop_data/processed/drums_all/Erasure__Stop!.mid,5,1805,7,120.0,179.5
+Erasure,Take Me Back.1.mid,data/clean_midi/Erasure/Take Me Back.1.mid,synthpop_data/processed/drums_all/Erasure__Take_Me_Back.1.mid,1,1381,6,83.00032168874807,293.8450858333334
+Erasure,Take Me Back.mid,data/clean_midi/Erasure/Take Me Back.mid,synthpop_data/processed/drums_all/Erasure__Take_Me_Back.mid,4,1381,6,81.50005826671487,290.1613664583333
+Eurythmics,1984.mid,data/clean_midi/Eurythmics/1984.mid,synthpop_data/processed/drums_all/Eurythmics__1984.mid,6,1439,10,136.0001450668214,206.36007400000005
+Eurythmics,Don't Ask Me Why.mid,data/clean_midi/Eurythmics/Don't Ask Me Why.mid,synthpop_data/processed/drums_all/Eurythmics__Don't_Ask_Me_Why.mid,1,2982,8,118.0010620095581,266.7084046875
+Eurythmics,Here Comes the Rain Again.1.mid,data/clean_midi/Eurythmics/Here Comes the Rain Again.1.mid,synthpop_data/processed/drums_all/Eurythmics__Here_Comes_the_Rain_Again.1.mid,2,3552,5,126.00012600012602,310.94710968749996
+Eurythmics,Here Comes the Rain Again.2.mid,data/clean_midi/Eurythmics/Here Comes the Rain Again.2.mid,synthpop_data/processed/drums_all/Eurythmics__Here_Comes_the_Rain_Again.2.mid,1,3141,9,126.00012600012602,310.25266593749996
+Eurythmics,Here Comes the Rain Again.3.mid,data/clean_midi/Eurythmics/Here Comes the Rain Again.3.mid,synthpop_data/processed/drums_all/Eurythmics__Here_Comes_the_Rain_Again.3.mid,1,3141,9,126.000126000126,309.09096075
+Eurythmics,Here Comes the Rain Again.4.mid,data/clean_midi/Eurythmics/Here Comes the Rain Again.4.mid,synthpop_data/processed/drums_all/Eurythmics__Here_Comes_the_Rain_Again.4.mid,2,3552,5,126.00012600012602,310.94710968749996
+Eurythmics,Here Comes the Rain Again.mid,data/clean_midi/Eurythmics/Here Comes the Rain Again.mid,synthpop_data/processed/drums_all/Eurythmics__Here_Comes_the_Rain_Again.mid,2,3552,5,126.00012600012602,310.94710968749996
+Eurythmics,I Saved the World Today.mid,data/clean_midi/Eurythmics/I Saved the World Today.mid,synthpop_data/processed/drums_all/Eurythmics__I_Saved_the_World_Today.mid,1,3660,9,120.0,279.9427083333333
+Eurythmics,It's Alright (Baby's Coming Back).mid,data/clean_midi/Eurythmics/It's Alright (Baby's Coming Back).mid,synthpop_data/processed/drums_all/Eurythmics__It's_Alright_(Baby's_Coming_Back).mid,1,1858,11,96.0,221.86848958333337
+Eurythmics,Love Is a Stranger.1.mid,data/clean_midi/Eurythmics/Love Is a Stranger.1.mid,synthpop_data/processed/drums_all/Eurythmics__Love_Is_a_Stranger.1.mid,1,2483,6,124.000248000496,228.40680125000003
+Eurythmics,Love Is a Stranger.mid,data/clean_midi/Eurythmics/Love Is a Stranger.mid,synthpop_data/processed/drums_all/Eurythmics__Love_Is_a_Stranger.mid,3,2841,7,106.00013780017916,197.03394196875
+Eurythmics,Missionary Man.mid,data/clean_midi/Eurythmics/Missionary Man.mid,synthpop_data/processed/drums_all/Eurythmics__Missionary_Man.mid,1,1487,6,123.00123001230013,236.074875
+Eurythmics,Right by Your Side.mid,data/clean_midi/Eurythmics/Right by Your Side.mid,synthpop_data/processed/drums_all/Eurythmics__Right_by_Your_Side.mid,1,1196,8,85.00004250002125,129.882288
+Eurythmics,Sisters Are Doing It for Themselves.mid,data/clean_midi/Eurythmics/Sisters Are Doing It for Themselves.mid,synthpop_data/processed/drums_all/Eurythmics__Sisters_Are_Doing_It_for_Themselves.mid,1,2494,10,135.00135001350014,297.21925
+Eurythmics,Sweet Dreams.1.mid,data/clean_midi/Eurythmics/Sweet Dreams.1.mid,synthpop_data/processed/drums_all/Eurythmics__Sweet_Dreams.1.mid,1,1181,7,124.000248000496,294.03167
+Eurythmics,Sweet Dreams.2.mid,data/clean_midi/Eurythmics/Sweet Dreams.2.mid,synthpop_data/processed/drums_all/Eurythmics__Sweet_Dreams.2.mid,1,1181,7,123.99999173333389,228.87602332291667
+Eurythmics,Sweet Dreams.3.mid,data/clean_midi/Eurythmics/Sweet Dreams.3.mid,synthpop_data/processed/drums_all/Eurythmics__Sweet_Dreams.3.mid,1,951,14,120.01008084679113,188.05191064583337
+Eurythmics,Sweet Dreams.mid,data/clean_midi/Eurythmics/Sweet Dreams.mid,synthpop_data/processed/drums_all/Eurythmics__Sweet_Dreams.mid,2,1341,6,126.00012600012602,289.5185596875
+Eurythmics,There Must Be an Angel (Playing With My Heart).1.mid,data/clean_midi/Eurythmics/There Must Be an Angel (Playing With My Heart).1.mid,synthpop_data/processed/drums_all/Eurythmics__There_Must_Be_an_Angel_(Playing_With_My_Heart).1.mid,1,2698,12,112.00089600716802,290.33807906250007
+Eurythmics,There Must Be an Angel (Playing With My Heart).2.mid,data/clean_midi/Eurythmics/There Must Be an Angel (Playing With My Heart).2.mid,synthpop_data/processed/drums_all/Eurythmics__There_Must_Be_an_Angel_(Playing_With_My_Heart).2.mid,1,2333,8,110.00011000011,302.170152375
+Eurythmics,There Must Be an Angel (Playing With My Heart).mid,data/clean_midi/Eurythmics/There Must Be an Angel (Playing With My Heart).mid,synthpop_data/processed/drums_all/Eurythmics__There_Must_Be_an_Angel_(Playing_With_My_Heart).mid,1,2333,8,110.00011000011,302.170152375
+Eurythmics,Who's That Girl.1.mid,data/clean_midi/Eurythmics/Who's That Girl.1.mid,synthpop_data/processed/drums_all/Eurythmics__Who's_That_Girl.1.mid,1,1155,6,120.0,229.99479166666663
+Eurythmics,Would I Lie To You?.1.mid,data/clean_midi/Eurythmics/Would I Lie To You?.1.mid,synthpop_data/processed/drums_all/Eurythmics__Would_I_Lie_To_You?.1.mid,1,2272,7,132.00158401900822,268.79412291666665
+Eurythmics,Would I Lie To You?.mid,data/clean_midi/Eurythmics/Would I Lie To You?.mid,synthpop_data/processed/drums_all/Eurythmics__Would_I_Lie_To_You?.mid,1,2272,7,132.000132000132,266.96469515625
+Frankie Goes to Hollywood,Relax (Frankie Goes to Dreamscape).1.mid,data/clean_midi/Frankie Goes to Hollywood/Relax (Frankie Goes to Dreamscape).1.mid,synthpop_data/processed/drums_all/Frankie_Goes_to_Hollywood__Relax_(Frankie_Goes_to_Dreamscape).1.mid,1,1849,13,122.00180562672328,216.4286615625
+Frankie Goes to Hollywood,Relax (Frankie Goes to Dreamscape).mid,data/clean_midi/Frankie Goes to Hollywood/Relax (Frankie Goes to Dreamscape).mid,synthpop_data/processed/drums_all/Frankie_Goes_to_Hollywood__Relax_(Frankie_Goes_to_Dreamscape).mid,1,1849,13,122.00180562672328,216.4286615625
+Frankie Goes to Hollywood,Relax.1.mid,data/clean_midi/Frankie Goes to Hollywood/Relax.1.mid,synthpop_data/processed/drums_all/Frankie_Goes_to_Hollywood__Relax.1.mid,2,1335,8,117.000117000117,228.0125925
+Frankie Goes to Hollywood,Relax.2.mid,data/clean_midi/Frankie Goes to Hollywood/Relax.2.mid,synthpop_data/processed/drums_all/Frankie_Goes_to_Hollywood__Relax.2.mid,1,2950,20,113.99995440001824,241.973781
+Frankie Goes to Hollywood,Relax.3.mid,data/clean_midi/Frankie Goes to Hollywood/Relax.3.mid,synthpop_data/processed/drums_all/Frankie_Goes_to_Hollywood__Relax.3.mid,1,2715,11,121.00189569636592,226.9876628125
+Frankie Goes to Hollywood,Relax.4.mid,data/clean_midi/Frankie Goes to Hollywood/Relax.4.mid,synthpop_data/processed/drums_all/Frankie_Goes_to_Hollywood__Relax.4.mid,1,2801,15,115.00201253521936,240.86535
+Frankie Goes to Hollywood,Relax.mid,data/clean_midi/Frankie Goes to Hollywood/Relax.mid,synthpop_data/processed/drums_all/Frankie_Goes_to_Hollywood__Relax.mid,1,2090,11,116.00030933415822,233.43091433333333
+Frankie Goes to Hollywood,The Power of Love.mid,data/clean_midi/Frankie Goes to Hollywood/The Power of Love.mid,synthpop_data/processed/drums_all/Frankie_Goes_to_Hollywood__The_Power_of_Love.mid,1,739,14,94.99950417369088,298.88810609374997
+Garbage,Hammering in My Head.mid,data/clean_midi/Garbage/Hammering in My Head.mid,synthpop_data/processed/drums_all/Garbage__Hammering_in_My_Head.mid,1,3601,19,145.00003625000906,286.1378595
+Garbage,I Think I'm Paranoid.mid,data/clean_midi/Garbage/I Think I'm Paranoid.mid,synthpop_data/processed/drums_all/Garbage__I_Think_I'm_Paranoid.mid,1,3231,9,115.0000287500072,214.71733762499997
+Garbage,Medication.mid,data/clean_midi/Garbage/Medication.mid,synthpop_data/processed/drums_all/Garbage__Medication.mid,1,3434,16,82.49999286668933,247.42855583333335
+Garbage,Milk.mid,data/clean_midi/Garbage/Milk.mid,synthpop_data/processed/drums_all/Garbage__Milk.mid,1,712,6,94.00012846684224,234.87600878958332
+Garbage,No. 1 Crush.mid,data/clean_midi/Garbage/No. 1 Crush.mid,synthpop_data/processed/drums_all/Garbage__No._1_Crush.mid,3,4049,10,93.99998120000376,278.297928
+Garbage,Not My Idea.mid,data/clean_midi/Garbage/Not My Idea.mid,synthpop_data/processed/drums_all/Garbage__Not_My_Idea.mid,1,1503,7,100.0,230.4
+Garbage,Only Happy When It Rains.1.mid,data/clean_midi/Garbage/Only Happy When It Rains.1.mid,synthpop_data/processed/drums_all/Garbage__Only_Happy_When_It_Rains.1.mid,1,4744,13,120.0,238.0
+Garbage,Push It.1.mid,data/clean_midi/Garbage/Push It.1.mid,synthpop_data/processed/drums_all/Garbage__Push_It.1.mid,1,3905,16,123.99999173333389,250.18953280833335
+Garbage,Push It.mid,data/clean_midi/Garbage/Push It.mid,synthpop_data/processed/drums_all/Garbage__Push_It.mid,1,3905,16,123.99999173333389,250.18953280833335
+Garbage,Queer.1.mid,data/clean_midi/Garbage/Queer.1.mid,synthpop_data/processed/drums_all/Garbage__Queer.1.mid,1,2676,8,100.0,256.8
+Garbage,Queer.mid,data/clean_midi/Garbage/Queer.mid,synthpop_data/processed/drums_all/Garbage__Queer.mid,1,1832,7,90.00009000009,278.3191676041667
+Garbage,Sleep Together.mid,data/clean_midi/Garbage/Sleep Together.mid,synthpop_data/processed/drums_all/Garbage__Sleep_Together.mid,1,4729,15,130.00013000013,236.30745599999997
+Garbage,Special.1.mid,data/clean_midi/Garbage/Special.1.mid,synthpop_data/processed/drums_all/Garbage__Special.1.mid,1,2842,8,140.00014000014,219.856923
+Garbage,Special.mid,data/clean_midi/Garbage/Special.mid,synthpop_data/processed/drums_all/Garbage__Special.mid,1,2842,8,140.00014000014,219.856923
+Garbage,Stupid Girl.1.mid,data/clean_midi/Garbage/Stupid Girl.1.mid,synthpop_data/processed/drums_all/Garbage__Stupid_Girl.1.mid,2,3597,6,120.0,256.3333333333333
+Garbage,Stupid Girl.2.mid,data/clean_midi/Garbage/Stupid Girl.2.mid,synthpop_data/processed/drums_all/Garbage__Stupid_Girl.2.mid,2,3597,6,120.0,256.3333333333333
+Garbage,Stupid Girl.mid,data/clean_midi/Garbage/Stupid Girl.mid,synthpop_data/processed/drums_all/Garbage__Stupid_Girl.mid,2,3597,6,120.0,256.3333333333333
+Garbage,Temptation Waits.mid,data/clean_midi/Garbage/Temptation Waits.mid,synthpop_data/processed/drums_all/Garbage__Temptation_Waits.mid,1,6640,22,125.0,277.92
+Garbage,The World Is Not Enough.mid,data/clean_midi/Garbage/The World Is Not Enough.mid,synthpop_data/processed/drums_all/Garbage__The_World_Is_Not_Enough.mid,1,1696,8,86.00005160003096,234.418464
+Garbage,When I Grow Up.mid,data/clean_midi/Garbage/When I Grow Up.mid,synthpop_data/processed/drums_all/Garbage__When_I_Grow_Up.mid,1,4304,17,130.00013000013,214.7305545
+Garbage,You Look So Fine.mid,data/clean_midi/Garbage/You Look So Fine.mid,synthpop_data/processed/drums_all/Garbage__You_Look_So_Fine.mid,1,7440,21,100.0,328.8
+Howard Jones,Everlasting Love.mid,data/clean_midi/Howard Jones/Everlasting Love.mid,synthpop_data/processed/drums_all/Howard_Jones__Everlasting_Love.mid,11,1805,11,120.0,203.0859375
+Howard Jones,Life in One Day.mid,data/clean_midi/Howard Jones/Life in One Day.mid,synthpop_data/processed/drums_all/Howard_Jones__Life_in_One_Day.mid,1,3982,10,112.0000597333652,257.1371396458334
+Howard Jones,Things Can Only Get Better.1.mid,data/clean_midi/Howard Jones/Things Can Only Get Better.1.mid,synthpop_data/processed/drums_all/Howard_Jones__Things_Can_Only_Get_Better.1.mid,1,4226,16,124.00024800102562,261.54723646875004
+Howard Jones,Things Can Only Get Better.mid,data/clean_midi/Howard Jones/Things Can Only Get Better.mid,synthpop_data/processed/drums_all/Howard_Jones__Things_Can_Only_Get_Better.mid,1,1754,9,112.00089600716802,212.23602531250003
+INXS,Bitter Tears.mid,data/clean_midi/INXS/Bitter Tears.mid,synthpop_data/processed/drums_all/INXS__Bitter_Tears.mid,6,3039,6,120.0,224.3046875
+INXS,Disappear.mid,data/clean_midi/INXS/Disappear.mid,synthpop_data/processed/drums_all/INXS__Disappear.mid,7,2703,7,120.0,339.3333333333333
+INXS,Need You Tonight.mid,data/clean_midi/INXS/Need You Tonight.mid,synthpop_data/processed/drums_all/INXS__Need_You_Tonight.mid,7,1608,7,120.0,158.23697916666666
+INXS,Never Tear Us Apart.1.mid,data/clean_midi/INXS/Never Tear Us Apart.1.mid,synthpop_data/processed/drums_all/INXS__Never_Tear_Us_Apart.1.mid,10,1139,10,120.0,106.15625
+INXS,New Sensation.mid,data/clean_midi/INXS/New Sensation.mid,synthpop_data/processed/drums_all/INXS__New_Sensation.mid,11,2397,11,113.00073450477429,364.06843
+INXS,Not Enough Time.mid,data/clean_midi/INXS/Not Enough Time.mid,synthpop_data/processed/drums_all/INXS__Not_Enough_Time.mid,1,3428,13,96.0,244.375
+INXS,Taste It.mid,data/clean_midi/INXS/Taste It.mid,synthpop_data/processed/drums_all/INXS__Taste_It.mid,1,2859,11,114.50327693459649,207.09239000000005
+INXS,The Swing.1.mid,data/clean_midi/INXS/The Swing.1.mid,synthpop_data/processed/drums_all/INXS__The_Swing.1.mid,1,1301,10,122.99996925000768,236.82932750000003
+INXS,The Swing.mid,data/clean_midi/INXS/The Swing.mid,synthpop_data/processed/drums_all/INXS__The_Swing.mid,1,1301,10,123.00022140039852,236.828842
+INXS,What You Need.2.mid,data/clean_midi/INXS/What You Need.2.mid,synthpop_data/processed/drums_all/INXS__What_You_Need.2.mid,1,1115,7,124.000248000496,190.98752125
+New Order,Bizarre Love Triangle.1.mid,data/clean_midi/New Order/Bizarre Love Triangle.1.mid,synthpop_data/processed/drums_all/New_Order__Bizarre_Love_Triangle.1.mid,15,4354,18,116.99988885010558,409.2311580000001
+New Order,Bizarre Love Triangle.mid,data/clean_midi/New Order/Bizarre Love Triangle.mid,synthpop_data/processed/drums_all/New_Order__Bizarre_Love_Triangle.mid,15,4354,18,118.00013373348489,407.796148
+New Order,Blue Monday.1.mid,data/clean_midi/New Order/Blue Monday.1.mid,synthpop_data/processed/drums_all/New_Order__Blue_Monday.1.mid,9,4366,9,133.00024161710562,454.7360159999999
+New Order,Blue Monday.3.mid,data/clean_midi/New Order/Blue Monday.3.mid,synthpop_data/processed/drums_all/New_Order__Blue_Monday.3.mid,9,4366,10,133.00024161710562,454.7360159999999
+New Order,Blue Monday.mid,data/clean_midi/New Order/Blue Monday.mid,synthpop_data/processed/drums_all/New_Order__Blue_Monday.mid,9,4366,10,132.9999468000213,456.5415359999999
+New Order,True Faith.mid,data/clean_midi/New Order/True Faith.mid,synthpop_data/processed/drums_all/New_Order__True_Faith.mid,5,2325,6,122.00006913337248,327.66374875
+New Order,World.mid,data/clean_midi/New Order/World.mid,synthpop_data/processed/drums_all/New_Order__World.mid,1,6090,13,123.500127000254,285.38131999999996
+OMD,Enola Gay (OMD vs. Sash radio edit).1.mid,data/clean_midi/OMD/Enola Gay (OMD vs. Sash radio edit).1.mid,synthpop_data/processed/drums_all/OMD__Enola_Gay_(OMD_vs._Sash_radio_edit).1.mid,2,1629,6,142.0000710000355,211.2675
+OMD,Enola Gay (OMD vs. Sash radio edit).mid,data/clean_midi/OMD/Enola Gay (OMD vs. Sash radio edit).mid,synthpop_data/processed/drums_all/OMD__Enola_Gay_(OMD_vs._Sash_radio_edit).mid,8,1428,10,100.50001275000638,195.2
+Pet Shop Boys,Always on My Mind   In My House.1.mid,data/clean_midi/Pet Shop Boys/Always on My Mind   In My House.1.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Always_on_My_Mind___In_My_House.1.mid,1,4811,14,124.000248000496,211.18909375
+Pet Shop Boys,Always on My Mind   In My House.2.mid,data/clean_midi/Pet Shop Boys/Always on My Mind   In My House.2.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Always_on_My_Mind___In_My_House.2.mid,1,4565,8,121.00003456668624,135.770416
+Pet Shop Boys,Always on My Mind   In My House.4.mid,data/clean_midi/Pet Shop Boys/Always on My Mind   In My House.4.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Always_on_My_Mind___In_My_House.4.mid,1,7178,12,125.0,241.92
+Pet Shop Boys,Always on My Mind   In My House.mid,data/clean_midi/Pet Shop Boys/Always on My Mind   In My House.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Always_on_My_Mind___In_My_House.mid,1,3594,11,114.00125401379417,296.148058125
+Pet Shop Boys,Always.mid,data/clean_midi/Pet Shop Boys/Always.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Always.mid,2,4984,13,128.0,228.9375
+Pet Shop Boys,Before.mid,data/clean_midi/Pet Shop Boys/Before.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Before.mid,1,7443,16,124.000248000496,249.65801882812505
+Pet Shop Boys,Being Boring.mid,data/clean_midi/Pet Shop Boys/Being Boring.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Being_Boring.mid,2,2878,2,120.0,297.7239583333333
+Pet Shop Boys,Can You Forgive Her.mid,data/clean_midi/Pet Shop Boys/Can You Forgive Her.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Can_You_Forgive_Her.mid,1,202,2,123.00022140039852,218.86139466666668
+Pet Shop Boys,Domino Dancing.mid,data/clean_midi/Pet Shop Boys/Domino Dancing.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Domino_Dancing.mid,1,3740,10,110.0009166743056,263.5887125
+Pet Shop Boys,Go West.1.mid,data/clean_midi/Pet Shop Boys/Go West.1.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Go_West.1.mid,1,4035,6,115.0000287500072,273.34232296874995
+Pet Shop Boys,Go West.2.mid,data/clean_midi/Pet Shop Boys/Go West.2.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Go_West.2.mid,1,2794,6,120.0,314.8125
+Pet Shop Boys,Go West.3.mid,data/clean_midi/Pet Shop Boys/Go West.3.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Go_West.3.mid,1,4035,6,115.00002875000716,273.343409925
+Pet Shop Boys,Go West.4.mid,data/clean_midi/Pet Shop Boys/Go West.4.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Go_West.4.mid,1,4035,6,115.00002875000716,273.343409925
+Pet Shop Boys,Go West.5.mid,data/clean_midi/Pet Shop Boys/Go West.5.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Go_West.5.mid,1,3925,9,120.0,270.8255208333333
+Pet Shop Boys,Go West.6.mid,data/clean_midi/Pet Shop Boys/Go West.6.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Go_West.6.mid,1,4035,6,120.0,261.95416666666665
+Pet Shop Boys,Go West.mid,data/clean_midi/Pet Shop Boys/Go West.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Go_West.mid,1,5595,8,120.0,298.0286458333333
+Pet Shop Boys,Heart.1.mid,data/clean_midi/Pet Shop Boys/Heart.1.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Heart.1.mid,1,4931,19,126.00012600012602,251.40351843749997
+Pet Shop Boys,Heart.mid,data/clean_midi/Pet Shop Boys/Heart.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Heart.mid,4,4931,19,126.000126000126,249.49975050000003
+Pet Shop Boys,I Wouldnt Normally Do This Kind of Thing.mid,data/clean_midi/Pet Shop Boys/I Wouldnt Normally Do This Kind of Thing.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__I_Wouldnt_Normally_Do_This_Kind_of_Thing.mid,3,1663,6,134.00005806669182,177.313356
+Pet Shop Boys,It's Alright.mid,data/clean_midi/Pet Shop Boys/It's Alright.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__It's_Alright.mid,1,3043,11,120.0,228.02083333333331
+Pet Shop Boys,It's a Sin.1.mid,data/clean_midi/Pet Shop Boys/It's a Sin.1.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__It's_a_Sin.1.mid,8,3231,16,127.500065000065,253.80899999999997
+Pet Shop Boys,It's a Sin.3.mid,data/clean_midi/Pet Shop Boys/It's a Sin.3.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__It's_a_Sin.3.mid,1,2060,13,128.0,286.77978515625
+Pet Shop Boys,It's a Sin.4.mid,data/clean_midi/Pet Shop Boys/It's a Sin.4.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__It's_a_Sin.4.mid,1,3100,16,127.500065000065,252.655155
+Pet Shop Boys,It's a Sin.mid,data/clean_midi/Pet Shop Boys/It's a Sin.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__It's_a_Sin.mid,1,2932,8,126.00012600012602,355.55519999999996
+Pet Shop Boys,Liberation.1.mid,data/clean_midi/Pet Shop Boys/Liberation.1.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Liberation.1.mid,1,3896,8,107.00012661681652,253.57446629166665
+Pet Shop Boys,Liberation.mid,data/clean_midi/Pet Shop Boys/Liberation.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Liberation.mid,1,3896,8,107.00146235331884,255.81426083333335
+Pet Shop Boys,One in a Million.1.mid,data/clean_midi/Pet Shop Boys/One in a Million.1.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__One_in_a_Million.1.mid,2,1791,9,129.00007740004645,226.79056159999996
+Pet Shop Boys,One in a Million.2.mid,data/clean_midi/Pet Shop Boys/One in a Million.2.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__One_in_a_Million.2.mid,2,1791,9,129.00007740004645,226.79056159999996
+Pet Shop Boys,One in a Million.mid,data/clean_midi/Pet Shop Boys/One in a Million.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__One_in_a_Million.mid,1,1791,9,129.0017415235106,228.64759151041665
+Pet Shop Boys,Paninaro '95.1.mid,data/clean_midi/Pet Shop Boys/Paninaro '95.1.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Paninaro_'95.1.mid,1,5842,17,124.000248000496,253.5075575
+Pet Shop Boys,Paninaro '95.mid,data/clean_midi/Pet Shop Boys/Paninaro '95.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Paninaro_'95.mid,1,5836,16,124.000248000496,253.5075575
+Pet Shop Boys,Se a Vida E (That's the Way Life Is).1.mid,data/clean_midi/Pet Shop Boys/Se a Vida E (That's the Way Life Is).1.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Se_a_Vida_E_(That's_the_Way_Life_Is).1.mid,2,5584,26,91.99998773333496,265.9239485
+Pet Shop Boys,Se a Vida E (That's the Way Life Is).mid,data/clean_midi/Pet Shop Boys/Se a Vida E (That's the Way Life Is).mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Se_a_Vida_E_(That's_the_Way_Life_Is).mid,1,7018,18,93.00004185001885,263.870849
+Pet Shop Boys,So Hard.1.mid,data/clean_midi/Pet Shop Boys/So Hard.1.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__So_Hard.1.mid,1,4619,8,124.000248000496,231.23945687500003
+Pet Shop Boys,So Hard.mid,data/clean_midi/Pet Shop Boys/So Hard.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__So_Hard.mid,3,4619,8,124.000248000496,229.305993
+Pet Shop Boys,West End Girls.1.mid,data/clean_midi/Pet Shop Boys/West End Girls.1.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__West_End_Girls.1.mid,1,3141,11,114.0001710002565,271.58128122395834
+Pet Shop Boys,West End Girls.2.mid,data/clean_midi/Pet Shop Boys/West End Girls.2.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__West_End_Girls.2.mid,2,3141,11,114.0001710002565,271.58128122395834
+Pet Shop Boys,West End Girls.3.mid,data/clean_midi/Pet Shop Boys/West End Girls.3.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__West_End_Girls.3.mid,2,3141,11,113.99995440001824,273.68706122916666
+Pet Shop Boys,West End Girls.4.mid,data/clean_midi/Pet Shop Boys/West End Girls.4.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__West_End_Girls.4.mid,5,3137,11,114.00125401379417,358.5048283333333
+Pet Shop Boys,West End Girls.mid,data/clean_midi/Pet Shop Boys/West End Girls.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__West_End_Girls.mid,1,2567,10,115.00201253521936,236.8599853125
+Pet Shop Boys,What Have I Done to Deserve This.mid,data/clean_midi/Pet Shop Boys/What Have I Done to Deserve This.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__What_Have_I_Done_to_Deserve_This.mid,2,3754,6,114.00125401379417,350.33057614583333
+Pet Shop Boys,Where the Streets Have No Name.mid,data/clean_midi/Pet Shop Boys/Where the Streets Have No Name.mid,synthpop_data/processed/drums_all/Pet_Shop_Boys__Where_the_Streets_Have_No_Name.mid,1,3678,10,127.000254000508,349.76307999999995
+Robyn,Show Me Love.mid,data/clean_midi/Robyn/Show Me Love.mid,synthpop_data/processed/drums_all/Robyn__Show_Me_Love.mid,1,1156,9,91.99998773333496,86.086968
+Simple Minds,Alive & Kicking.1.mid,data/clean_midi/Simple Minds/Alive & Kicking.1.mid,synthpop_data/processed/drums_all/Simple_Minds__Alive_&_Kicking.1.mid,1,2246,12,103.00075533887248,308.73560000000003
+Simple Minds,Alive & Kicking.mid,data/clean_midi/Simple Minds/Alive & Kicking.mid,synthpop_data/processed/drums_all/Simple_Minds__Alive_&_Kicking.mid,1,2246,12,103.0000480666891,306.40762399999994
+Simple Minds,Don't You (Forget About Me).1.mid,data/clean_midi/Simple Minds/Don't You (Forget About Me).1.mid,synthpop_data/processed/drums_all/Simple_Minds__Don't_You_(Forget_About_Me).1.mid,1,2138,11,114.0001710002565,254.66518817708337
+Simple Minds,Don't You (Forget About Me).2.mid,data/clean_midi/Simple Minds/Don't You (Forget About Me).2.mid,synthpop_data/processed/drums_all/Simple_Minds__Don't_You_(Forget_About_Me).2.mid,1,1926,15,114.00125401379417,263.14951760416665
+Simple Minds,Don't You (Forget About Me).3.mid,data/clean_midi/Simple Minds/Don't You (Forget About Me).3.mid,synthpop_data/processed/drums_all/Simple_Minds__Don't_You_(Forget_About_Me).3.mid,1,2763,13,102.49999187501484,274.16660125
+Simple Minds,Don't You (Forget About Me).4.mid,data/clean_midi/Simple Minds/Don't You (Forget About Me).4.mid,synthpop_data/processed/drums_all/Simple_Minds__Don't_You_(Forget_About_Me).4.mid,1,1925,14,114.0001710002565,259.473295
+Simple Minds,Don't You (Forget About Me).mid,data/clean_midi/Simple Minds/Don't You (Forget About Me).mid,synthpop_data/processed/drums_all/Simple_Minds__Don't_You_(Forget_About_Me).mid,1,1925,14,117.00008550012824,265.22822156250004
+Simple Minds,Mandela Day.1.mid,data/clean_midi/Simple Minds/Mandela Day.1.mid,synthpop_data/processed/drums_all/Simple_Minds__Mandela_Day.1.mid,1,2328,17,96.0,237.11641347916665
+Simple Minds,Mandela Day.mid,data/clean_midi/Simple Minds/Mandela Day.mid,synthpop_data/processed/drums_all/Simple_Minds__Mandela_Day.mid,1,2328,17,96.0,237.11016347916663
+Simple Minds,She's a River.1.mid,data/clean_midi/Simple Minds/She's a River.1.mid,synthpop_data/processed/drums_all/Simple_Minds__She's_a_River.1.mid,1,2265,10,93.00004185001885,283.628904625
+Simple Minds,She's a River.mid,data/clean_midi/Simple Minds/She's a River.mid,synthpop_data/processed/drums_all/Simple_Minds__She's_a_River.mid,1,5025,23,93.000186000372,264.9524270833333
+Soft Cell,Something's Gotten Hold of My Heart.mid,data/clean_midi/Soft Cell/Something's Gotten Hold of My Heart.mid,synthpop_data/processed/drums_all/Soft_Cell__Something's_Gotten_Hold_of_My_Heart.mid,1,990,17,90.0009000090001,110.70722625
+Soft Cell,Tainted Love.1.mid,data/clean_midi/Soft Cell/Tainted Love.1.mid,synthpop_data/processed/drums_all/Soft_Cell__Tainted_Love.1.mid,6,909,7,146.00742691111554,167.62631886458334
+Soft Cell,Tainted Love.2.mid,data/clean_midi/Soft Cell/Tainted Love.2.mid,synthpop_data/processed/drums_all/Soft_Cell__Tainted_Love.2.mid,1,1689,8,140.00046666822223,230.3697678125
+Soft Cell,Tainted Love.mid,data/clean_midi/Soft Cell/Tainted Love.mid,synthpop_data/processed/drums_all/Soft_Cell__Tainted_Love.mid,1,2029,6,144.00921658986175,176.39754000000002
+Spandau Ballet,Gold.1.mid,data/clean_midi/Spandau Ballet/Gold.1.mid,synthpop_data/processed/drums_all/Spandau_Ballet__Gold.1.mid,1,1810,16,143.03082314238722,228.88423124999997
+Spandau Ballet,Gold.mid,data/clean_midi/Spandau Ballet/Gold.mid,synthpop_data/processed/drums_all/Spandau_Ballet__Gold.mid,1,1814,16,143.00014300014297,228.9333375
+Spandau Ballet,True.1.mid,data/clean_midi/Spandau Ballet/True.1.mid,synthpop_data/processed/drums_all/Spandau_Ballet__True.1.mid,2,1419,12,100.0,307.195
+Spandau Ballet,True.2.mid,data/clean_midi/Spandau Ballet/True.2.mid,synthpop_data/processed/drums_all/Spandau_Ballet__True.2.mid,1,1011,6,100.0,224.40625
+Spandau Ballet,True.3.mid,data/clean_midi/Spandau Ballet/True.3.mid,synthpop_data/processed/drums_all/Spandau_Ballet__True.3.mid,1,1598,9,98.00270487465454,349.01173100000005
+Spandau Ballet,True.mid,data/clean_midi/Spandau Ballet/True.mid,synthpop_data/processed/drums_all/Spandau_Ballet__True.mid,2,1419,12,100.0,307.19375
+Talk Talk,It's My Life.mid,data/clean_midi/Talk Talk/It's My Life.mid,synthpop_data/processed/drums_all/Talk_Talk__It's_My_Life.mid,2,2334,21,125.0,261.18
+Talk Talk,Such a Shame.mid,data/clean_midi/Talk Talk/Such a Shame.mid,synthpop_data/processed/drums_all/Talk_Talk__Such_a_Shame.mid,1,2647,10,123.00123001230013,315.62184375
+Tears for Fears,Everybody Wants To Rule The World.1.mid,data/clean_midi/Tears for Fears/Everybody Wants To Rule The World.1.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Everybody_Wants_To_Rule_The_World.1.mid,3,1886,6,110.00011000011,210.69013021875
+Tears for Fears,Everybody Wants To Rule The World.2.mid,data/clean_midi/Tears for Fears/Everybody Wants To Rule The World.2.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Everybody_Wants_To_Rule_The_World.2.mid,3,1886,6,109.99990833340972,210.690516484375
+Tears for Fears,Everybody Wants To Rule The World.3.mid,data/clean_midi/Tears for Fears/Everybody Wants To Rule The World.3.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Everybody_Wants_To_Rule_The_World.3.mid,1,2842,10,111.000111000111,222.927705
+Tears for Fears,Everybody Wants To Rule The World.mid,data/clean_midi/Tears for Fears/Everybody Wants To Rule The World.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Everybody_Wants_To_Rule_The_World.mid,3,1883,6,110.0009166743056,210.68858515625
+Tears for Fears,Head Over Heels.mid,data/clean_midi/Tears for Fears/Head Over Heels.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Head_Over_Heels.mid,1,921,9,101.00006901671382,247.9833088541666
+Tears for Fears,Laid So Low (Tears Roll Down).mid,data/clean_midi/Tears for Fears/Laid So Low (Tears Roll Down).mid,synthpop_data/processed/drums_all/Tears_for_Fears__Laid_So_Low_(Tears_Roll_Down).mid,1,3949,11,115.00201253521936,269.20996265625
+Tears for Fears,Shout.1.mid,data/clean_midi/Tears for Fears/Shout.1.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Shout.1.mid,1,2510,14,95.00014250021376,389.0454690625
+Tears for Fears,Shout.2.mid,data/clean_midi/Tears for Fears/Shout.2.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Shout.2.mid,1,7082,20,98.00014373354414,345.4267892916667
+Tears for Fears,Shout.3.mid,data/clean_midi/Tears for Fears/Shout.3.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Shout.3.mid,1,7082,20,98.00078400627208,347.85436
+Tears for Fears,Shout.4.mid,data/clean_midi/Tears for Fears/Shout.4.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Shout.4.mid,1,7081,20,97.9999836666694,345.4235269583333
+Tears for Fears,Shout.5.mid,data/clean_midi/Tears for Fears/Shout.5.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Shout.5.mid,1,7081,20,98.00014373354416,345.4229627666666
+Tears for Fears,Shout.mid,data/clean_midi/Tears for Fears/Shout.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Shout.mid,1,2510,14,95.00014250021376,389.0454690625
+Tears for Fears,Sowing the Seeds of Love.1.mid,data/clean_midi/Tears for Fears/Sowing the Seeds of Love.1.mid,synthpop_data/processed/drums_all/Tears_for_Fears__Sowing_the_Seeds_of_Love.1.mid,1,2913,14,143.50070471141632,343.953068
+The Cars,Bye Bye Love.mid,data/clean_midi/The Cars/Bye Bye Love.mid,synthpop_data/processed/drums_all/The_Cars__Bye_Bye_Love.mid,1,1713,7,130.00013000013,246.69013792499996
+The Cars,Drive.1.mid,data/clean_midi/The Cars/Drive.1.mid,synthpop_data/processed/drums_all/The_Cars__Drive.1.mid,1,2457,12,83.0000650167176,223.7588691875
+The Cars,Drive.2.mid,data/clean_midi/The Cars/Drive.2.mid,synthpop_data/processed/drums_all/The_Cars__Drive.2.mid,1,2457,12,82.99995020002989,223.82297792708331
+The Cars,Drive.3.mid,data/clean_midi/The Cars/Drive.3.mid,synthpop_data/processed/drums_all/The_Cars__Drive.3.mid,1,2035,7,130.00013000013,240.22812515624997
+The Cars,Drive.4.mid,data/clean_midi/The Cars/Drive.4.mid,synthpop_data/processed/drums_all/The_Cars__Drive.4.mid,1,2748,9,84.00008400008399,219.99233953125
+The Cars,Drive.5.mid,data/clean_midi/The Cars/Drive.5.mid,synthpop_data/processed/drums_all/The_Cars__Drive.5.mid,1,2457,12,83.0000650167176,223.82297168749997
+The Cars,Drive.mid,data/clean_midi/The Cars/Drive.mid,synthpop_data/processed/drums_all/The_Cars__Drive.mid,1,2457,12,86.00054467011624,226.175893125
+The Cars,Good Times Roll.1.mid,data/clean_midi/The Cars/Good Times Roll.1.mid,synthpop_data/processed/drums_all/The_Cars__Good_Times_Roll.1.mid,1,1346,11,109.00172586065946,189.28599375
+The Cars,Good Times Roll.mid,data/clean_midi/The Cars/Good Times Roll.mid,synthpop_data/processed/drums_all/The_Cars__Good_Times_Roll.mid,1,1346,11,109.00014170018424,365.504112
+The Cars,It's All I Can Do.mid,data/clean_midi/The Cars/It's All I Can Do.mid,synthpop_data/processed/drums_all/The_Cars__It's_All_I_Can_Do.mid,1,1591,5,120.0,198.25
+The Cars,Just What I Needed.1.mid,data/clean_midi/The Cars/Just What I Needed.1.mid,synthpop_data/processed/drums_all/The_Cars__Just_What_I_Needed.1.mid,1,1158,8,130.00013000013,147.69215999999997
+The Cars,Just What I Needed.2.mid,data/clean_midi/The Cars/Just What I Needed.2.mid,synthpop_data/processed/drums_all/The_Cars__Just_What_I_Needed.2.mid,1,1158,8,130.00013000013,147.69215999999997
+The Cars,Just What I Needed.mid,data/clean_midi/The Cars/Just What I Needed.mid,synthpop_data/processed/drums_all/The_Cars__Just_What_I_Needed.mid,1,1158,8,130.0023833770286,149.53572
+The Cars,Let's Go.1.mid,data/clean_midi/The Cars/Let's Go.1.mid,synthpop_data/processed/drums_all/The_Cars__Let's_Go.1.mid,1,1674,7,131.00007641671124,262.7479383333333
+The Cars,Let's Go.2.mid,data/clean_midi/The Cars/Let's Go.2.mid,synthpop_data/processed/drums_all/The_Cars__Let's_Go.2.mid,1,1673,7,131.00007641671124,214.79949302083335
+The Cars,Let's Go.3.mid,data/clean_midi/The Cars/Let's Go.3.mid,synthpop_data/processed/drums_all/The_Cars__Let's_Go.3.mid,1,1673,7,131.00007641671124,262.74793833333337
+The Cars,Let's Go.mid,data/clean_midi/The Cars/Let's Go.mid,synthpop_data/processed/drums_all/The_Cars__Let's_Go.mid,1,1669,7,131.0015065173249,216.49560187500003
+The Cars,My Best Friend's Girl.mid,data/clean_midi/The Cars/My Best Friend's Girl.mid,synthpop_data/processed/drums_all/The_Cars__My_Best_Friend's_Girl.mid,1,1553,9,120.0,216.49791666666667
+The Cars,Shake It Up.mid,data/clean_midi/The Cars/Shake It Up.mid,synthpop_data/processed/drums_all/The_Cars__Shake_It_Up.mid,11,2498,10,151.00037750094376,205.363725
+The Cars,Tonight She Comes.mid,data/clean_midi/The Cars/Tonight She Comes.mid,synthpop_data/processed/drums_all/The_Cars__Tonight_She_Comes.mid,1,2053,6,145.00003625000906,220.137876
+The Cars,You Might Think.1.mid,data/clean_midi/The Cars/You Might Think.1.mid,synthpop_data/processed/drums_all/The_Cars__You_Might_Think.1.mid,1,4063,8,137.99987580011177,195.94220533333333
+The Cars,You Might Think.2.mid,data/clean_midi/The Cars/You Might Think.2.mid,synthpop_data/processed/drums_all/The_Cars__You_Might_Think.2.mid,1,4063,8,137.99987580011177,195.94220533333333
+The Cars,You Might Think.3.mid,data/clean_midi/The Cars/You Might Think.3.mid,synthpop_data/processed/drums_all/The_Cars__You_Might_Think.3.mid,1,4063,8,138.000828004968,182.82499
+The Cars,You Might Think.mid,data/clean_midi/The Cars/You Might Think.mid,synthpop_data/processed/drums_all/The_Cars__You_Might_Think.mid,1,4063,8,138.00019320027047,195.9417546666667
+The Human League,Don't You Want Me.mid,data/clean_midi/The Human League/Don't You Want Me.mid,synthpop_data/processed/drums_all/The_Human_League__Don't_You_Want_Me.mid,1,2326,6,118.0010620095581,217.551008125
+The Human League,Tell Me When.mid,data/clean_midi/The Human League/Tell Me When.mid,synthpop_data/processed/drums_all/The_Human_League__Tell_Me_When.mid,1,4723,13,120.0,285.78125
+Ultravox,Vienna.mid,data/clean_midi/Ultravox/Vienna.mid,synthpop_data/processed/drums_all/Ultravox__Vienna.mid,1,560,6,72.0000288000115,282.7289013020833
+Visage,Fade to Gray.mid,data/clean_midi/Visage/Fade to Gray.mid,synthpop_data/processed/drums_all/Visage__Fade_to_Gray.mid,5,1460,5,115.00002875000716,260.53471747500004
+Visage,Fade to Grey.mid,data/clean_midi/Visage/Fade to Grey.mid,synthpop_data/processed/drums_all/Visage__Fade_to_Grey.mid,9,1547,8,112.0000597333652,197.142752
+Wham!,Careless Whisper.1.mid,data/clean_midi/Wham!/Careless Whisper.1.mid,synthpop_data/processed/drums_all/Wham!__Careless_Whisper.1.mid,1,4006,15,77.99997660000702,351.1619643229167
+Wham!,Careless Whisper.2.mid,data/clean_midi/Wham!/Careless Whisper.2.mid,synthpop_data/processed/drums_all/Wham!__Careless_Whisper.2.mid,1,4006,15,78.00007800007802,351.16150781249996
+Wham!,Careless Whisper.mid,data/clean_midi/Wham!/Careless Whisper.mid,synthpop_data/processed/drums_all/Wham!__Careless_Whisper.mid,1,4006,15,78.00007800007802,351.16150781249996
+Wham!,Everything She Wants.1.mid,data/clean_midi/Wham!/Everything She Wants.1.mid,synthpop_data/processed/drums_all/Wham!__Everything_She_Wants.1.mid,1,2381,7,115.0000287500072,293.63851354687495
+Wham!,Everything She Wants.mid,data/clean_midi/Wham!/Everything She Wants.mid,synthpop_data/processed/drums_all/Wham!__Everything_She_Wants.mid,1,7163,12,110.05502751375688,315.0424
+Wham!,If You Were There.mid,data/clean_midi/Wham!/If You Were There.mid,synthpop_data/processed/drums_all/Wham!__If_You_Were_There.mid,1,1713,8,127.000254000508,215.43263999999996
+Yazoo,Don't Go.mid,data/clean_midi/Yazoo/Don't Go.mid,synthpop_data/processed/drums_all/Yazoo__Don't_Go.mid,1,3097,16,128.0,202.03125
+Yazoo,Situation.mid,data/clean_midi/Yazoo/Situation.mid,synthpop_data/processed/drums_all/Yazoo__Situation.mid,1,3154,15,92.00055200331204,296.11235374999995
+a-ha,Hunting High and Low.mid,data/clean_midi/a-ha/Hunting High and Low.mid,synthpop_data/processed/drums_all/a-ha__Hunting_High_and_Low.mid,8,1031,8,100.0,265.9
+a-ha,Take On Me.6.mid,data/clean_midi/a-ha/Take On Me.6.mid,synthpop_data/processed/drums_all/a-ha__Take_On_Me.6.mid,1,2294,3,155.00031000062,236.322108
+a-ha,The Living Daylights.1.mid,data/clean_midi/a-ha/The Living Daylights.1.mid,synthpop_data/processed/drums_all/a-ha__The_Living_Daylights.1.mid,1,3602,27,120.99994353335968,257.85136000000006
+a-ha,The Living Daylights.mid,data/clean_midi/a-ha/The Living Daylights.mid,synthpop_data/processed/drums_all/a-ha__The_Living_Daylights.mid,1,3602,27,120.99994353335968,257.85136
+a-ha,The Sun Always Shines on TV.mid,data/clean_midi/a-ha/The Sun Always Shines on TV.mid,synthpop_data/processed/drums_all/a-ha__The_Sun_Always_Shines_on_TV.mid,1,2466,9,132.000132000132,294.70803862500003
