@@ -12,3 +12,4 @@ data/raw/*.midi
 
 # Notebook/editor scratch files.
 .ipynb_checkpoints/
+*.zip
