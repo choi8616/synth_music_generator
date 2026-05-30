@@ -2,13 +2,17 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# Generated data/model artifacts. Recreate these by running the scripts.
-processed/
+# Generated model/output artifacts.
 outputs/
+task1/outputs_final/
+task1/processed/
+task1/processed_*/
 
-# Raw MIDI datasets can be large or license-sensitive.
-data/raw/*.mid
-data/raw/*.midi
+# Original or processed MIDI datasets can be large or license-sensitive.
+data/raw/**/*.mid
+data/raw/**/*.midi
+synthpop_data/processed/melodies_all/
+synthpop_data/processed/drums_all/
 
 # Notebook/editor scratch files.
 .ipynb_checkpoints/
