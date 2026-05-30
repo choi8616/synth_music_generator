@@ -1,0 +1,378 @@
+artist,song,has_drums,n_drum_tracks,n_drum_notes,n_total_tracks
+ABC,Poison Arrow.mid,True,1,2263,14
+ABC,4 Ever 2 Gether.mid,True,1,3214,11
+ABC,"Look of Love, Part 1.mid",True,1,1714,16
+Bronski Beat,Small Town Boy.mid,True,1,2931,12
+Culture Club,Do You Really Want to Hurt Me.mid,True,1,1538,16
+Culture Club,Do You Really Want to Hurt Me.1.mid,True,1,1538,16
+Culture Club,Karma Chameleon.mid,True,1,2982,15
+Culture Club,Church of the Poison Mind.mid,True,2,2533,14
+Depeche Mode,Shout.mid,True,1,3007,11
+Depeche Mode,Somebody.1.mid,False,0,0,2
+Depeche Mode,Fly on the Windscreen (Final).mid,True,2,2365,15
+Depeche Mode,People Are People.mid,True,1,990,16
+Depeche Mode,New Life.mid,True,1,3152,14
+Depeche Mode,Somebody.3.mid,False,0,0,2
+Depeche Mode,Somebody.2.mid,False,0,0,2
+Depeche Mode,Master and Servant.1.mid,True,1,1180,6
+Depeche Mode,Just Can't Get Enough.mid,True,1,1377,9
+Depeche Mode,Strange Love.1.mid,True,4,1033,7
+Depeche Mode,Everything Counts.mid,True,1,1908,8
+Depeche Mode,A Question of Lust.mid,False,0,0,7
+Depeche Mode,Dream On.mid,True,1,2856,9
+Depeche Mode,Ice Machine.1.mid,True,1,1529,8
+Depeche Mode,Barrel Of A Gun.mid,True,4,2170,14
+Depeche Mode,Master and Servant.2.mid,True,1,1924,10
+Depeche Mode,No Disco.mid,True,1,765,11
+Depeche Mode,It's No Good.mid,True,3,4501,18
+Depeche Mode,Shake the Disease.1.mid,True,1,1529,4
+Depeche Mode,Black Celebration.2.mid,True,10,3185,15
+Depeche Mode,Dreaming of Me.1.mid,True,2,1334,9
+Depeche Mode,Black Celebration.3.mid,True,10,3185,15
+Depeche Mode,Black Celebration.1.mid,True,1,3185,6
+Depeche Mode,Any Second Now (Voices).mid,True,1,48,12
+Depeche Mode,Dreaming of Me.2.mid,True,2,1713,13
+Depeche Mode,Walking in My Shoes.mid,True,1,3557,14
+Depeche Mode,Strangelove.1.mid,True,4,1033,7
+Depeche Mode,Puppets.mid,True,1,1908,12
+Depeche Mode,Strange Love.mid,True,1,1033,4
+Depeche Mode,But Not Tonight.mid,True,1,1536,12
+Depeche Mode,Photographic.mid,True,1,824,11
+Depeche Mode,Somebody.mid,False,0,0,2
+Depeche Mode,Shout (Rio mix).mid,True,1,5766,16
+Depeche Mode,New Life.1.mid,False,0,0,11
+Depeche Mode,New Life (remix).mid,True,1,3636,16
+Depeche Mode,Dreaming of Me.mid,True,2,1334,9
+Depeche Mode,Tora! Tora! Tora!.1.mid,True,1,3887,15
+Depeche Mode,Black Celebration.mid,True,10,3185,15
+Depeche Mode,Just Can't Get Enough.3.mid,True,1,1377,9
+Depeche Mode,Just Can't Get Enough.2.mid,True,4,1252,13
+Depeche Mode,In Your Room.mid,True,1,3141,15
+Depeche Mode,Boys Say Go!.mid,True,1,1827,10
+Depeche Mode,Enjoy the Silence.1.mid,True,6,2517,15
+Depeche Mode,Just Can't Get Enough.1.mid,True,3,888,11
+Depeche Mode,The Things You Said.mid,True,2,596,6
+Depeche Mode,Everything Counts.2.mid,True,2,1836,17
+Depeche Mode,Enjoy the Silence.mid,True,1,1826,9
+Depeche Mode,Pipeline.mid,True,3,504,10
+Depeche Mode,Blasphemous Rumours.mid,True,1,988,4
+Depeche Mode,Policy of Truth.1.mid,True,1,308,10
+Depeche Mode,Blasphemous Rumours.1.mid,True,1,988,4
+Depeche Mode,Never Let Me Down Again.mid,True,5,3107,12
+Depeche Mode,Everything Counts.1.mid,True,1,1908,4
+Depeche Mode,Strangelove.mid,True,1,1033,4
+Depeche Mode,The Things You Said.1.mid,True,1,677,4
+Depeche Mode,Blasphemous Rumours.2.mid,True,1,988,5
+Depeche Mode,Photographic.1.mid,True,4,1696,7
+Depeche Mode,I Sometimes Wish I Was Dead.mid,True,1,276,16
+Depeche Mode,Photographic.2.mid,True,2,856,9
+Depeche Mode,Personal Jesus.mid,True,1,4260,6
+Depeche Mode,Photographic.3.mid,True,1,856,10
+Depeche Mode,Ice Machine.mid,True,1,907,5
+Depeche Mode,Tora! Tora! Tora!.mid,False,0,0,7
+Depeche Mode,Master and Servant.mid,True,1,1180,5
+Depeche Mode,Big Muff.mid,True,1,872,14
+Depeche Mode,Policy of Truth.mid,True,1,1748,6
+Depeche Mode,Puppets.1.mid,True,2,1120,16
+Duran Duran,New Moon on Monday.mid,True,3,2524,16
+Duran Duran,Come Undone.mid,True,1,4074,13
+Duran Duran,Downtown.mid,True,1,1835,8
+Duran Duran,Hungry Like a Wolf.1.mid,True,1,1646,9
+Duran Duran,New Moon on Monday.1.mid,True,3,2524,16
+Duran Duran,Rio.mid,True,6,3303,16
+Duran Duran,Save a Prayer.mid,True,1,1883,7
+Duran Duran,A View To A Kill.3.mid,True,3,1148,16
+Duran Duran,Girls on Film.1.mid,True,1,1857,8
+Duran Duran,Notorious.2.mid,True,1,2145,9
+Duran Duran,Hungry Like a Wolf.mid,True,1,1646,9
+Duran Duran,A View To A Kill.2.mid,True,1,1148,19
+Duran Duran,Ordinary World.mid,True,1,1732,6
+Duran Duran,Notorious.1.mid,True,2,2146,10
+Duran Duran,A View To A Kill.1.mid,True,3,1148,16
+Duran Duran,The Reflex.1.mid,True,1,3512,14
+Duran Duran,The Reflex.2.mid,True,1,3512,14
+Duran Duran,The Wild Boys.1.mid,True,1,2998,11
+Duran Duran,The Reflex.mid,True,1,3512,14
+Duran Duran,The Wild Boys.mid,True,1,2998,11
+Duran Duran,Rio.1.mid,True,6,3303,16
+Duran Duran,Notorius.mid,True,1,2145,7
+Duran Duran,"Wild Boys, Relax.1.mid",True,1,8,12
+Duran Duran,"Wild Boys, Relax.mid",True,1,8,12
+Duran Duran,Notorious.mid,True,1,2146,9
+Duran Duran,Ordinary World.1.mid,True,1,1413,11
+Duran Duran,A View To A Kill.mid,True,1,1148,19
+Duran Duran,Save a Prayer.1.mid,True,2,1883,8
+Duran Duran,The Chauffeur.1.mid,True,1,2455,17
+Duran Duran,Hungry Like The Wolf (Night Version).mid,True,1,1210,9
+Duran Duran,Ordinary World.2.mid,True,1,1413,11
+Duran Duran,Come Undone.4.mid,True,1,2467,10
+Duran Duran,Union of the Snake.mid,True,1,2713,13
+Duran Duran,Come Undone.5.mid,True,1,2467,9
+Duran Duran,Ordinary World.3.mid,True,1,1413,11
+Duran Duran,Girls On Film.mid,True,3,2300,9
+Duran Duran,Come Undone.1.mid,False,0,0,5
+Duran Duran,The Chauffeur.mid,True,1,1601,5
+Duran Duran,Union of the Snake.1.mid,True,1,2713,13
+Duran Duran,Come Undone.2.mid,True,1,2463,9
+Duran Duran,Come Undone.3.mid,True,1,2463,9
+Erasure,So the Story Goes.mid,True,7,1802,24
+Erasure,Magic Moments.mid,True,3,1090,17
+Erasure,Blue Savannah.2.mid,True,1,2693,12
+Erasure,Siren Song.mid,True,6,1602,24
+Erasure,Magic Moments.1.mid,True,3,1090,17
+Erasure,Man in the Moon.1.mid,True,4,1012,14
+Erasure,A Little Respect.4.mid,True,4,1267,14
+Erasure,Blue Savannah.1.mid,True,5,2693,16
+Erasure,A Little Respect.mid,True,4,1267,14
+Erasure,I Love Saturday.mid,True,4,2673,15
+Erasure,A Little Respect.1.mid,True,4,1267,14
+Erasure,Home.1.mid,True,4,1033,24
+Erasure,Sometimes.mid,True,1,1881,21
+Erasure,A Little Respect.2.mid,True,1,1267,11
+Erasure,A Little Respect.3.mid,True,1,1267,11
+Erasure,Take Me Back.1.mid,True,1,1381,12
+Erasure,Man in the Moon.mid,True,4,1012,14
+Erasure,Blue Savannah.mid,True,5,2693,16
+Erasure,Fingers & Thumbs (Cold Summer's Day).1.mid,True,6,3281,21
+Erasure,Sometimes (12'' mix).mid,True,5,3158,13
+Erasure,Breath of Life.1.mid,True,1,2392,14
+Erasure,Take Me Back.mid,True,4,1381,17
+Erasure,Abba-Esque (Take a Chance On Me).mid,True,1,4603,8
+Erasure,Breath of Life.2.mid,True,1,2392,14
+Erasure,Home.mid,True,4,1033,24
+Erasure,Fingers & Thumbs (Cold Summer's Day).mid,True,6,3281,21
+Erasure,Chains of Love.mid,True,1,1520,13
+Erasure,Miracle.mid,True,3,1910,22
+Erasure,Always.3.mid,True,1,1599,13
+Erasure,Always.2.mid,True,4,1599,17
+Erasure,Oh L'Amour.mid,True,5,2133,16
+Erasure,Always.1.mid,True,4,1599,17
+Erasure,Chains of Love.3.mid,True,1,1520,13
+Erasure,Stop!.1.mid,True,5,1805,16
+Erasure,Star.mid,True,4,2025,20
+Erasure,Chains of Love.2.mid,True,4,1520,16
+Erasure,Stop!.mid,True,5,1805,16
+Erasure,Glass Angel.mid,True,5,2925,22
+Erasure,Always.mid,True,1,2084,14
+Erasure,Breath of Life.mid,True,1,205,14
+Erasure,Chains of Love.1.mid,True,4,1520,16
+Erasure,Oh Lamour.mid,True,5,2133,16
+Eurythmics,Love Is a Stranger.mid,True,3,2841,10
+Eurythmics,Sisters Are Doing It for Themselves.mid,True,1,2494,12
+Eurythmics,There Must Be an Angel (Playing With My Heart).1.mid,True,1,2698,14
+Eurythmics,There Must Be an Angel (Playing With My Heart).mid,True,1,2333,10
+Eurythmics,Don't Ask Me Why.mid,True,1,2982,13
+Eurythmics,There Must Be an Angel (Playing With My Heart).2.mid,True,1,2333,15
+Eurythmics,Who's That Girl.1.mid,True,1,1155,9
+Eurythmics,Sweet Dreams.2.mid,True,1,1181,13
+Eurythmics,Would I Lie To You?.1.mid,True,1,2272,14
+Eurythmics,I Saved the World Today.mid,True,1,3660,15
+Eurythmics,Sweet Dreams.3.mid,True,1,951,13
+Eurythmics,Sweet Dreams.1.mid,True,1,1181,13
+Eurythmics,Here Comes the Rain Again.4.mid,True,2,3552,14
+Eurythmics,Would I Lie To You?.mid,True,1,2272,13
+Eurythmics,Here Comes the Rain Again.1.mid,True,2,3552,14
+Eurythmics,Right by Your Side.mid,True,1,1196,8
+Eurythmics,Here Comes the Rain Again.2.mid,True,1,3141,15
+Eurythmics,Sweet Dreams.mid,True,2,1341,10
+Eurythmics,Here Comes the Rain Again.mid,True,2,3552,14
+Eurythmics,Here Comes the Rain Again.3.mid,True,1,3141,15
+Eurythmics,1984.mid,True,6,1439,8
+Eurythmics,It's Alright (Baby's Coming Back).mid,True,1,1858,15
+Eurythmics,Love Is a Stranger.1.mid,True,1,2483,13
+Eurythmics,Missionary Man.mid,True,1,1487,11
+Frankie Goes to Hollywood,Relax.mid,True,1,2090,16
+Frankie Goes to Hollywood,The Power of Love.1.mid,True,1,1339,9
+Frankie Goes to Hollywood,The Power of Love.mid,True,1,739,11
+Frankie Goes to Hollywood,Relax (Frankie Goes to Dreamscape).mid,True,1,1849,20
+Frankie Goes to Hollywood,Relax.4.mid,True,1,2801,19
+Frankie Goes to Hollywood,Relax.2.mid,True,1,2950,21
+Frankie Goes to Hollywood,Relax.3.mid,True,1,2715,12
+Frankie Goes to Hollywood,Relax.1.mid,True,2,1335,20
+Frankie Goes to Hollywood,Relax (Frankie Goes to Dreamscape).1.mid,True,1,1849,20
+Garbage,Hammering in My Head.mid,True,1,3601,13
+Garbage,The World Is Not Enough.mid,True,1,1696,14
+Garbage,Temptation Waits.mid,True,1,6640,14
+Garbage,Queer.1.mid,True,1,2676,7
+Garbage,Sleep Together.mid,True,1,4729,14
+Garbage,Milk.mid,True,1,712,5
+Garbage,Stupid Girl.mid,True,2,3597,9
+Garbage,Only Happy When It Rains.1.mid,True,1,4744,14
+Garbage,Special.mid,True,1,2842,7
+Garbage,No. 1 Crush.mid,True,3,4049,17
+Garbage,Vow.mid,False,0,0,9
+Garbage,I'm Only Happy When It Rains.mid,True,1,3,4
+Garbage,Special.1.mid,True,1,2842,7
+Garbage,Medication.mid,True,1,3434,10
+Garbage,Push It.mid,True,1,3905,16
+Garbage,Queer.mid,True,1,1832,12
+Garbage,When I Grow Up.mid,True,1,4304,16
+Garbage,You Look So Fine.mid,True,1,7440,10
+Garbage,Not My Idea.mid,True,1,1503,8
+Garbage,Stupid Girl.2.mid,True,2,3597,9
+Garbage,I Think I'm Paranoid.mid,True,1,3231,13
+Garbage,Push It.1.mid,True,1,3905,16
+Garbage,Only Happy When It Rains.mid,True,1,3,4
+Garbage,Stupid Girl.1.mid,True,2,3597,9
+Howard Jones,Things Can Only Get Better.1.mid,True,1,4226,11
+Howard Jones,Life in One Day.mid,True,1,3982,12
+Howard Jones,Things Can Only Get Better.mid,True,1,1754,11
+Howard Jones,Everlasting Love.mid,True,11,1805,16
+INXS,What You Need.1.mid,True,1,16,6
+INXS,New Sensation.mid,True,11,2397,15
+INXS,What You Need.2.mid,True,1,1115,6
+INXS,Never Tear Us Apart.1.mid,True,10,1139,15
+INXS,Need You Tonight.mid,True,7,1608,11
+INXS,The Swing.mid,True,1,1301,5
+INXS,What You Need.mid,True,1,16,6
+INXS,Bitter Tears.mid,True,6,3039,12
+INXS,Taste It.mid,True,1,2859,15
+INXS,The Swing.1.mid,True,1,1301,5
+INXS,Not Enough Time.mid,True,1,3428,11
+INXS,Disappear.mid,True,7,2703,12
+INXS,Never Tear Us Apart.mid,True,5,1101,11
+New Order,World.mid,True,1,6090,16
+New Order,True Faith.mid,True,5,2325,11
+New Order,Blue Monday.mid,True,9,4366,20
+New Order,Bizarre Love Triangle.1.mid,True,15,4354,30
+New Order,Bizarre Love Triangle.mid,True,15,4354,27
+New Order,Blue Monday.3.mid,True,9,4366,19
+New Order,Blue Monday.2.mid,True,5,2413,13
+New Order,Blue Monday.1.mid,True,9,4366,19
+OMD,Enola Gay (OMD vs. Sash radio edit).1.mid,True,2,1629,16
+OMD,Enola Gay (OMD vs. Sash radio edit).mid,True,8,1428,13
+Pet Shop Boys,Liberation.1.mid,True,1,3896,12
+Pet Shop Boys,What Have I Done to Deserve This.mid,True,2,3754,13
+Pet Shop Boys,Before.mid,True,1,7443,10
+Pet Shop Boys,Paninaro '95.mid,True,1,5836,14
+Pet Shop Boys,So Hard.mid,True,3,4619,12
+Pet Shop Boys,West End Girls.2.mid,True,2,3141,8
+Pet Shop Boys,It's a Sin.mid,True,1,2932,8
+Pet Shop Boys,Go West.1.mid,True,1,4035,9
+Pet Shop Boys,West End Girls.3.mid,True,2,3141,8
+Pet Shop Boys,I Wouldnt Normally Do This Kind of Thing.mid,True,3,1663,8
+Pet Shop Boys,West End Girls.1.mid,True,1,3141,7
+Pet Shop Boys,Go West.3.mid,True,1,4035,11
+Pet Shop Boys,Being Boring.mid,True,2,2878,10
+Pet Shop Boys,One in a Million.mid,True,1,1791,7
+Pet Shop Boys,Go West.2.mid,True,1,2794,20
+Pet Shop Boys,West End Girls.4.mid,True,5,3137,10
+Pet Shop Boys,Go West.6.mid,True,1,4035,9
+Pet Shop Boys,So Hard.1.mid,True,1,4619,10
+Pet Shop Boys,Go West.5.mid,True,1,3925,15
+Pet Shop Boys,Go West.4.mid,True,1,4035,9
+Pet Shop Boys,It's a Sin.1.mid,True,8,3231,22
+Pet Shop Boys,Go West.mid,True,1,5595,12
+Pet Shop Boys,Heart.1.mid,True,1,4931,7
+Pet Shop Boys,Always on My Mind   In My House.4.mid,True,1,7178,10
+Pet Shop Boys,It's a Sin.2.mid,True,1,3307,17
+Pet Shop Boys,Paninaro '95.1.mid,True,1,5842,14
+Pet Shop Boys,Where the Streets Have No Name.mid,True,1,3678,15
+Pet Shop Boys,Heart.mid,True,4,4931,10
+Pet Shop Boys,It's a Sin.3.mid,True,1,2060,8
+Pet Shop Boys,Se a Vida E (That's the Way Life Is).1.mid,True,2,5584,10
+Pet Shop Boys,Always on My Mind   In My House.mid,True,1,3594,11
+Pet Shop Boys,Always on My Mind   In My House.2.mid,True,1,4565,8
+Pet Shop Boys,It's a Sin.4.mid,True,1,3100,14
+Pet Shop Boys,Liberation.mid,True,1,3896,12
+Pet Shop Boys,West End Girls.mid,True,1,2567,14
+Pet Shop Boys,Always on My Mind   In My House.1.mid,True,1,4811,10
+Pet Shop Boys,It's Alright.mid,True,1,3043,11
+Pet Shop Boys,One in a Million.2.mid,True,2,1791,8
+Pet Shop Boys,Always.mid,True,2,4984,6
+Pet Shop Boys,Se a Vida E (That's the Way Life Is).mid,True,1,7018,18
+Pet Shop Boys,One in a Million.1.mid,True,2,1791,8
+Pet Shop Boys,Domino Dancing.mid,True,1,3740,11
+Pet Shop Boys,Can You Forgive Her.mid,True,1,202,14
+Robyn,Show Me Love.mid,True,1,1156,10
+Simple Minds,Don't You (Forget About Me).mid,True,1,1925,15
+Simple Minds,Mandela Day.mid,True,1,2328,11
+Simple Minds,Don't You (Forget About Me).1.mid,True,1,2138,12
+Simple Minds,She's a River.mid,True,1,5025,13
+Simple Minds,Don't You (Forget About Me).3.mid,True,1,2763,12
+Simple Minds,Don't You (Forget About Me).2.mid,True,1,1926,15
+Simple Minds,Don't You (Forget About Me).4.mid,True,1,1925,15
+Simple Minds,She's a River.1.mid,True,1,2265,13
+Simple Minds,Alive & Kicking.1.mid,True,1,2246,10
+Simple Minds,Mandela Day.1.mid,True,1,2328,11
+Simple Minds,Alive & Kicking.mid,True,1,2246,11
+Soft Cell,Tainted Love.1.mid,True,6,909,14
+Soft Cell,Tainted Love.2.mid,True,1,1689,6
+Soft Cell,Something's Gotten Hold of My Heart.mid,True,1,990,8
+Soft Cell,Tainted Love.mid,True,1,2029,13
+Spandau Ballet,True.mid,True,2,1419,23
+Spandau Ballet,Gold.1.mid,True,1,1810,13
+Spandau Ballet,True.1.mid,True,2,1419,23
+Spandau Ballet,True.3.mid,True,1,1598,9
+Spandau Ballet,True.2.mid,True,1,1011,9
+Spandau Ballet,Gold.mid,True,1,1814,13
+Talk Talk,Such a Shame.mid,True,1,2647,9
+Talk Talk,It's My Life.mid,True,2,2334,15
+Tears for Fears,Shout.mid,True,1,2510,17
+Tears for Fears,Sowing the Seeds of Love.1.mid,True,1,2913,15
+Tears for Fears,Everybody Wants To Rule The World.mid,True,3,1883,19
+Tears for Fears,Sowing the Seeds of Love.mid,True,1,3197,15
+Tears for Fears,Laid So Low (Tears Roll Down).mid,True,1,3949,9
+Tears for Fears,Shout.4.mid,True,1,7081,12
+Tears for Fears,Shout.5.mid,True,1,7081,12
+Tears for Fears,Shout.1.mid,True,1,2510,17
+Tears for Fears,Shout.2.mid,True,1,7082,12
+Tears for Fears,Shout.3.mid,True,1,7082,12
+Tears for Fears,Everybody Wants To Rule The World.1.mid,True,3,1886,19
+Tears for Fears,Everybody Wants To Rule The World.2.mid,True,3,1886,19
+Tears for Fears,Head Over Heels.mid,True,1,921,8
+Tears for Fears,Everybody Wants To Rule The World.3.mid,True,1,2842,12
+The Cars,You Might Think.1.mid,True,1,4063,18
+The Cars,You Might Think.2.mid,True,1,4063,19
+The Cars,You Might Think.3.mid,True,1,4063,18
+The Cars,Tonight She Comes.1.mid,True,1,1798,4
+The Cars,It's All I Can Do.mid,True,1,1591,7
+The Cars,Just What I Needed.1.mid,True,1,1158,9
+The Cars,Good Times Roll.mid,True,1,1346,10
+The Cars,Good Times Roll.1.mid,True,1,1346,10
+The Cars,Just What I Needed.2.mid,True,1,1158,9
+The Cars,Just What I Needed.mid,True,1,1158,9
+The Cars,Let's Go.1.mid,True,1,1674,9
+The Cars,Let's Go.3.mid,True,1,1673,9
+The Cars,Let's Go.2.mid,True,1,1673,9
+The Cars,Drive.mid,True,1,2457,10
+The Cars,Tonight She Comes.mid,True,1,2053,8
+The Cars,Drive.2.mid,True,1,2457,10
+The Cars,Drive.3.mid,True,1,2035,7
+The Cars,Shake It Up.mid,True,11,2498,20
+The Cars,Drive.1.mid,True,1,2457,10
+The Cars,You Might Think.mid,True,1,4063,18
+The Cars,Drive.4.mid,True,1,2748,8
+The Cars,My Best Friend's Girl.mid,True,1,1553,7
+The Cars,Drive.5.mid,True,1,2457,10
+The Cars,Bye Bye Love.mid,True,1,1713,7
+The Cars,Let's Go.mid,True,1,1669,9
+The Human League,Tell Me When.mid,True,1,4723,10
+The Human League,Don't You Want Me.mid,True,1,2326,11
+The Human League,Dont You Want Me.1.mid,True,4,2524,17
+The Human League,Dont You Want Me.mid,True,4,2524,17
+Thompson Twins,Doctor Doctor.mid,True,1,1050,9
+Thompson Twins,Hold Me Now.mid,True,1,2125,9
+Ultravox,Vienna.mid,True,1,560,14
+Visage,Fade to Grey.mid,True,9,1547,18
+Visage,Fade to Gray.mid,True,5,1460,14
+Wham!,Wake Me Up Before You Go Go.1.mid,True,1,1501,15
+Wham!,Everything She Wants.mid,True,1,7163,7
+Wham!,If You Were There.mid,True,1,1713,8
+Wham!,Careless Whisper.1.mid,True,1,4006,12
+Wham!,Careless Whisper.2.mid,True,1,4006,12
+Wham!,Wake Me Up Before You Go Go.mid,True,1,1501,15
+Wham!,Everything She Wants.1.mid,True,1,2381,9
+Wham!,Careless Whisper.mid,True,1,4006,12
+Yazoo,Situation.mid,True,1,3154,9
+Yazoo,Don't Go.mid,True,1,3097,13
+a-ha,Take On Me.6.mid,True,1,2294,9
+a-ha,Take On Me.4.mid,True,1,1462,13
+a-ha,Take On Me.5.mid,True,4,2003,15
+a-ha,Take On Me.2.mid,True,1,1462,13
+a-ha,Take On Me.3.mid,True,1,1462,12
+a-ha,Hunting High and Low.mid,True,8,1031,12
+a-ha,The Living Daylights.mid,True,1,3602,22
+a-ha,The Living Daylights.1.mid,True,1,3602,22
+a-ha,Take On Me.mid,True,1,2727,12
+a-ha,The Sun Always Shines on TV.mid,True,1,2466,44

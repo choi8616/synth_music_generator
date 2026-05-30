@@ -1,0 +1,341 @@
+artist,song,bpm,has_drums,n_drum_notes,n_total_tracks,filepath
+ABC,4 Ever 2 Gether.mid,89.99995500002248,True,3214,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/ABC/4 Ever 2 Gether.mid
+ABC,"Look of Love, Part 1.mid",120.99994353335967,True,1714,16,"/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/ABC/Look of Love, Part 1.mid"
+ABC,Poison Arrow.mid,126.00012600012602,True,2263,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/ABC/Poison Arrow.mid
+Bronski Beat,Small Town Boy.mid,126.99998518333504,True,2931,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Bronski Beat/Small Town Boy.mid
+Culture Club,Church of the Poison Mind.mid,130.00013000013,True,2533,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Culture Club/Church of the Poison Mind.mid
+Culture Club,Do You Really Want to Hurt Me.1.mid,82.00000693333426,True,1538,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Culture Club/Do You Really Want to Hurt Me.1.mid
+Culture Club,Do You Really Want to Hurt Me.mid,104.00001386666852,True,1538,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Culture Club/Do You Really Want to Hurt Me.mid
+Depeche Mode,Barrel Of A Gun.mid,82.9999502000299,True,2170,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Barrel Of A Gun.mid
+Depeche Mode,Black Celebration.1.mid,120.0,True,3185,6,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Black Celebration.1.mid
+Depeche Mode,Black Celebration.2.mid,120.0,True,3185,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Black Celebration.2.mid
+Depeche Mode,Black Celebration.3.mid,120.0,True,3185,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Black Celebration.3.mid
+Depeche Mode,Black Celebration.mid,120.0,True,3185,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Black Celebration.mid
+Depeche Mode,Blasphemous Rumours.1.mid,109.99990833340973,True,988,4,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Blasphemous Rumours.1.mid
+Depeche Mode,Blasphemous Rumours.2.mid,110.00011000011,True,988,5,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Blasphemous Rumours.2.mid
+Depeche Mode,Blasphemous Rumours.mid,110.00011000011,True,988,4,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Blasphemous Rumours.mid
+Depeche Mode,Boys Say Go!.mid,137.0000639333632,True,1827,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Boys Say Go!.mid
+Depeche Mode,But Not Tonight.mid,128.0000725334107,True,1536,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/But Not Tonight.mid
+Depeche Mode,Dream On.mid,126.99998518333504,True,2856,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Dream On.mid
+Depeche Mode,Dreaming of Me.1.mid,135.000135000135,True,1334,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Dreaming of Me.1.mid
+Depeche Mode,Dreaming of Me.2.mid,130.00013000013,True,1713,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Dreaming of Me.2.mid
+Depeche Mode,Dreaming of Me.mid,135.000135000135,True,1334,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Dreaming of Me.mid
+Depeche Mode,Enjoy the Silence.1.mid,120.0,True,2517,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Enjoy the Silence.1.mid
+Depeche Mode,Enjoy the Silence.mid,115.00201253521936,True,1826,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Enjoy the Silence.mid
+Depeche Mode,Everything Counts.1.mid,108.000108000108,True,1908,4,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Everything Counts.1.mid
+Depeche Mode,Everything Counts.2.mid,109.00014170018422,True,1836,17,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Everything Counts.2.mid
+Depeche Mode,Everything Counts.mid,108.000108000108,True,1908,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Everything Counts.mid
+Depeche Mode,Fly on the Windscreen (Final).mid,94.99999208333399,True,2365,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Fly on the Windscreen (Final).mid
+Depeche Mode,I Sometimes Wish I Was Dead.mid,127.00025400050801,True,276,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/I Sometimes Wish I Was Dead.mid
+Depeche Mode,Ice Machine.1.mid,135.000135000135,True,1529,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Ice Machine.1.mid
+Depeche Mode,Ice Machine.mid,112.00005973336519,True,907,5,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Ice Machine.mid
+Depeche Mode,In Your Room.mid,99.000099000099,True,3141,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/In Your Room.mid
+Depeche Mode,It's No Good.mid,99.19995238402284,True,4501,18,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/It's No Good.mid
+Depeche Mode,Just Can't Get Enough.1.mid,130.00013000013,True,888,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Just Can't Get Enough.1.mid
+Depeche Mode,Just Can't Get Enough.2.mid,128.0,True,1252,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Just Can't Get Enough.2.mid
+Depeche Mode,Just Can't Get Enough.3.mid,130.0023833770286,True,1377,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Just Can't Get Enough.3.mid
+Depeche Mode,Just Can't Get Enough.mid,130.00013000013,True,1377,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Just Can't Get Enough.mid
+Depeche Mode,Master and Servant.1.mid,126.00012600012599,True,1180,6,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Master and Servant.1.mid
+Depeche Mode,Master and Servant.2.mid,126.00012600012602,True,1924,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Master and Servant.2.mid
+Depeche Mode,Master and Servant.mid,126.00012600012602,True,1180,5,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Master and Servant.mid
+Depeche Mode,Never Let Me Down Again.mid,109.00014170018423,True,3107,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Never Let Me Down Again.mid
+Depeche Mode,New Life (remix).mid,159.0002067002687,True,3636,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/New Life (remix).mid
+Depeche Mode,New Life.mid,159.0002067002687,True,3152,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/New Life.mid
+Depeche Mode,No Disco.mid,123.00022140039853,True,765,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/No Disco.mid
+Depeche Mode,People Are People.mid,120.0,True,990,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/People Are People.mid
+Depeche Mode,Personal Jesus.mid,135.06668917778154,True,4260,6,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Personal Jesus.mid
+Depeche Mode,Photographic.1.mid,120.0,True,1696,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Photographic.1.mid
+Depeche Mode,Photographic.2.mid,155.00271254746957,True,856,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Photographic.2.mid
+Depeche Mode,Photographic.3.mid,146.00032120070665,True,856,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Photographic.3.mid
+Depeche Mode,Photographic.mid,150.0,True,824,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Photographic.mid
+Depeche Mode,Pipeline.mid,80.0,True,504,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Pipeline.mid
+Depeche Mode,Policy of Truth.1.mid,110.00011000011,True,308,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Policy of Truth.1.mid
+Depeche Mode,Policy of Truth.mid,120.0,True,1748,6,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Policy of Truth.mid
+Depeche Mode,Puppets.1.mid,120.0,True,1120,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Puppets.1.mid
+Depeche Mode,Puppets.mid,120.0,True,1908,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Puppets.mid
+Depeche Mode,Shake the Disease.1.mid,120.0,True,1529,4,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Shake the Disease.1.mid
+Depeche Mode,Shout (Rio mix).mid,118.50002666250599,True,5766,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Shout (Rio mix).mid
+Depeche Mode,Shout.mid,118.50002666250599,True,3007,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Shout.mid
+Depeche Mode,Strange Love.1.mid,120.0,True,1033,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Strange Love.1.mid
+Depeche Mode,Strange Love.mid,120.0,True,1033,4,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Strange Love.mid
+Depeche Mode,Strangelove.1.mid,120.0,True,1033,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Strangelove.1.mid
+Depeche Mode,Strangelove.mid,120.0,True,1033,4,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Strangelove.mid
+Depeche Mode,The Things You Said.1.mid,110.00011000011,True,677,4,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/The Things You Said.1.mid
+Depeche Mode,The Things You Said.mid,115.0000287500072,True,596,6,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/The Things You Said.mid
+Depeche Mode,Tora! Tora! Tora!.1.mid,118.00013373348487,True,3887,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Tora! Tora! Tora!.1.mid
+Depeche Mode,Walking in My Shoes.mid,94.00115934763195,True,3557,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Depeche Mode/Walking in My Shoes.mid
+Duran Duran,A View To A Kill.1.mid,126.99998518333504,True,1148,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/A View To A Kill.1.mid
+Duran Duran,A View To A Kill.2.mid,126.99003974788243,True,1148,19,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/A View To A Kill.2.mid
+Duran Duran,A View To A Kill.3.mid,126.99998518333504,True,1148,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/A View To A Kill.3.mid
+Duran Duran,A View To A Kill.mid,126.99003974788243,True,1148,19,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/A View To A Kill.mid
+Duran Duran,Come Undone.2.mid,100.05002501250625,True,2463,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Come Undone.2.mid
+Duran Duran,Come Undone.3.mid,100.05002501250625,True,2463,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Come Undone.3.mid
+Duran Duran,Come Undone.4.mid,100.05002501250625,True,2467,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Come Undone.4.mid
+Duran Duran,Come Undone.5.mid,100.04935768312367,True,2467,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Come Undone.5.mid
+Duran Duran,Come Undone.mid,87.00065250489381,True,4074,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Come Undone.mid
+Duran Duran,Downtown.mid,120.0,True,1835,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Downtown.mid
+Duran Duran,Girls On Film.mid,132.20023046906846,True,2300,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Girls On Film.mid
+Duran Duran,Girls on Film.1.mid,105.00157502362535,True,1857,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Girls on Film.1.mid
+Duran Duran,Hungry Like The Wolf (Night Version).mid,134.00005806669182,True,1210,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Hungry Like The Wolf (Night Version).mid
+Duran Duran,Hungry Like a Wolf.1.mid,120.0,True,1646,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Hungry Like a Wolf.1.mid
+Duran Duran,Hungry Like a Wolf.mid,120.0,True,1646,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Hungry Like a Wolf.mid
+Duran Duran,New Moon on Monday.1.mid,120.0,True,2524,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/New Moon on Monday.1.mid
+Duran Duran,New Moon on Monday.mid,120.0,True,2524,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/New Moon on Monday.mid
+Duran Duran,Notorious.1.mid,107.00012661681652,True,2146,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Notorious.1.mid
+Duran Duran,Notorious.2.mid,107.00012661681652,True,2145,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Notorious.2.mid
+Duran Duran,Notorious.mid,107.00146235331883,True,2146,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Notorious.mid
+Duran Duran,Notorius.mid,107.00012661681652,True,2145,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Notorius.mid
+Duran Duran,Ordinary World.2.mid,70.00023333411112,True,1413,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Ordinary World.2.mid
+Duran Duran,Ordinary World.mid,138.000828004968,True,1732,6,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Ordinary World.mid
+Duran Duran,Rio.1.mid,131.00007641671124,True,3303,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Rio.1.mid
+Duran Duran,Rio.mid,131.00007641671124,True,3303,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Rio.mid
+Duran Duran,Save a Prayer.1.mid,113.00009605008167,True,1883,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Save a Prayer.1.mid
+Duran Duran,Save a Prayer.mid,113.00009605008167,True,1883,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Save a Prayer.mid
+Duran Duran,The Chauffeur.1.mid,82.00003553334875,True,2455,17,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/The Chauffeur.1.mid
+Duran Duran,The Chauffeur.mid,89.99995500002248,True,1601,5,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/The Chauffeur.mid
+Duran Duran,The Reflex.1.mid,122.99996925000767,True,3512,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/The Reflex.1.mid
+Duran Duran,The Reflex.2.mid,122.99996925000767,True,3512,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/The Reflex.2.mid
+Duran Duran,The Reflex.mid,123.00022140039853,True,3512,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/The Reflex.mid
+Duran Duran,The Wild Boys.1.mid,116.99988885010558,True,2998,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/The Wild Boys.1.mid
+Duran Duran,The Wild Boys.mid,116.99988885010558,True,2998,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/The Wild Boys.mid
+Duran Duran,Union of the Snake.1.mid,107.50001437500359,True,2713,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Union of the Snake.1.mid
+Duran Duran,Union of the Snake.mid,117.50001437500359,True,2713,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Duran Duran/Union of the Snake.mid
+Erasure,A Little Respect.1.mid,113.99995440001827,True,1267,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/A Little Respect.1.mid
+Erasure,A Little Respect.2.mid,114.00125401379417,True,1267,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/A Little Respect.2.mid
+Erasure,A Little Respect.3.mid,114.00017100025649,True,1267,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/A Little Respect.3.mid
+Erasure,A Little Respect.4.mid,114.00017100025649,True,1267,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/A Little Respect.4.mid
+Erasure,A Little Respect.mid,114.00017100025649,True,1267,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/A Little Respect.mid
+Erasure,Abba-Esque (Take a Chance On Me).mid,122.00180562672327,True,4603,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Abba-Esque (Take a Chance On Me).mid
+Erasure,Always.1.mid,104.00001386666852,True,1599,17,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Always.1.mid
+Erasure,Always.2.mid,104.00001386666852,True,1599,17,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Always.2.mid
+Erasure,Always.3.mid,104.00001386666852,True,1599,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Always.3.mid
+Erasure,Always.mid,103.00075533887248,True,2084,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Always.mid
+Erasure,Blue Savannah.1.mid,135.000135000135,True,2693,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Blue Savannah.1.mid
+Erasure,Blue Savannah.2.mid,135.00135001350014,True,2693,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Blue Savannah.2.mid
+Erasure,Blue Savannah.mid,135.000135000135,True,2693,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Blue Savannah.mid
+Erasure,Breath of Life.1.mid,132.9999468000213,True,2392,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Breath of Life.1.mid
+Erasure,Breath of Life.2.mid,132.9999468000213,True,2392,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Breath of Life.2.mid
+Erasure,Breath of Life.mid,132.000132000132,True,205,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Breath of Life.mid
+Erasure,Chains of Love.1.mid,105.50012140014206,True,1520,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Chains of Love.1.mid
+Erasure,Chains of Love.2.mid,105.50012140014206,True,1520,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Chains of Love.2.mid
+Erasure,Chains of Love.3.mid,105.50151185504536,True,1520,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Chains of Love.3.mid
+Erasure,Chains of Love.mid,105.50012140014206,True,1520,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Chains of Love.mid
+Erasure,Fingers & Thumbs (Cold Summer's Day).1.mid,125.0,True,3281,21,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Fingers & Thumbs (Cold Summer's Day).1.mid
+Erasure,Fingers & Thumbs (Cold Summer's Day).mid,125.0,True,3281,21,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Fingers & Thumbs (Cold Summer's Day).mid
+Erasure,Glass Angel.mid,120.0,True,2925,22,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Glass Angel.mid
+Erasure,Home.1.mid,107.50001437500359,True,1033,24,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Home.1.mid
+Erasure,Home.mid,107.50001437500359,True,1033,24,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Home.mid
+Erasure,I Love Saturday.mid,130.00013000013,True,2673,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/I Love Saturday.mid
+Erasure,Magic Moments.1.mid,156.00015600015604,True,1090,17,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Magic Moments.1.mid
+Erasure,Magic Moments.mid,156.00015600015604,True,1090,17,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Magic Moments.mid
+Erasure,Man in the Moon.1.mid,118.00013373348487,True,1012,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Man in the Moon.1.mid
+Erasure,Man in the Moon.mid,118.00013373348487,True,1012,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Man in the Moon.mid
+Erasure,Miracle.mid,120.0,True,1910,22,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Miracle.mid
+Erasure,Oh L'Amour.mid,82.00003553334875,True,2133,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Oh L'Amour.mid
+Erasure,Oh Lamour.mid,82.00003553334875,True,2133,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Oh Lamour.mid
+Erasure,Siren Song.mid,92.00012880018032,True,1602,24,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Siren Song.mid
+Erasure,So the Story Goes.mid,97.5000975000975,True,1802,24,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/So the Story Goes.mid
+Erasure,Sometimes (12'' mix).mid,130.00013000013,True,3158,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Sometimes (12'' mix).mid
+Erasure,Sometimes.mid,108.000108000108,True,1881,21,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Sometimes.mid
+Erasure,Star.mid,123.00022140039853,True,2025,20,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Star.mid
+Erasure,Stop!.1.mid,120.0,True,1805,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Stop!.1.mid
+Erasure,Stop!.mid,120.0,True,1805,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Stop!.mid
+Erasure,Take Me Back.1.mid,83.00032168874807,True,1381,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Take Me Back.1.mid
+Erasure,Take Me Back.mid,81.50005826671487,True,1381,17,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Erasure/Take Me Back.mid
+Eurythmics,1984.mid,136.0001450668214,True,1439,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/1984.mid
+Eurythmics,Don't Ask Me Why.mid,118.0010620095581,True,2982,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Don't Ask Me Why.mid
+Eurythmics,Here Comes the Rain Again.1.mid,126.00012600012602,True,3552,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Here Comes the Rain Again.1.mid
+Eurythmics,Here Comes the Rain Again.2.mid,126.00012600012602,True,3141,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Here Comes the Rain Again.2.mid
+Eurythmics,Here Comes the Rain Again.3.mid,126.00012600012599,True,3141,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Here Comes the Rain Again.3.mid
+Eurythmics,Here Comes the Rain Again.4.mid,126.00012600012602,True,3552,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Here Comes the Rain Again.4.mid
+Eurythmics,Here Comes the Rain Again.mid,126.00012600012602,True,3552,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Here Comes the Rain Again.mid
+Eurythmics,I Saved the World Today.mid,120.0,True,3660,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/I Saved the World Today.mid
+Eurythmics,It's Alright (Baby's Coming Back).mid,96.0,True,1858,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/It's Alright (Baby's Coming Back).mid
+Eurythmics,Love Is a Stranger.1.mid,124.000248000496,True,2483,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Love Is a Stranger.1.mid
+Eurythmics,Love Is a Stranger.mid,106.00013780017916,True,2841,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Love Is a Stranger.mid
+Eurythmics,Missionary Man.mid,123.00123001230013,True,1487,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Missionary Man.mid
+Eurythmics,Right by Your Side.mid,85.00004250002125,True,1196,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Right by Your Side.mid
+Eurythmics,Sisters Are Doing It for Themselves.mid,135.00135001350014,True,2494,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Sisters Are Doing It for Themselves.mid
+Eurythmics,Sweet Dreams.1.mid,124.000248000496,True,1181,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Sweet Dreams.1.mid
+Eurythmics,Sweet Dreams.2.mid,123.99999173333387,True,1181,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Sweet Dreams.2.mid
+Eurythmics,Sweet Dreams.3.mid,120.01008084679113,True,951,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Sweet Dreams.3.mid
+Eurythmics,Sweet Dreams.mid,126.00012600012602,True,1341,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Sweet Dreams.mid
+Eurythmics,There Must Be an Angel (Playing With My Heart).1.mid,112.00089600716802,True,2698,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/There Must Be an Angel (Playing With My Heart).1.mid
+Eurythmics,There Must Be an Angel (Playing With My Heart).2.mid,110.00011000011,True,2333,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/There Must Be an Angel (Playing With My Heart).2.mid
+Eurythmics,There Must Be an Angel (Playing With My Heart).mid,110.00011000011,True,2333,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/There Must Be an Angel (Playing With My Heart).mid
+Eurythmics,Who's That Girl.1.mid,120.0,True,1155,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Who's That Girl.1.mid
+Eurythmics,Would I Lie To You?.1.mid,132.00158401900822,True,2272,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Would I Lie To You?.1.mid
+Eurythmics,Would I Lie To You?.mid,132.000132000132,True,2272,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Eurythmics/Would I Lie To You?.mid
+Frankie Goes to Hollywood,Relax (Frankie Goes to Dreamscape).1.mid,122.00180562672327,True,1849,20,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Frankie Goes to Hollywood/Relax (Frankie Goes to Dreamscape).1.mid
+Frankie Goes to Hollywood,Relax (Frankie Goes to Dreamscape).mid,122.00180562672327,True,1849,20,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Frankie Goes to Hollywood/Relax (Frankie Goes to Dreamscape).mid
+Frankie Goes to Hollywood,Relax.1.mid,117.00011700011699,True,1335,20,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Frankie Goes to Hollywood/Relax.1.mid
+Frankie Goes to Hollywood,Relax.2.mid,113.99995440001824,True,2950,21,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Frankie Goes to Hollywood/Relax.2.mid
+Frankie Goes to Hollywood,Relax.3.mid,121.00189569636592,True,2715,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Frankie Goes to Hollywood/Relax.3.mid
+Frankie Goes to Hollywood,Relax.4.mid,115.00201253521936,True,2801,19,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Frankie Goes to Hollywood/Relax.4.mid
+Frankie Goes to Hollywood,Relax.mid,116.00030933415822,True,2090,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Frankie Goes to Hollywood/Relax.mid
+Frankie Goes to Hollywood,The Power of Love.mid,94.99950417369088,True,739,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Frankie Goes to Hollywood/The Power of Love.mid
+Garbage,Hammering in My Head.mid,145.00003625000906,True,3601,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Hammering in My Head.mid
+Garbage,I Think I'm Paranoid.mid,115.0000287500072,True,3231,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/I Think I'm Paranoid.mid
+Garbage,Medication.mid,82.49999286668933,True,3434,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Medication.mid
+Garbage,Milk.mid,94.00012846684224,True,712,5,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Milk.mid
+Garbage,No. 1 Crush.mid,93.99998120000376,True,4049,17,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/No. 1 Crush.mid
+Garbage,Not My Idea.mid,100.0,True,1503,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Not My Idea.mid
+Garbage,Only Happy When It Rains.1.mid,120.0,True,4744,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Only Happy When It Rains.1.mid
+Garbage,Push It.1.mid,123.99999173333387,True,3905,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Push It.1.mid
+Garbage,Push It.mid,123.99999173333387,True,3905,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Push It.mid
+Garbage,Queer.1.mid,100.0,True,2676,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Queer.1.mid
+Garbage,Queer.mid,90.00009000009,True,1832,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Queer.mid
+Garbage,Sleep Together.mid,130.00013000013,True,4729,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Sleep Together.mid
+Garbage,Special.1.mid,140.00014000014,True,2842,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Special.1.mid
+Garbage,Special.mid,140.00014000014,True,2842,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Special.mid
+Garbage,Stupid Girl.1.mid,120.0,True,3597,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Stupid Girl.1.mid
+Garbage,Stupid Girl.2.mid,120.0,True,3597,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Stupid Girl.2.mid
+Garbage,Stupid Girl.mid,120.0,True,3597,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Stupid Girl.mid
+Garbage,Temptation Waits.mid,125.0,True,6640,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/Temptation Waits.mid
+Garbage,The World Is Not Enough.mid,86.00005160003096,True,1696,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/The World Is Not Enough.mid
+Garbage,When I Grow Up.mid,130.00013000013,True,4304,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/When I Grow Up.mid
+Garbage,You Look So Fine.mid,100.0,True,7440,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Garbage/You Look So Fine.mid
+Howard Jones,Everlasting Love.mid,120.0,True,1805,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Howard Jones/Everlasting Love.mid
+Howard Jones,Life in One Day.mid,112.00005973336519,True,3982,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Howard Jones/Life in One Day.mid
+Howard Jones,Things Can Only Get Better.1.mid,124.00024800102562,True,4226,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Howard Jones/Things Can Only Get Better.1.mid
+Howard Jones,Things Can Only Get Better.mid,112.00089600716802,True,1754,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Howard Jones/Things Can Only Get Better.mid
+INXS,Bitter Tears.mid,120.0,True,3039,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/INXS/Bitter Tears.mid
+INXS,Disappear.mid,120.0,True,2703,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/INXS/Disappear.mid
+INXS,Need You Tonight.mid,120.0,True,1608,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/INXS/Need You Tonight.mid
+INXS,Never Tear Us Apart.1.mid,120.0,True,1139,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/INXS/Never Tear Us Apart.1.mid
+INXS,New Sensation.mid,113.00073450477427,True,2397,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/INXS/New Sensation.mid
+INXS,Not Enough Time.mid,96.0,True,3428,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/INXS/Not Enough Time.mid
+INXS,Taste It.mid,114.50327693459647,True,2859,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/INXS/Taste It.mid
+INXS,The Swing.1.mid,122.99996925000767,True,1301,5,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/INXS/The Swing.1.mid
+INXS,The Swing.mid,123.00022140039852,True,1301,5,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/INXS/The Swing.mid
+INXS,What You Need.2.mid,124.000248000496,True,1115,6,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/INXS/What You Need.2.mid
+New Order,Bizarre Love Triangle.1.mid,116.99988885010558,True,4354,30,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/New Order/Bizarre Love Triangle.1.mid
+New Order,Bizarre Love Triangle.mid,118.00013373348487,True,4354,27,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/New Order/Bizarre Love Triangle.mid
+New Order,Blue Monday.1.mid,133.00024161710562,True,4366,19,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/New Order/Blue Monday.1.mid
+New Order,Blue Monday.3.mid,133.00024161710562,True,4366,19,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/New Order/Blue Monday.3.mid
+New Order,Blue Monday.mid,132.9999468000213,True,4366,20,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/New Order/Blue Monday.mid
+New Order,True Faith.mid,122.00006913337249,True,2325,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/New Order/True Faith.mid
+New Order,World.mid,123.500127000254,True,6090,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/New Order/World.mid
+OMD,Enola Gay (OMD vs. Sash radio edit).1.mid,142.0000710000355,True,1629,16,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/OMD/Enola Gay (OMD vs. Sash radio edit).1.mid
+OMD,Enola Gay (OMD vs. Sash radio edit).mid,100.50001275000638,True,1428,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/OMD/Enola Gay (OMD vs. Sash radio edit).mid
+Pet Shop Boys,Always on My Mind   In My House.1.mid,124.000248000496,True,4811,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Always on My Mind   In My House.1.mid
+Pet Shop Boys,Always on My Mind   In My House.2.mid,121.00003456668625,True,4565,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Always on My Mind   In My House.2.mid
+Pet Shop Boys,Always on My Mind   In My House.4.mid,125.0,True,7178,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Always on My Mind   In My House.4.mid
+Pet Shop Boys,Always on My Mind   In My House.mid,114.00125401379417,True,3594,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Always on My Mind   In My House.mid
+Pet Shop Boys,Always.mid,128.0,True,4984,6,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Always.mid
+Pet Shop Boys,Before.mid,124.000248000496,True,7443,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Before.mid
+Pet Shop Boys,Being Boring.mid,120.0,True,2878,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Being Boring.mid
+Pet Shop Boys,Can You Forgive Her.mid,123.00022140039852,True,202,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Can You Forgive Her.mid
+Pet Shop Boys,Domino Dancing.mid,110.00091667430561,True,3740,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Domino Dancing.mid
+Pet Shop Boys,Go West.1.mid,115.0000287500072,True,4035,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Go West.1.mid
+Pet Shop Boys,Go West.2.mid,120.0,True,2794,20,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Go West.2.mid
+Pet Shop Boys,Go West.3.mid,115.00002875000717,True,4035,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Go West.3.mid
+Pet Shop Boys,Go West.4.mid,115.00002875000717,True,4035,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Go West.4.mid
+Pet Shop Boys,Go West.5.mid,120.0,True,3925,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Go West.5.mid
+Pet Shop Boys,Go West.6.mid,120.0,True,4035,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Go West.6.mid
+Pet Shop Boys,Go West.mid,120.0,True,5595,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Go West.mid
+Pet Shop Boys,Heart.1.mid,126.00012600012602,True,4931,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Heart.1.mid
+Pet Shop Boys,Heart.mid,126.00012600012599,True,4931,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Heart.mid
+Pet Shop Boys,I Wouldnt Normally Do This Kind of Thing.mid,134.00005806669182,True,1663,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/I Wouldnt Normally Do This Kind of Thing.mid
+Pet Shop Boys,It's Alright.mid,120.0,True,3043,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/It's Alright.mid
+Pet Shop Boys,It's a Sin.1.mid,127.500065000065,True,3231,22,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/It's a Sin.1.mid
+Pet Shop Boys,It's a Sin.3.mid,128.0,True,2060,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/It's a Sin.3.mid
+Pet Shop Boys,It's a Sin.4.mid,127.500065000065,True,3100,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/It's a Sin.4.mid
+Pet Shop Boys,It's a Sin.mid,126.00012600012602,True,2932,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/It's a Sin.mid
+Pet Shop Boys,Liberation.1.mid,107.00012661681652,True,3896,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Liberation.1.mid
+Pet Shop Boys,Liberation.mid,107.00146235331883,True,3896,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Liberation.mid
+Pet Shop Boys,One in a Million.1.mid,129.00007740004645,True,1791,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/One in a Million.1.mid
+Pet Shop Boys,One in a Million.2.mid,129.00007740004645,True,1791,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/One in a Million.2.mid
+Pet Shop Boys,One in a Million.mid,129.0017415235106,True,1791,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/One in a Million.mid
+Pet Shop Boys,Paninaro '95.1.mid,124.000248000496,True,5842,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Paninaro '95.1.mid
+Pet Shop Boys,Paninaro '95.mid,124.000248000496,True,5836,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Paninaro '95.mid
+Pet Shop Boys,Se a Vida E (That's the Way Life Is).1.mid,91.99998773333496,True,5584,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Se a Vida E (That's the Way Life Is).1.mid
+Pet Shop Boys,Se a Vida E (That's the Way Life Is).mid,93.00004185001883,True,7018,18,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Se a Vida E (That's the Way Life Is).mid
+Pet Shop Boys,So Hard.1.mid,124.000248000496,True,4619,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/So Hard.1.mid
+Pet Shop Boys,So Hard.mid,124.000248000496,True,4619,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/So Hard.mid
+Pet Shop Boys,West End Girls.1.mid,114.0001710002565,True,3141,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/West End Girls.1.mid
+Pet Shop Boys,West End Girls.2.mid,114.0001710002565,True,3141,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/West End Girls.2.mid
+Pet Shop Boys,West End Girls.3.mid,113.99995440001824,True,3141,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/West End Girls.3.mid
+Pet Shop Boys,West End Girls.4.mid,114.00125401379417,True,3137,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/West End Girls.4.mid
+Pet Shop Boys,West End Girls.mid,115.00201253521936,True,2567,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/West End Girls.mid
+Pet Shop Boys,What Have I Done to Deserve This.mid,114.00125401379417,True,3754,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/What Have I Done to Deserve This.mid
+Pet Shop Boys,Where the Streets Have No Name.mid,127.00025400050801,True,3678,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Pet Shop Boys/Where the Streets Have No Name.mid
+Robyn,Show Me Love.mid,91.99998773333496,True,1156,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Robyn/Show Me Love.mid
+Simple Minds,Alive & Kicking.1.mid,103.00075533887248,True,2246,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/Alive & Kicking.1.mid
+Simple Minds,Alive & Kicking.mid,103.0000480666891,True,2246,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/Alive & Kicking.mid
+Simple Minds,Don't You (Forget About Me).1.mid,114.0001710002565,True,2138,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/Don't You (Forget About Me).1.mid
+Simple Minds,Don't You (Forget About Me).2.mid,114.00125401379417,True,1926,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/Don't You (Forget About Me).2.mid
+Simple Minds,Don't You (Forget About Me).3.mid,102.49999187501484,True,2763,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/Don't You (Forget About Me).3.mid
+Simple Minds,Don't You (Forget About Me).4.mid,114.0001710002565,True,1925,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/Don't You (Forget About Me).4.mid
+Simple Minds,Don't You (Forget About Me).mid,117.00008550012825,True,1925,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/Don't You (Forget About Me).mid
+Simple Minds,Mandela Day.1.mid,96.0,True,2328,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/Mandela Day.1.mid
+Simple Minds,Mandela Day.mid,96.0,True,2328,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/Mandela Day.mid
+Simple Minds,She's a River.1.mid,93.00004185001883,True,2265,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/She's a River.1.mid
+Simple Minds,She's a River.mid,93.00018600037201,True,5025,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Simple Minds/She's a River.mid
+Soft Cell,Something's Gotten Hold of My Heart.mid,90.0009000090001,True,990,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Soft Cell/Something's Gotten Hold of My Heart.mid
+Soft Cell,Tainted Love.1.mid,146.00742691111554,True,909,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Soft Cell/Tainted Love.1.mid
+Soft Cell,Tainted Love.2.mid,140.00046666822223,True,1689,6,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Soft Cell/Tainted Love.2.mid
+Soft Cell,Tainted Love.mid,144.00921658986175,True,2029,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Soft Cell/Tainted Love.mid
+Spandau Ballet,Gold.1.mid,143.03082314238722,True,1810,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Spandau Ballet/Gold.1.mid
+Spandau Ballet,Gold.mid,143.00014300014297,True,1814,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Spandau Ballet/Gold.mid
+Spandau Ballet,True.1.mid,100.0,True,1419,23,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Spandau Ballet/True.1.mid
+Spandau Ballet,True.2.mid,99.99999999999999,True,1011,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Spandau Ballet/True.2.mid
+Spandau Ballet,True.3.mid,98.00270487465454,True,1598,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Spandau Ballet/True.3.mid
+Spandau Ballet,True.mid,99.99999999999999,True,1419,23,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Spandau Ballet/True.mid
+Talk Talk,It's My Life.mid,125.0,True,2334,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Talk Talk/It's My Life.mid
+Talk Talk,Such a Shame.mid,123.00123001230013,True,2647,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Talk Talk/Such a Shame.mid
+Tears for Fears,Everybody Wants To Rule The World.1.mid,110.00011000011,True,1886,19,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Everybody Wants To Rule The World.1.mid
+Tears for Fears,Everybody Wants To Rule The World.2.mid,109.99990833340972,True,1886,19,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Everybody Wants To Rule The World.2.mid
+Tears for Fears,Everybody Wants To Rule The World.3.mid,111.00011100011099,True,2842,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Everybody Wants To Rule The World.3.mid
+Tears for Fears,Everybody Wants To Rule The World.mid,110.00091667430561,True,1883,19,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Everybody Wants To Rule The World.mid
+Tears for Fears,Head Over Heels.mid,101.00006901671382,True,921,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Head Over Heels.mid
+Tears for Fears,Laid So Low (Tears Roll Down).mid,115.00201253521936,True,3949,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Laid So Low (Tears Roll Down).mid
+Tears for Fears,Shout.1.mid,95.00014250021376,True,2510,17,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Shout.1.mid
+Tears for Fears,Shout.2.mid,98.00014373354414,True,7082,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Shout.2.mid
+Tears for Fears,Shout.3.mid,98.00078400627207,True,7082,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Shout.3.mid
+Tears for Fears,Shout.4.mid,97.9999836666694,True,7081,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Shout.4.mid
+Tears for Fears,Shout.5.mid,98.00014373354416,True,7081,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Shout.5.mid
+Tears for Fears,Shout.mid,95.00014250021376,True,2510,17,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Shout.mid
+Tears for Fears,Sowing the Seeds of Love.1.mid,143.50070471141632,True,2913,15,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Tears for Fears/Sowing the Seeds of Love.1.mid
+The Cars,Bye Bye Love.mid,130.00013000013,True,1713,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Bye Bye Love.mid
+The Cars,Drive.1.mid,83.0000650167176,True,2457,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Drive.1.mid
+The Cars,Drive.2.mid,82.99995020002989,True,2457,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Drive.2.mid
+The Cars,Drive.3.mid,130.00013000013,True,2035,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Drive.3.mid
+The Cars,Drive.4.mid,84.00008400008399,True,2748,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Drive.4.mid
+The Cars,Drive.5.mid,83.0000650167176,True,2457,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Drive.5.mid
+The Cars,Drive.mid,86.00054467011624,True,2457,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Drive.mid
+The Cars,Good Times Roll.1.mid,109.00172586065946,True,1346,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Good Times Roll.1.mid
+The Cars,Good Times Roll.mid,109.00014170018423,True,1346,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Good Times Roll.mid
+The Cars,It's All I Can Do.mid,120.0,True,1591,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/It's All I Can Do.mid
+The Cars,Just What I Needed.1.mid,130.00013000013,True,1158,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Just What I Needed.1.mid
+The Cars,Just What I Needed.2.mid,130.00013000013,True,1158,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Just What I Needed.2.mid
+The Cars,Just What I Needed.mid,130.0023833770286,True,1158,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Just What I Needed.mid
+The Cars,Let's Go.1.mid,131.00007641671124,True,1674,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Let's Go.1.mid
+The Cars,Let's Go.2.mid,131.00007641671124,True,1673,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Let's Go.2.mid
+The Cars,Let's Go.3.mid,131.00007641671124,True,1673,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Let's Go.3.mid
+The Cars,Let's Go.mid,131.0015065173249,True,1669,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Let's Go.mid
+The Cars,My Best Friend's Girl.mid,120.0,True,1553,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/My Best Friend's Girl.mid
+The Cars,Shake It Up.mid,151.00037750094376,True,2498,20,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Shake It Up.mid
+The Cars,Tonight She Comes.mid,145.00003625000906,True,2053,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/Tonight She Comes.mid
+The Cars,You Might Think.1.mid,137.99987580011177,True,4063,18,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/You Might Think.1.mid
+The Cars,You Might Think.2.mid,137.99987580011177,True,4063,19,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/You Might Think.2.mid
+The Cars,You Might Think.3.mid,138.000828004968,True,4063,18,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/You Might Think.3.mid
+The Cars,You Might Think.mid,138.00019320027047,True,4063,18,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Cars/You Might Think.mid
+The Human League,Don't You Want Me.mid,118.0010620095581,True,2326,11,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Human League/Don't You Want Me.mid
+The Human League,Tell Me When.mid,120.0,True,4723,10,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/The Human League/Tell Me When.mid
+Ultravox,Vienna.mid,72.0000288000115,True,560,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Ultravox/Vienna.mid
+Visage,Fade to Gray.mid,115.00002875000717,True,1460,14,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Visage/Fade to Gray.mid
+Visage,Fade to Grey.mid,112.00005973336519,True,1547,18,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Visage/Fade to Grey.mid
+Wham!,Careless Whisper.1.mid,77.99997660000702,True,4006,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Wham!/Careless Whisper.1.mid
+Wham!,Careless Whisper.2.mid,78.00007800007802,True,4006,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Wham!/Careless Whisper.2.mid
+Wham!,Careless Whisper.mid,78.00007800007802,True,4006,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Wham!/Careless Whisper.mid
+Wham!,Everything She Wants.1.mid,115.0000287500072,True,2381,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Wham!/Everything She Wants.1.mid
+Wham!,Everything She Wants.mid,110.05502751375687,True,7163,7,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Wham!/Everything She Wants.mid
+Wham!,If You Were There.mid,127.00025400050801,True,1713,8,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Wham!/If You Were There.mid
+Yazoo,Don't Go.mid,128.0,True,3097,13,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Yazoo/Don't Go.mid
+Yazoo,Situation.mid,92.00055200331204,True,3154,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/Yazoo/Situation.mid
+a-ha,Hunting High and Low.mid,100.0,True,1031,12,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/a-ha/Hunting High and Low.mid
+a-ha,Take On Me.6.mid,155.00031000062,True,2294,9,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/a-ha/Take On Me.6.mid
+a-ha,The Living Daylights.1.mid,120.99994353335967,True,3602,22,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/a-ha/The Living Daylights.1.mid
+a-ha,The Living Daylights.mid,120.99994353335968,True,3602,22,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/a-ha/The Living Daylights.mid
+a-ha,The Sun Always Shines on TV.mid,132.000132000132,True,2466,44,/Users/donghyunhahn/Desktop/spring 2026/cse 153/Assignment 2/data/clean_midi/a-ha/The Sun Always Shines on TV.mid
