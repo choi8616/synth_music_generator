@@ -1,0 +1,336 @@
+artist,song,bass_path,instrument_program,instrument_name,n_notes,avg_pitch,bpm
+ABC,4 Ever 2 Gether.mid,ABC__4_Ever_2_Gether.mid,35,Fretless Bass,518,39.88803088803089,89.99995500002248
+ABC,"Look of Love, Part 1.mid","ABC__Look_of_Love,_Part_1.mid",39,Synth Bass 2,590,30.89322033898305,120.99994353335967
+ABC,Poison Arrow.mid,ABC__Poison_Arrow.mid,33,Electric Bass (finger),613,36.22675367047308,126.00012600012602
+Bronski Beat,Small Town Boy.mid,Bronski_Beat__Small_Town_Boy.mid,35,Fretless Bass,1344,43.407738095238095,126.99998518333504
+Culture Club,Church of the Poison Mind.mid,Culture_Club__Church_of_the_Poison_Mind.mid,35,Fretless Bass,699,36.63376251788269,130.00013000013
+Culture Club,Do You Really Want to Hurt Me.1.mid,Culture_Club__Do_You_Really_Want_to_Hurt_Me.1.mid,35,Fretless Bass,531,37.63841807909605,82.00000693333426
+Culture Club,Do You Really Want to Hurt Me.mid,Culture_Club__Do_You_Really_Want_to_Hurt_Me.mid,35,Fretless Bass,531,37.63841807909605,104.00001386666852
+Depeche Mode,Barrel Of A Gun.mid,Depeche_Mode__Barrel_Of_A_Gun.mid,34,Electric Bass (pick),1449,40.690131124913734,82.9999502000299
+Depeche Mode,Black Celebration.1.mid,Depeche_Mode__Black_Celebration.1.mid,39,Synth Bass 2,1256,38.0,120.0
+Depeche Mode,Black Celebration.2.mid,Depeche_Mode__Black_Celebration.2.mid,39,Synth Bass 2,1256,38.0,120.0
+Depeche Mode,Black Celebration.3.mid,Depeche_Mode__Black_Celebration.3.mid,30,Distortion Guitar,1256,38.0,120.0
+Depeche Mode,Black Celebration.mid,Depeche_Mode__Black_Celebration.mid,30,Distortion Guitar,1256,38.0,120.0
+Depeche Mode,Blasphemous Rumours.1.mid,Depeche_Mode__Blasphemous_Rumours.1.mid,90,Pad 3 (polysynth),276,48.26086956521739,109.99990833340973
+Depeche Mode,Blasphemous Rumours.2.mid,Depeche_Mode__Blasphemous_Rumours.2.mid,52,Choir Aahs,276,48.26086956521739,110.00011000011
+Depeche Mode,Blasphemous Rumours.mid,Depeche_Mode__Blasphemous_Rumours.mid,0,Acoustic Grand Piano,276,48.26086956521739,110.00011000011
+Depeche Mode,Boys Say Go!.mid,Depeche_Mode__Boys_Say_Go!.mid,32,Acoustic Bass,510,35.66274509803922,137.0000639333632
+Depeche Mode,But Not Tonight.mid,Depeche_Mode__But_Not_Tonight.mid,38,Synth Bass 1,1060,42.69056603773585,128.0000725334107
+Depeche Mode,Dream On.mid,Depeche_Mode__Dream_On.mid,39,Synth Bass 2,649,30.956856702619415,126.99998518333504
+Depeche Mode,Dreaming of Me.1.mid,Depeche_Mode__Dreaming_of_Me.1.mid,99,FX 4 (atmosphere),940,48.92553191489362,135.000135000135
+Depeche Mode,Dreaming of Me.2.mid,Depeche_Mode__Dreaming_of_Me.2.mid,38,Synth Bass 1,936,35.379273504273506,130.00013000013
+Depeche Mode,Dreaming of Me.mid,Depeche_Mode__Dreaming_of_Me.mid,99,FX 4 (atmosphere),940,48.92553191489362,135.000135000135
+Depeche Mode,Enjoy the Silence.1.mid,Depeche_Mode__Enjoy_the_Silence.1.mid,54,Synth Choir,932,37.28648068669528,120.0
+Depeche Mode,Enjoy the Silence.mid,Depeche_Mode__Enjoy_the_Silence.mid,33,Electric Bass (finger),1399,34.20157255182273,115.00201253521936
+Depeche Mode,Everything Counts.1.mid,Depeche_Mode__Everything_Counts.1.mid,38,Synth Bass 1,635,43.725984251968505,108.000108000108
+Depeche Mode,Everything Counts.2.mid,Depeche_Mode__Everything_Counts.2.mid,39,Synth Bass 2,641,43.68954758190328,109.00014170018422
+Depeche Mode,Everything Counts.mid,Depeche_Mode__Everything_Counts.mid,38,Synth Bass 1,635,43.725984251968505,108.000108000108
+Depeche Mode,Fly on the Windscreen (Final).mid,Depeche_Mode__Fly_on_the_Windscreen_(Final).mid,38,Synth Bass 1,820,42.863414634146345,94.99999208333399
+Depeche Mode,I Sometimes Wish I Was Dead.mid,Depeche_Mode__I_Sometimes_Wish_I_Was_Dead.mid,63,Synth Brass 2,817,43.34638922888617,127.00025400050801
+Depeche Mode,Ice Machine.1.mid,Depeche_Mode__Ice_Machine.1.mid,80,Lead 1 (square),769,47.21586475942783,135.000135000135
+Depeche Mode,Ice Machine.mid,Depeche_Mode__Ice_Machine.mid,15,Dulcimer,713,46.420757363253855,112.00005973336519
+Depeche Mode,In Your Room.mid,Depeche_Mode__In_Your_Room.mid,35,Fretless Bass,215,25.81860465116279,99.000099000099
+Depeche Mode,It's No Good.mid,Depeche_Mode__It's_No_Good.mid,39,Synth Bass 2,1340,35.471641791044775,99.19995238402284
+Depeche Mode,Just Can't Get Enough.1.mid,Depeche_Mode__Just_Can't_Get_Enough.1.mid,69,English Horn,282,36.02127659574468,130.00013000013
+Depeche Mode,Just Can't Get Enough.2.mid,Depeche_Mode__Just_Can't_Get_Enough.2.mid,38,Synth Bass 1,211,34.36492890995261,128.0
+Depeche Mode,Just Can't Get Enough.3.mid,Depeche_Mode__Just_Can't_Get_Enough.3.mid,38,Synth Bass 1,906,57.05739514348786,130.0023833770286
+Depeche Mode,Just Can't Get Enough.mid,Depeche_Mode__Just_Can't_Get_Enough.mid,63,Synth Brass 2,432,35.342592592592595,130.00013000013
+Depeche Mode,Master and Servant.1.mid,Depeche_Mode__Master_and_Servant.1.mid,37,Slap Bass 2,864,44.013888888888886,126.00012600012599
+Depeche Mode,Master and Servant.2.mid,Depeche_Mode__Master_and_Servant.2.mid,34,Electric Bass (pick),709,42.239774330042316,126.00012600012602
+Depeche Mode,Master and Servant.mid,Depeche_Mode__Master_and_Servant.mid,36,Slap Bass 1,864,44.013888888888886,126.00012600012602
+Depeche Mode,Never Let Me Down Again.mid,Depeche_Mode__Never_Let_Me_Down_Again.mid,30,Distortion Guitar,546,44.67399267399267,109.00014170018423
+Depeche Mode,New Life (remix).mid,Depeche_Mode__New_Life_(remix).mid,35,Fretless Bass,805,48.47204968944099,159.0002067002687
+Depeche Mode,New Life.mid,Depeche_Mode__New_Life.mid,35,Fretless Bass,792,48.446969696969695,159.0002067002687
+Depeche Mode,No Disco.mid,Depeche_Mode__No_Disco.mid,38,Synth Bass 1,100,35.5,123.00022140039853
+Depeche Mode,People Are People.mid,Depeche_Mode__People_Are_People.mid,38,Synth Bass 1,450,34.153333333333336,120.0
+Depeche Mode,Personal Jesus.mid,Depeche_Mode__Personal_Jesus.mid,37,Slap Bass 2,449,32.919821826280625,135.06668917778154
+Depeche Mode,Photographic.1.mid,Depeche_Mode__Photographic.1.mid,32,Acoustic Bass,1024,51.9140625,120.0
+Depeche Mode,Photographic.2.mid,Depeche_Mode__Photographic.2.mid,37,Slap Bass 2,1296,33.592592592592595,155.00271254746957
+Depeche Mode,Photographic.3.mid,Depeche_Mode__Photographic.3.mid,38,Synth Bass 1,1296,39.592592592592595,146.00032120070665
+Depeche Mode,Photographic.mid,Depeche_Mode__Photographic.mid,39,Synth Bass 2,1296,33.592592592592595,150.0
+Depeche Mode,Pipeline.mid,Depeche_Mode__Pipeline.mid,34,Electric Bass (pick),154,66.81818181818181,80.0
+Depeche Mode,Policy of Truth.1.mid,Depeche_Mode__Policy_of_Truth.1.mid,35,Fretless Bass,482,44.1058091286307,110.00011000011
+Depeche Mode,Policy of Truth.mid,Depeche_Mode__Policy_of_Truth.mid,34,Electric Bass (pick),592,35.20945945945946,120.0
+Depeche Mode,Puppets.1.mid,Depeche_Mode__Puppets.1.mid,39,Synth Bass 2,746,40.715817694369974,120.0
+Depeche Mode,Puppets.mid,Depeche_Mode__Puppets.mid,0,Acoustic Grand Piano,384,44.760416666666664,120.0
+Depeche Mode,Shake the Disease.1.mid,Depeche_Mode__Shake_the_Disease.1.mid,38,Synth Bass 1,885,49.18079096045198,120.0
+Depeche Mode,Shout (Rio mix).mid,Depeche_Mode__Shout_(Rio_mix).mid,38,Synth Bass 1,1138,45.17047451669596,118.50002666250599
+Depeche Mode,Shout.mid,Depeche_Mode__Shout.mid,90,Pad 3 (polysynth),114,46.26315789473684,118.50002666250599
+Depeche Mode,Strange Love.1.mid,Depeche_Mode__Strange_Love.1.mid,39,Synth Bass 2,298,39.09731543624161,120.0
+Depeche Mode,Strange Love.mid,Depeche_Mode__Strange_Love.mid,39,Synth Bass 2,298,39.09731543624161,120.0
+Depeche Mode,Strangelove.1.mid,Depeche_Mode__Strangelove.1.mid,39,Synth Bass 2,298,39.09731543624161,120.0
+Depeche Mode,Strangelove.mid,Depeche_Mode__Strangelove.mid,39,Synth Bass 2,298,39.09731543624161,120.0
+Depeche Mode,The Things You Said.1.mid,Depeche_Mode__The_Things_You_Said.1.mid,33,Electric Bass (finger),519,42.80154142581888,110.00011000011
+Depeche Mode,The Things You Said.mid,Depeche_Mode__The_Things_You_Said.mid,30,Distortion Guitar,561,42.57932263814617,115.0000287500072
+Depeche Mode,Tora! Tora! Tora!.1.mid,Depeche_Mode__Tora!_Tora!_Tora!.1.mid,38,Synth Bass 1,421,30.52019002375297,118.00013373348487
+Depeche Mode,Walking in My Shoes.mid,Depeche_Mode__Walking_in_My_Shoes.mid,33,Electric Bass (finger),1021,31.55533790401567,94.00115934763195
+Duran Duran,A View To A Kill.1.mid,Duran_Duran__A_View_To_A_Kill.1.mid,33,Electric Bass (finger),559,35.56529516994633,126.99998518333504
+Duran Duran,A View To A Kill.2.mid,Duran_Duran__A_View_To_A_Kill.2.mid,33,Electric Bass (finger),565,35.22654867256637,126.99003974788243
+Duran Duran,A View To A Kill.3.mid,Duran_Duran__A_View_To_A_Kill.3.mid,33,Electric Bass (finger),559,35.56529516994633,126.99998518333504
+Duran Duran,A View To A Kill.mid,Duran_Duran__A_View_To_A_Kill.mid,33,Electric Bass (finger),565,35.22654867256637,126.99003974788243
+Duran Duran,Come Undone.2.mid,Duran_Duran__Come_Undone.2.mid,36,Slap Bass 1,616,37.186688311688314,100.05002501250625
+Duran Duran,Come Undone.3.mid,Duran_Duran__Come_Undone.3.mid,36,Slap Bass 1,616,37.186688311688314,100.05002501250625
+Duran Duran,Come Undone.4.mid,Duran_Duran__Come_Undone.4.mid,36,Slap Bass 1,472,37.99364406779661,100.05002501250625
+Duran Duran,Come Undone.5.mid,Duran_Duran__Come_Undone.5.mid,36,Slap Bass 1,472,37.99364406779661,100.04935768312367
+Duran Duran,Come Undone.mid,Duran_Duran__Come_Undone.mid,33,Electric Bass (finger),620,34.09193548387097,87.00065250489381
+Duran Duran,Downtown.mid,Duran_Duran__Downtown.mid,39,Synth Bass 2,612,29.730392156862745,120.0
+Duran Duran,Girls On Film.mid,Duran_Duran__Girls_On_Film.mid,33,Electric Bass (finger),916,36.04585152838428,132.20023046906846
+Duran Duran,Girls on Film.1.mid,Duran_Duran__Girls_on_Film.1.mid,26,Electric Guitar (jazz),486,35.989711934156375,105.00157502362535
+Duran Duran,Hungry Like The Wolf (Night Version).mid,Duran_Duran__Hungry_Like_The_Wolf_(Night_Version).mid,36,Slap Bass 1,40,42.1,134.00005806669182
+Duran Duran,Hungry Like a Wolf.1.mid,Duran_Duran__Hungry_Like_a_Wolf.1.mid,32,Acoustic Bass,842,39.0855106888361,120.0
+Duran Duran,Hungry Like a Wolf.mid,Duran_Duran__Hungry_Like_a_Wolf.mid,32,Acoustic Bass,842,39.0855106888361,120.0
+Duran Duran,New Moon on Monday.1.mid,Duran_Duran__New_Moon_on_Monday.1.mid,33,Electric Bass (finger),693,34.311688311688314,120.0
+Duran Duran,New Moon on Monday.mid,Duran_Duran__New_Moon_on_Monday.mid,33,Electric Bass (finger),693,34.311688311688314,120.0
+Duran Duran,Notorious.1.mid,Duran_Duran__Notorious.1.mid,37,Slap Bass 2,476,41.26890756302521,107.00012661681652
+Duran Duran,Notorious.2.mid,Duran_Duran__Notorious.2.mid,37,Slap Bass 2,476,41.26890756302521,107.00012661681652
+Duran Duran,Notorious.mid,Duran_Duran__Notorious.mid,37,Slap Bass 2,476,41.26890756302521,107.00146235331883
+Duran Duran,Ordinary World.2.mid,Duran_Duran__Ordinary_World.2.mid,35,Fretless Bass,395,36.93164556962025,70.00023333411112
+Duran Duran,Ordinary World.mid,Duran_Duran__Ordinary_World.mid,28,Electric Guitar (muted),633,50.53080568720379,138.000828004968
+Duran Duran,Rio.1.mid,Duran_Duran__Rio.1.mid,36,Slap Bass 1,880,40.282954545454544,131.00007641671124
+Duran Duran,Rio.mid,Duran_Duran__Rio.mid,35,Fretless Bass,876,40.33904109589041,131.00007641671124
+Duran Duran,Save a Prayer.1.mid,Duran_Duran__Save_a_Prayer.1.mid,0,Acoustic Grand Piano,484,67.66735537190083,113.00009605008167
+Duran Duran,The Chauffeur.1.mid,Duran_Duran__The_Chauffeur.1.mid,33,Electric Bass (finger),310,33.00967741935484,82.00003553334875
+Duran Duran,The Chauffeur.mid,Duran_Duran__The_Chauffeur.mid,0,Acoustic Grand Piano,390,43.135897435897434,89.99995500002248
+Duran Duran,The Reflex.1.mid,Duran_Duran__The_Reflex.1.mid,33,Electric Bass (finger),754,34.8315649867374,122.99996925000767
+Duran Duran,The Reflex.2.mid,Duran_Duran__The_Reflex.2.mid,33,Electric Bass (finger),754,34.8315649867374,122.99996925000767
+Duran Duran,The Reflex.mid,Duran_Duran__The_Reflex.mid,33,Electric Bass (finger),754,34.8315649867374,123.00022140039853
+Duran Duran,The Wild Boys.1.mid,Duran_Duran__The_Wild_Boys.1.mid,37,Slap Bass 2,519,21.67630057803468,116.99988885010558
+Duran Duran,The Wild Boys.mid,Duran_Duran__The_Wild_Boys.mid,37,Slap Bass 2,519,21.67630057803468,116.99988885010558
+Duran Duran,Union of the Snake.1.mid,Duran_Duran__Union_of_the_Snake.1.mid,33,Electric Bass (finger),640,33.471875,107.50001437500359
+Duran Duran,Union of the Snake.mid,Duran_Duran__Union_of_the_Snake.mid,33,Electric Bass (finger),640,33.471875,117.50001437500359
+Erasure,A Little Respect.1.mid,Erasure__A_Little_Respect.1.mid,38,Synth Bass 1,1344,32.666666666666664,113.99995440001827
+Erasure,A Little Respect.2.mid,Erasure__A_Little_Respect.2.mid,38,Synth Bass 1,1344,32.666666666666664,114.00125401379417
+Erasure,A Little Respect.3.mid,Erasure__A_Little_Respect.3.mid,38,Synth Bass 1,1344,32.666666666666664,114.00017100025649
+Erasure,A Little Respect.4.mid,Erasure__A_Little_Respect.4.mid,38,Synth Bass 1,1344,32.666666666666664,114.00017100025649
+Erasure,A Little Respect.mid,Erasure__A_Little_Respect.mid,38,Synth Bass 1,1344,32.666666666666664,114.00017100025649
+Erasure,Abba-Esque (Take a Chance On Me).mid,Erasure__Abba-Esque_(Take_a_Chance_On_Me).mid,38,Synth Bass 1,1484,38.309973045822105,122.00180562672327
+Erasure,Always.1.mid,Erasure__Always.1.mid,35,Fretless Bass,607,34.833607907743,104.00001386666852
+Erasure,Always.2.mid,Erasure__Always.2.mid,35,Fretless Bass,607,34.833607907743,104.00001386666852
+Erasure,Always.3.mid,Erasure__Always.3.mid,35,Fretless Bass,607,34.833607907743,104.00001386666852
+Erasure,Always.mid,Erasure__Always.mid,39,Synth Bass 2,1183,34.19949281487743,103.00075533887248
+Erasure,Blue Savannah.1.mid,Erasure__Blue_Savannah.1.mid,39,Synth Bass 2,1101,31.599455040871934,135.000135000135
+Erasure,Blue Savannah.2.mid,Erasure__Blue_Savannah.2.mid,39,Synth Bass 2,1101,31.599455040871934,135.00135001350014
+Erasure,Blue Savannah.mid,Erasure__Blue_Savannah.mid,39,Synth Bass 2,1101,31.599455040871934,135.000135000135
+Erasure,Breath of Life.1.mid,Erasure__Breath_of_Life.1.mid,89,Pad 2 (warm),126,35.82539682539682,132.9999468000213
+Erasure,Breath of Life.2.mid,Erasure__Breath_of_Life.2.mid,89,Pad 2 (warm),126,35.82539682539682,132.9999468000213
+Erasure,Breath of Life.mid,Erasure__Breath_of_Life.mid,30,Distortion Guitar,1473,38.72369314324508,132.000132000132
+Erasure,Chains of Love.1.mid,Erasure__Chains_of_Love.1.mid,38,Synth Bass 1,856,34.700934579439256,105.50012140014206
+Erasure,Chains of Love.2.mid,Erasure__Chains_of_Love.2.mid,38,Synth Bass 1,856,34.700934579439256,105.50012140014206
+Erasure,Chains of Love.3.mid,Erasure__Chains_of_Love.3.mid,38,Synth Bass 1,856,34.700934579439256,105.50151185504536
+Erasure,Chains of Love.mid,Erasure__Chains_of_Love.mid,38,Synth Bass 1,856,34.700934579439256,105.50012140014206
+Erasure,Fingers & Thumbs (Cold Summer's Day).1.mid,Erasure__Fingers_&_Thumbs_(Cold_Summer's_Day).1.mid,35,Fretless Bass,1083,34.581717451523545,125.0
+Erasure,Fingers & Thumbs (Cold Summer's Day).mid,Erasure__Fingers_&_Thumbs_(Cold_Summer's_Day).mid,35,Fretless Bass,1083,34.581717451523545,125.0
+Erasure,Glass Angel.mid,Erasure__Glass_Angel.mid,35,Fretless Bass,1089,33.352617079889804,120.0
+Erasure,Home.1.mid,Erasure__Home.1.mid,35,Fretless Bass,529,34.82041587901701,107.50001437500359
+Erasure,Home.mid,Erasure__Home.mid,35,Fretless Bass,529,34.82041587901701,107.50001437500359
+Erasure,I Love Saturday.mid,Erasure__I_Love_Saturday.mid,38,Synth Bass 1,904,39.8108407079646,130.00013000013
+Erasure,Magic Moments.1.mid,Erasure__Magic_Moments.1.mid,32,Acoustic Bass,469,36.32835820895522,156.00015600015604
+Erasure,Magic Moments.mid,Erasure__Magic_Moments.mid,32,Acoustic Bass,469,36.32835820895522,156.00015600015604
+Erasure,Man in the Moon.1.mid,Erasure__Man_in_the_Moon.1.mid,35,Fretless Bass,253,36.094861660079054,118.00013373348487
+Erasure,Man in the Moon.mid,Erasure__Man_in_the_Moon.mid,35,Fretless Bass,253,36.094861660079054,118.00013373348487
+Erasure,Miracle.mid,Erasure__Miracle.mid,37,Slap Bass 2,128,35.75,120.0
+Erasure,Oh L'Amour.mid,Erasure__Oh_L'Amour.mid,33,Electric Bass (finger),570,40.835087719298244,82.00003553334875
+Erasure,Oh Lamour.mid,Erasure__Oh_Lamour.mid,33,Electric Bass (finger),570,40.835087719298244,82.00003553334875
+Erasure,Siren Song.mid,Erasure__Siren_Song.mid,38,Synth Bass 1,554,35.91696750902527,92.00012880018032
+Erasure,So the Story Goes.mid,Erasure__So_the_Story_Goes.mid,35,Fretless Bass,69,33.14492753623188,97.5000975000975
+Erasure,Sometimes (12'' mix).mid,Erasure__Sometimes_(12''_mix).mid,39,Synth Bass 2,1773,35.15228426395939,130.00013000013
+Erasure,Sometimes.mid,Erasure__Sometimes.mid,38,Synth Bass 1,1057,56.64616840113529,108.000108000108
+Erasure,Star.mid,Erasure__Star.mid,35,Fretless Bass,893,38.3986562150056,123.00022140039853
+Erasure,Stop!.1.mid,Erasure__Stop!.1.mid,38,Synth Bass 1,987,36.33130699088146,120.0
+Erasure,Stop!.mid,Erasure__Stop!.mid,38,Synth Bass 1,987,36.33130699088146,120.0
+Erasure,Take Me Back.1.mid,Erasure__Take_Me_Back.1.mid,35,Fretless Bass,195,34.48717948717949,83.00032168874807
+Erasure,Take Me Back.mid,Erasure__Take_Me_Back.mid,35,Fretless Bass,195,34.48717948717949,81.50005826671487
+Eurythmics,1984.mid,Eurythmics__1984.mid,34,Electric Bass (pick),518,34.96718146718147,136.0001450668214
+Eurythmics,Don't Ask Me Why.mid,Eurythmics__Don't_Ask_Me_Why.mid,35,Fretless Bass,992,33.52217741935484,118.0010620095581
+Eurythmics,Here Comes the Rain Again.1.mid,Eurythmics__Here_Comes_the_Rain_Again.1.mid,38,Synth Bass 1,2101,49.83674440742504,126.00012600012602
+Eurythmics,Here Comes the Rain Again.2.mid,Eurythmics__Here_Comes_the_Rain_Again.2.mid,38,Synth Bass 1,1795,45.00557103064067,126.00012600012602
+Eurythmics,Here Comes the Rain Again.3.mid,Eurythmics__Here_Comes_the_Rain_Again.3.mid,38,Synth Bass 1,1795,45.00557103064067,126.00012600012599
+Eurythmics,Here Comes the Rain Again.4.mid,Eurythmics__Here_Comes_the_Rain_Again.4.mid,38,Synth Bass 1,2101,49.83674440742504,126.00012600012602
+Eurythmics,Here Comes the Rain Again.mid,Eurythmics__Here_Comes_the_Rain_Again.mid,38,Synth Bass 1,2101,49.83674440742504,126.00012600012602
+Eurythmics,I Saved the World Today.mid,Eurythmics__I_Saved_the_World_Today.mid,33,Electric Bass (finger),450,34.33555555555556,120.0
+Eurythmics,It's Alright (Baby's Coming Back).mid,Eurythmics__It's_Alright_(Baby's_Coming_Back).mid,38,Synth Bass 1,856,40.14485981308411,96.0
+Eurythmics,Love Is a Stranger.1.mid,Eurythmics__Love_Is_a_Stranger.1.mid,38,Synth Bass 1,913,32.23986856516977,124.000248000496
+Eurythmics,Love Is a Stranger.mid,Eurythmics__Love_Is_a_Stranger.mid,28,Electric Guitar (muted),687,44.42940320232896,106.00013780017916
+Eurythmics,Missionary Man.mid,Eurythmics__Missionary_Man.mid,37,Slap Bass 2,415,32.33734939759036,123.00123001230013
+Eurythmics,Right by Your Side.mid,Eurythmics__Right_by_Your_Side.mid,33,Electric Bass (finger),226,33.56637168141593,85.00004250002125
+Eurythmics,Sisters Are Doing It for Themselves.mid,Eurythmics__Sisters_Are_Doing_It_for_Themselves.mid,38,Synth Bass 1,714,30.0,135.00135001350014
+Eurythmics,Sweet Dreams.1.mid,Eurythmics__Sweet_Dreams.1.mid,90,Pad 3 (polysynth),604,42.53476821192053,124.000248000496
+Eurythmics,Sweet Dreams.2.mid,Eurythmics__Sweet_Dreams.2.mid,90,Pad 3 (polysynth),604,42.53476821192053,123.99999173333387
+Eurythmics,Sweet Dreams.3.mid,Eurythmics__Sweet_Dreams.3.mid,38,Synth Bass 1,571,40.443082311733804,120.01008084679113
+Eurythmics,Sweet Dreams.mid,Eurythmics__Sweet_Dreams.mid,38,Synth Bass 1,1013,46.55182625863771,126.00012600012602
+Eurythmics,There Must Be an Angel (Playing With My Heart).1.mid,Eurythmics__There_Must_Be_an_Angel_(Playing_With_My_Heart).1.mid,33,Electric Bass (finger),447,33.20805369127517,112.00089600716802
+Eurythmics,There Must Be an Angel (Playing With My Heart).2.mid,Eurythmics__There_Must_Be_an_Angel_(Playing_With_My_Heart).2.mid,38,Synth Bass 1,366,30.081967213114755,110.00011000011
+Eurythmics,There Must Be an Angel (Playing With My Heart).mid,Eurythmics__There_Must_Be_an_Angel_(Playing_With_My_Heart).mid,38,Synth Bass 1,366,30.081967213114755,110.00011000011
+Eurythmics,Who's That Girl.1.mid,Eurythmics__Who's_That_Girl.1.mid,38,Synth Bass 1,502,52.04980079681275,120.0
+Eurythmics,Would I Lie To You?.1.mid,Eurythmics__Would_I_Lie_To_You?.1.mid,38,Synth Bass 1,385,36.75584415584416,132.00158401900822
+Eurythmics,Would I Lie To You?.mid,Eurythmics__Would_I_Lie_To_You?.mid,38,Synth Bass 1,385,36.75584415584416,132.000132000132
+Frankie Goes to Hollywood,Relax (Frankie Goes to Dreamscape).1.mid,Frankie_Goes_to_Hollywood__Relax_(Frankie_Goes_to_Dreamscape).1.mid,36,Slap Bass 1,724,33.88397790055249,122.00180562672327
+Frankie Goes to Hollywood,Relax (Frankie Goes to Dreamscape).mid,Frankie_Goes_to_Hollywood__Relax_(Frankie_Goes_to_Dreamscape).mid,36,Slap Bass 1,724,33.88397790055249,122.00180562672327
+Frankie Goes to Hollywood,Relax.1.mid,Frankie_Goes_to_Hollywood__Relax.1.mid,36,Slap Bass 1,364,28.0,117.00011700011699
+Frankie Goes to Hollywood,Relax.2.mid,Frankie_Goes_to_Hollywood__Relax.2.mid,33,Electric Bass (finger),639,40.075117370892016,113.99995440001824
+Frankie Goes to Hollywood,Relax.3.mid,Frankie_Goes_to_Hollywood__Relax.3.mid,39,Synth Bass 2,484,28.0,121.00189569636592
+Frankie Goes to Hollywood,Relax.4.mid,Frankie_Goes_to_Hollywood__Relax.4.mid,36,Slap Bass 1,540,28.0,115.00201253521936
+Frankie Goes to Hollywood,Relax.mid,Frankie_Goes_to_Hollywood__Relax.mid,6,Harpsichord,590,28.811864406779662,116.00030933415822
+Frankie Goes to Hollywood,The Power of Love.mid,Frankie_Goes_to_Hollywood__The_Power_of_Love.mid,35,Fretless Bass,159,38.685534591194966,94.99950417369088
+Garbage,Hammering in My Head.mid,Garbage__Hammering_in_My_Head.mid,37,Slap Bass 2,590,39.57627118644068,145.00003625000906
+Garbage,I Think I'm Paranoid.mid,Garbage__I_Think_I'm_Paranoid.mid,33,Electric Bass (finger),398,31.91959798994975,115.0000287500072
+Garbage,Medication.mid,Garbage__Medication.mid,32,Acoustic Bass,646,50.14860681114551,82.49999286668933
+Garbage,No. 1 Crush.mid,Garbage__No._1_Crush.mid,35,Fretless Bass,722,29.806094182825486,93.99998120000376
+Garbage,Not My Idea.mid,Garbage__Not_My_Idea.mid,35,Fretless Bass,341,33.59530791788856,100.0
+Garbage,Only Happy When It Rains.1.mid,Garbage__Only_Happy_When_It_Rains.1.mid,36,Slap Bass 1,674,32.51186943620178,120.0
+Garbage,Push It.1.mid,Garbage__Push_It.1.mid,34,Electric Bass (pick),500,32.936,123.99999173333387
+Garbage,Push It.mid,Garbage__Push_It.mid,34,Electric Bass (pick),500,32.936,123.99999173333387
+Garbage,Queer.1.mid,Garbage__Queer.1.mid,99,FX 4 (atmosphere),334,47.035928143712574,100.0
+Garbage,Queer.mid,Garbage__Queer.mid,33,Electric Bass (finger),356,30.235955056179776,90.00009000009
+Garbage,Sleep Together.mid,Garbage__Sleep_Together.mid,39,Synth Bass 2,389,37.10025706940874,130.00013000013
+Garbage,Special.1.mid,Garbage__Special.1.mid,33,Electric Bass (finger),630,40.39365079365079,140.00014000014
+Garbage,Special.mid,Garbage__Special.mid,33,Electric Bass (finger),630,40.39365079365079,140.00014000014
+Garbage,Stupid Girl.1.mid,Garbage__Stupid_Girl.1.mid,34,Electric Bass (pick),601,34.82529118136439,120.0
+Garbage,Stupid Girl.2.mid,Garbage__Stupid_Girl.2.mid,34,Electric Bass (pick),601,34.82529118136439,120.0
+Garbage,Stupid Girl.mid,Garbage__Stupid_Girl.mid,34,Electric Bass (pick),601,34.82529118136439,120.0
+Garbage,Temptation Waits.mid,Garbage__Temptation_Waits.mid,33,Electric Bass (finger),435,32.749425287356324,125.0
+Garbage,The World Is Not Enough.mid,Garbage__The_World_Is_Not_Enough.mid,35,Fretless Bass,512,33.24609375,86.00005160003096
+Garbage,When I Grow Up.mid,Garbage__When_I_Grow_Up.mid,35,Fretless Bass,170,72.88235294117646,130.00013000013
+Garbage,You Look So Fine.mid,Garbage__You_Look_So_Fine.mid,33,Electric Bass (finger),569,35.71177504393673,100.0
+Howard Jones,Everlasting Love.mid,Howard_Jones__Everlasting_Love.mid,32,Acoustic Bass,557,34.310592459605026,120.0
+Howard Jones,Life in One Day.mid,Howard_Jones__Life_in_One_Day.mid,39,Synth Bass 2,594,34.782828282828284,112.00005973336519
+Howard Jones,Things Can Only Get Better.1.mid,Howard_Jones__Things_Can_Only_Get_Better.1.mid,38,Synth Bass 1,693,26.933621933621932,124.00024800102562
+Howard Jones,Things Can Only Get Better.mid,Howard_Jones__Things_Can_Only_Get_Better.mid,36,Slap Bass 1,489,47.0040899795501,112.00089600716802
+INXS,Bitter Tears.mid,INXS__Bitter_Tears.mid,32,Acoustic Bass,771,34.25032425421531,120.0
+INXS,Disappear.mid,INXS__Disappear.mid,32,Acoustic Bass,1008,35.95337301587302,120.0
+INXS,Need You Tonight.mid,INXS__Need_You_Tonight.mid,32,Acoustic Bass,327,44.217125382263,120.0
+INXS,Never Tear Us Apart.1.mid,INXS__Never_Tear_Us_Apart.1.mid,32,Acoustic Bass,236,33.6271186440678,120.0
+INXS,New Sensation.mid,INXS__New_Sensation.mid,32,Acoustic Bass,885,43.19435028248588,113.00073450477427
+INXS,Not Enough Time.mid,INXS__Not_Enough_Time.mid,35,Fretless Bass,682,31.356304985337243,96.0
+INXS,Taste It.mid,INXS__Taste_It.mid,32,Acoustic Bass,544,47.669117647058826,114.50327693459647
+INXS,The Swing.1.mid,INXS__The_Swing.1.mid,33,Electric Bass (finger),842,35.27672209026128,122.99996925000767
+INXS,The Swing.mid,INXS__The_Swing.mid,33,Electric Bass (finger),842,35.27672209026128,123.00022140039852
+INXS,What You Need.2.mid,INXS__What_You_Need.2.mid,35,Fretless Bass,633,30.98578199052133,124.000248000496
+New Order,Bizarre Love Triangle.1.mid,New_Order__Bizarre_Love_Triangle.1.mid,87,Lead 8 (bass + lead),1769,35.560203504804974,116.99988885010558
+New Order,Bizarre Love Triangle.mid,New_Order__Bizarre_Love_Triangle.mid,37,Slap Bass 2,1769,35.560203504804974,118.00013373348487
+New Order,Blue Monday.1.mid,New_Order__Blue_Monday.1.mid,38,Synth Bass 1,1080,32.50370370370371,133.00024161710562
+New Order,Blue Monday.3.mid,New_Order__Blue_Monday.3.mid,38,Synth Bass 1,1080,32.50370370370371,133.00024161710562
+New Order,Blue Monday.mid,New_Order__Blue_Monday.mid,38,Synth Bass 1,1080,32.50370370370371,132.9999468000213
+New Order,True Faith.mid,New_Order__True_Faith.mid,38,Synth Bass 1,976,36.53893442622951,122.00006913337249
+New Order,World.mid,New_Order__World.mid,38,Synth Bass 1,661,29.491679273827533,123.500127000254
+OMD,Enola Gay (OMD vs. Sash radio edit).1.mid,OMD__Enola_Gay_(OMD_vs._Sash_radio_edit).1.mid,36,Slap Bass 1,824,37.262135922330096,142.0000710000355
+OMD,Enola Gay (OMD vs. Sash radio edit).mid,OMD__Enola_Gay_(OMD_vs._Sash_radio_edit).mid,35,Fretless Bass,776,50.608247422680414,100.50001275000638
+Pet Shop Boys,Always on My Mind   In My House.1.mid,Pet_Shop_Boys__Always_on_My_Mind___In_My_House.1.mid,38,Synth Bass 1,1249,49.266613290632506,124.000248000496
+Pet Shop Boys,Always on My Mind   In My House.2.mid,Pet_Shop_Boys__Always_on_My_Mind___In_My_House.2.mid,35,Fretless Bass,605,45.1900826446281,121.00003456668625
+Pet Shop Boys,Always on My Mind   In My House.4.mid,Pet_Shop_Boys__Always_on_My_Mind___In_My_House.4.mid,38,Synth Bass 1,1429,47.675997200839745,125.0
+Pet Shop Boys,Always on My Mind   In My House.mid,Pet_Shop_Boys__Always_on_My_Mind___In_My_House.mid,34,Electric Bass (pick),1668,37.50779376498801,114.00125401379417
+Pet Shop Boys,Always.mid,Pet_Shop_Boys__Always.mid,39,Synth Bass 2,1330,34.57744360902256,128.0
+Pet Shop Boys,Before.mid,Pet_Shop_Boys__Before.mid,33,Electric Bass (finger),636,26.89308176100629,124.000248000496
+Pet Shop Boys,Being Boring.mid,Pet_Shop_Boys__Being_Boring.mid,0,Acoustic Grand Piano,1181,35.02370872142252,120.0
+Pet Shop Boys,Can You Forgive Her.mid,Pet_Shop_Boys__Can_You_Forgive_Her.mid,39,Synth Bass 2,499,32.811623246492985,123.00022140039852
+Pet Shop Boys,Domino Dancing.mid,Pet_Shop_Boys__Domino_Dancing.mid,32,Acoustic Bass,872,41.67087155963303,110.00091667430561
+Pet Shop Boys,Go West.1.mid,Pet_Shop_Boys__Go_West.1.mid,48,String Ensemble 1,162,51.135802469135804,115.0000287500072
+Pet Shop Boys,Go West.2.mid,Pet_Shop_Boys__Go_West.2.mid,38,Synth Bass 1,4287,48.96057849311873,120.0
+Pet Shop Boys,Go West.3.mid,Pet_Shop_Boys__Go_West.3.mid,0,Acoustic Grand Piano,525,40.49523809523809,115.00002875000717
+Pet Shop Boys,Go West.4.mid,Pet_Shop_Boys__Go_West.4.mid,48,String Ensemble 1,162,51.135802469135804,115.00002875000717
+Pet Shop Boys,Go West.5.mid,Pet_Shop_Boys__Go_West.5.mid,33,Electric Bass (finger),604,33.55298013245033,120.0
+Pet Shop Boys,Go West.6.mid,Pet_Shop_Boys__Go_West.6.mid,38,Synth Bass 1,3595,54.606675938803896,120.0
+Pet Shop Boys,Go West.mid,Pet_Shop_Boys__Go_West.mid,0,Acoustic Grand Piano,847,34.40968122786305,120.0
+Pet Shop Boys,Heart.1.mid,Pet_Shop_Boys__Heart.1.mid,37,Slap Bass 2,906,30.178807947019866,126.00012600012602
+Pet Shop Boys,Heart.mid,Pet_Shop_Boys__Heart.mid,37,Slap Bass 2,906,30.178807947019866,126.00012600012599
+Pet Shop Boys,I Wouldnt Normally Do This Kind of Thing.mid,Pet_Shop_Boys__I_Wouldnt_Normally_Do_This_Kind_of_Thing.mid,16,Drawbar Organ,464,31.441810344827587,134.00005806669182
+Pet Shop Boys,It's Alright.mid,Pet_Shop_Boys__It's_Alright.mid,33,Electric Bass (finger),996,28.599397590361445,120.0
+Pet Shop Boys,It's a Sin.1.mid,Pet_Shop_Boys__It's_a_Sin.1.mid,38,Synth Bass 1,997,43.478435305917756,127.500065000065
+Pet Shop Boys,It's a Sin.3.mid,Pet_Shop_Boys__It's_a_Sin.3.mid,34,Electric Bass (pick),924,31.767316017316016,128.0
+Pet Shop Boys,It's a Sin.4.mid,Pet_Shop_Boys__It's_a_Sin.4.mid,38,Synth Bass 1,997,43.478435305917756,127.500065000065
+Pet Shop Boys,It's a Sin.mid,Pet_Shop_Boys__It's_a_Sin.mid,39,Synth Bass 2,1389,38.360691144708426,126.00012600012602
+Pet Shop Boys,Liberation.1.mid,Pet_Shop_Boys__Liberation.1.mid,35,Fretless Bass,811,32.12330456226881,107.00012661681652
+Pet Shop Boys,Liberation.mid,Pet_Shop_Boys__Liberation.mid,35,Fretless Bass,811,32.12330456226881,107.00146235331883
+Pet Shop Boys,One in a Million.1.mid,Pet_Shop_Boys__One_in_a_Million.1.mid,34,Electric Bass (pick),1236,36.726537216828476,129.00007740004645
+Pet Shop Boys,One in a Million.2.mid,Pet_Shop_Boys__One_in_a_Million.2.mid,34,Electric Bass (pick),1236,36.726537216828476,129.00007740004645
+Pet Shop Boys,One in a Million.mid,Pet_Shop_Boys__One_in_a_Million.mid,34,Electric Bass (pick),1236,36.726537216828476,129.0017415235106
+Pet Shop Boys,Paninaro '95.1.mid,Pet_Shop_Boys__Paninaro_'95.1.mid,38,Synth Bass 1,864,33.864583333333336,124.000248000496
+Pet Shop Boys,Paninaro '95.mid,Pet_Shop_Boys__Paninaro_'95.mid,38,Synth Bass 1,864,33.864583333333336,124.000248000496
+Pet Shop Boys,Se a Vida E (That's the Way Life Is).1.mid,Pet_Shop_Boys__Se_a_Vida_E_(That's_the_Way_Life_Is).1.mid,35,Fretless Bass,234,34.611111111111114,91.99998773333496
+Pet Shop Boys,Se a Vida E (That's the Way Life Is).mid,Pet_Shop_Boys__Se_a_Vida_E_(That's_the_Way_Life_Is).mid,38,Synth Bass 1,360,33.87777777777778,93.00004185001883
+Pet Shop Boys,So Hard.1.mid,Pet_Shop_Boys__So_Hard.1.mid,32,Acoustic Bass,547,40.82449725776965,124.000248000496
+Pet Shop Boys,So Hard.mid,Pet_Shop_Boys__So_Hard.mid,32,Acoustic Bass,547,40.82449725776965,124.000248000496
+Pet Shop Boys,West End Girls.1.mid,Pet_Shop_Boys__West_End_Girls.1.mid,38,Synth Bass 1,546,31.252747252747252,114.0001710002565
+Pet Shop Boys,West End Girls.2.mid,Pet_Shop_Boys__West_End_Girls.2.mid,38,Synth Bass 1,546,31.252747252747252,114.0001710002565
+Pet Shop Boys,West End Girls.3.mid,Pet_Shop_Boys__West_End_Girls.3.mid,38,Synth Bass 1,546,31.252747252747252,113.99995440001824
+Pet Shop Boys,West End Girls.4.mid,Pet_Shop_Boys__West_End_Girls.4.mid,38,Synth Bass 1,546,31.252747252747252,114.00125401379417
+Pet Shop Boys,West End Girls.mid,Pet_Shop_Boys__West_End_Girls.mid,37,Slap Bass 2,499,31.541082164328657,115.00201253521936
+Pet Shop Boys,What Have I Done to Deserve This.mid,Pet_Shop_Boys__What_Have_I_Done_to_Deserve_This.mid,35,Fretless Bass,505,31.9980198019802,114.00125401379417
+Pet Shop Boys,Where the Streets Have No Name.mid,Pet_Shop_Boys__Where_the_Streets_Have_No_Name.mid,0,Acoustic Grand Piano,1477,45.98849018280298,127.00025400050801
+Robyn,Show Me Love.mid,Robyn__Show_Me_Love.mid,35,Fretless Bass,196,35.775510204081634,91.99998773333496
+Simple Minds,Alive & Kicking.1.mid,Simple_Minds__Alive_&_Kicking.1.mid,39,Synth Bass 2,545,32.95045871559633,103.00075533887248
+Simple Minds,Alive & Kicking.mid,Simple_Minds__Alive_&_Kicking.mid,39,Synth Bass 2,545,32.95045871559633,103.0000480666891
+Simple Minds,Don't You (Forget About Me).1.mid,Simple_Minds__Don't_You_(Forget_About_Me).1.mid,33,Electric Bass (finger),1238,36.79967689822294,114.0001710002565
+Simple Minds,Don't You (Forget About Me).2.mid,Simple_Minds__Don't_You_(Forget_About_Me).2.mid,39,Synth Bass 2,1214,36.924217462932454,114.00125401379417
+Simple Minds,Don't You (Forget About Me).3.mid,Simple_Minds__Don't_You_(Forget_About_Me).3.mid,33,Electric Bass (finger),1267,36.60142067876875,102.49999187501484
+Simple Minds,Don't You (Forget About Me).4.mid,Simple_Minds__Don't_You_(Forget_About_Me).4.mid,39,Synth Bass 2,1214,36.924217462932454,114.0001710002565
+Simple Minds,Don't You (Forget About Me).mid,Simple_Minds__Don't_You_(Forget_About_Me).mid,39,Synth Bass 2,1214,36.924217462932454,117.00008550012825
+Simple Minds,Mandela Day.1.mid,Simple_Minds__Mandela_Day.1.mid,33,Electric Bass (finger),321,37.557632398753896,96.0
+Simple Minds,Mandela Day.mid,Simple_Minds__Mandela_Day.mid,33,Electric Bass (finger),321,37.557632398753896,96.0
+Simple Minds,She's a River.1.mid,Simple_Minds__She's_a_River.1.mid,35,Fretless Bass,1159,33.003451251078516,93.00004185001883
+Simple Minds,She's a River.mid,Simple_Minds__She's_a_River.mid,33,Electric Bass (finger),846,34.290780141843975,93.00018600037201
+Soft Cell,Something's Gotten Hold of My Heart.mid,Soft_Cell__Something's_Gotten_Hold_of_My_Heart.mid,35,Fretless Bass,159,37.0188679245283,90.0009000090001
+Soft Cell,Tainted Love.1.mid,Soft_Cell__Tainted_Love.1.mid,0,Acoustic Grand Piano,384,34.609375,146.00742691111554
+Soft Cell,Tainted Love.2.mid,Soft_Cell__Tainted_Love.2.mid,39,Synth Bass 2,498,34.53012048192771,140.00046666822223
+Soft Cell,Tainted Love.mid,Soft_Cell__Tainted_Love.mid,33,Electric Bass (finger),402,34.55223880597015,144.00921658986175
+Spandau Ballet,Gold.1.mid,Spandau_Ballet__Gold.1.mid,33,Electric Bass (finger),391,37.40920716112532,143.03082314238722
+Spandau Ballet,Gold.mid,Spandau_Ballet__Gold.mid,33,Electric Bass (finger),391,37.40920716112532,143.00014300014297
+Spandau Ballet,True.1.mid,Spandau_Ballet__True.1.mid,34,Electric Bass (pick),500,38.154,100.0
+Spandau Ballet,True.2.mid,Spandau_Ballet__True.2.mid,32,Acoustic Bass,368,38.68478260869565,99.99999999999999
+Spandau Ballet,True.3.mid,Spandau_Ballet__True.3.mid,0,Acoustic Grand Piano,631,39.694136291600636,98.00270487465454
+Spandau Ballet,True.mid,Spandau_Ballet__True.mid,34,Electric Bass (pick),500,38.154,99.99999999999999
+Talk Talk,It's My Life.mid,Talk_Talk__It's_My_Life.mid,33,Electric Bass (finger),737,36.613297150610585,125.0
+Talk Talk,Such a Shame.mid,Talk_Talk__Such_a_Shame.mid,38,Synth Bass 1,1081,44.90749306197965,123.00123001230013
+Tears for Fears,Everybody Wants To Rule The World.1.mid,Tears_for_Fears__Everybody_Wants_To_Rule_The_World.1.mid,35,Fretless Bass,615,40.076422764227644,110.00011000011
+Tears for Fears,Everybody Wants To Rule The World.2.mid,Tears_for_Fears__Everybody_Wants_To_Rule_The_World.2.mid,35,Fretless Bass,615,40.076422764227644,109.99990833340972
+Tears for Fears,Everybody Wants To Rule The World.3.mid,Tears_for_Fears__Everybody_Wants_To_Rule_The_World.3.mid,33,Electric Bass (finger),656,39.88109756097561,111.00011100011099
+Tears for Fears,Everybody Wants To Rule The World.mid,Tears_for_Fears__Everybody_Wants_To_Rule_The_World.mid,35,Fretless Bass,615,38.076422764227644,110.00091667430561
+Tears for Fears,Head Over Heels.mid,Tears_for_Fears__Head_Over_Heels.mid,68,Oboe,469,43.053304904051174,101.00006901671382
+Tears for Fears,Laid So Low (Tears Roll Down).mid,Tears_for_Fears__Laid_So_Low_(Tears_Roll_Down).mid,33,Electric Bass (finger),262,33.31297709923664,115.00201253521936
+Tears for Fears,Shout.1.mid,Tears_for_Fears__Shout.1.mid,39,Synth Bass 2,1217,32.25225965488907,95.00014250021376
+Tears for Fears,Shout.2.mid,Tears_for_Fears__Shout.2.mid,39,Synth Bass 2,610,32.295081967213115,98.00014373354414
+Tears for Fears,Shout.3.mid,Tears_for_Fears__Shout.3.mid,39,Synth Bass 2,610,32.295081967213115,98.00078400627207
+Tears for Fears,Shout.4.mid,Tears_for_Fears__Shout.4.mid,39,Synth Bass 2,610,32.295081967213115,97.9999836666694
+Tears for Fears,Shout.5.mid,Tears_for_Fears__Shout.5.mid,39,Synth Bass 2,610,32.295081967213115,98.00014373354416
+Tears for Fears,Shout.mid,Tears_for_Fears__Shout.mid,39,Synth Bass 2,1217,32.25225965488907,95.00014250021376
+Tears for Fears,Sowing the Seeds of Love.1.mid,Tears_for_Fears__Sowing_the_Seeds_of_Love.1.mid,33,Electric Bass (finger),736,35.78260869565217,143.50070471141632
+The Cars,Bye Bye Love.mid,The_Cars__Bye_Bye_Love.mid,33,Electric Bass (finger),763,38.492791612057665,130.00013000013
+The Cars,Drive.1.mid,The_Cars__Drive.1.mid,33,Electric Bass (finger),235,34.808510638297875,83.0000650167176
+The Cars,Drive.2.mid,The_Cars__Drive.2.mid,33,Electric Bass (finger),235,34.808510638297875,82.99995020002989
+The Cars,Drive.3.mid,The_Cars__Drive.3.mid,70,Bassoon,656,36.077743902439025,130.00013000013
+The Cars,Drive.4.mid,The_Cars__Drive.4.mid,33,Electric Bass (finger),296,37.13175675675676,84.00008400008399
+The Cars,Drive.5.mid,The_Cars__Drive.5.mid,33,Electric Bass (finger),235,34.808510638297875,83.0000650167176
+The Cars,Drive.mid,The_Cars__Drive.mid,33,Electric Bass (finger),235,34.808510638297875,86.00054467011624
+The Cars,Good Times Roll.1.mid,The_Cars__Good_Times_Roll.1.mid,30,Distortion Guitar,722,49.20360110803324,109.00172586065946
+The Cars,Good Times Roll.mid,The_Cars__Good_Times_Roll.mid,30,Distortion Guitar,722,49.20360110803324,109.00014170018423
+The Cars,It's All I Can Do.mid,The_Cars__It's_All_I_Can_Do.mid,33,Electric Bass (finger),541,38.5452865064695,120.0
+The Cars,Just What I Needed.1.mid,The_Cars__Just_What_I_Needed.1.mid,33,Electric Bass (finger),554,35.962093862815884,130.00013000013
+The Cars,Just What I Needed.2.mid,The_Cars__Just_What_I_Needed.2.mid,34,Electric Bass (pick),554,35.962093862815884,130.00013000013
+The Cars,Just What I Needed.mid,The_Cars__Just_What_I_Needed.mid,33,Electric Bass (finger),554,35.962093862815884,130.0023833770286
+The Cars,Let's Go.1.mid,The_Cars__Let's_Go.1.mid,34,Electric Bass (pick),599,36.242070116861434,131.00007641671124
+The Cars,Let's Go.2.mid,The_Cars__Let's_Go.2.mid,64,Soprano Sax,599,36.242070116861434,131.00007641671124
+The Cars,Let's Go.3.mid,The_Cars__Let's_Go.3.mid,33,Electric Bass (finger),599,36.242070116861434,131.00007641671124
+The Cars,Let's Go.mid,The_Cars__Let's_Go.mid,33,Electric Bass (finger),599,36.242070116861434,131.0015065173249
+The Cars,My Best Friend's Girl.mid,The_Cars__My_Best_Friend's_Girl.mid,33,Electric Bass (finger),737,32.76662143826323,120.0
+The Cars,Shake It Up.mid,The_Cars__Shake_It_Up.mid,39,Synth Bass 2,598,58.82943143812709,151.00037750094376
+The Cars,Tonight She Comes.mid,The_Cars__Tonight_She_Comes.mid,33,Electric Bass (finger),137,33.693430656934304,145.00003625000906
+The Cars,You Might Think.1.mid,The_Cars__You_Might_Think.1.mid,33,Electric Bass (finger),528,42.09090909090909,137.99987580011177
+The Cars,You Might Think.2.mid,The_Cars__You_Might_Think.2.mid,33,Electric Bass (finger),528,42.09090909090909,137.99987580011177
+The Cars,You Might Think.3.mid,The_Cars__You_Might_Think.3.mid,38,Synth Bass 1,240,43.791666666666664,138.000828004968
+The Cars,You Might Think.mid,The_Cars__You_Might_Think.mid,33,Electric Bass (finger),528,42.09090909090909,138.00019320027047
+The Human League,Don't You Want Me.mid,The_Human_League__Don't_You_Want_Me.mid,33,Electric Bass (finger),664,30.228915662650603,118.0010620095581
+Ultravox,Vienna.mid,Ultravox__Vienna.mid,38,Synth Bass 1,687,40.585152838427945,72.0000288000115
+Visage,Fade to Gray.mid,Visage__Fade_to_Gray.mid,80,Lead 1 (square),164,54.853658536585364,115.00002875000717
+Visage,Fade to Grey.mid,Visage__Fade_to_Grey.mid,35,Fretless Bass,1145,45.06288209606987,112.00005973336519
+Wham!,Careless Whisper.1.mid,Wham!__Careless_Whisper.1.mid,33,Electric Bass (finger),502,35.22509960159363,77.99997660000702
+Wham!,Careless Whisper.2.mid,Wham!__Careless_Whisper.2.mid,33,Electric Bass (finger),502,35.22509960159363,78.00007800007802
+Wham!,Careless Whisper.mid,Wham!__Careless_Whisper.mid,33,Electric Bass (finger),502,35.22509960159363,78.00007800007802
+Wham!,Everything She Wants.1.mid,Wham!__Everything_She_Wants.1.mid,38,Synth Bass 1,628,32.304140127388536,115.0000287500072
+Wham!,Everything She Wants.mid,Wham!__Everything_She_Wants.mid,38,Synth Bass 1,637,40.53846153846154,110.05502751375687
+Wham!,If You Were There.mid,Wham!__If_You_Were_There.mid,33,Electric Bass (finger),511,37.07436399217221,127.00025400050801
+Yazoo,Don't Go.mid,Yazoo__Don't_Go.mid,33,Electric Bass (finger),672,44.120535714285715,128.0
+Yazoo,Situation.mid,Yazoo__Situation.mid,33,Electric Bass (finger),809,42.799752781211374,92.00055200331204
+a-ha,Hunting High and Low.mid,a-ha__Hunting_High_and_Low.mid,33,Electric Bass (finger),685,33.25985401459854,100.0
+a-ha,Take On Me.6.mid,a-ha__Take_On_Me.6.mid,38,Synth Bass 1,569,39.934973637961335,155.00031000062
+a-ha,The Living Daylights.mid,a-ha__The_Living_Daylights.mid,39,Synth Bass 2,769,33.405721716514954,120.99994353335968
+a-ha,The Sun Always Shines on TV.mid,a-ha__The_Sun_Always_Shines_on_TV.mid,34,Electric Bass (pick),1765,34.81019830028329,132.000132000132
