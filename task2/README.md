@@ -2,15 +2,22 @@
 
 This folder contains the full pipeline for Task 2.
 
-The project goal is:
+**Core idea**: give the model a single melody-only MIDI file, and it automatically
+generates a matching bassline and drum groove to produce a complete synth-pop arrangement.
 
 ```text
+[Training]
 synth-pop MIDI files (Lakh MIDI Dataset)
   -> melody + drum + bass track extraction
   -> 16-step grid representation (4-bar segments)
-  -> rule-based baseline (bass + drums)
-  -> ConditionalBassDrumLSTM (melody + BPM -> bassline + drum groove)
-  -> generated MIDI (melody + LSTM bass + LSTM drums)
+  -> ConditionalBassDrumLSTM training (melody + BPM -> bassline + drum groove)
+
+[Generation]
+one melody-only MIDI file  (from processed/melody_samples_v3/)
+  -> split into 4-bar segments
+  -> generate bass + drums for each segment  (LSTM or rule-based)
+  -> reassemble into full song
+  -> output: melody + generated bass + generated drums  (complete arrangement)
 ```
 
 ## Big Picture
@@ -79,7 +86,7 @@ output regardless of the melody's internal structure.
 ## Folder Layout
 
 ```text
-task2/
+CSE153_TASK2/
   processed/
     bpm_data.csv              # BPM per song
     melody_dataset.csv        # metadata for extracted melody tracks
@@ -90,8 +97,13 @@ task2/
     melodies_all/             # extracted melody MIDI files (one per song)
     drums_all/                # extracted drum MIDI files (one per song)
     bass_all/                 # extracted bass MIDI files (one per song)
+    melody_samples_v3/        # sample melody MIDI files used for full-song generation
     task2_bass_drum_dataset_4bar.npz   # final training dataset
   task2.ipynb                 # main notebook (EDA -> preprocessing -> training -> generation)
+  full_song_rule_based.mid         # generated output: rule-based full song
+  full_song_lstm_deterministic.mid # generated output: LSTM deterministic full song
+  full_song_lstm_stochastic.mid    # generated output: LSTM stochastic full song
+  workbook.html               # exported HTML of the notebook
   README.md
 ```
 
@@ -106,6 +118,7 @@ and curated by extracting songs from representative 80s synth-pop artists includ
 Depeche Mode, Culture Club, ABC, Bronski Beat, and others.
 
 For each song, three tracks were automatically extracted:
+
 - **Melody track**: selected by scoring instruments on pitch range (C4–C6), note density,
   monophony ratio, and instrument program number (preferring lead synths, brass, and winds).
 - **Drum track**: identified via MIDI channel 9 (`is_drum=True`) and merged if multiple
@@ -252,17 +265,17 @@ This baseline produces the same output regardless of the melody's internal struc
 
 ### Rule-based vs LSTM
 
-| | Rule-based | ConditionalBassDrumLSTM |
-|---|---|---|
-| Training required | No | Yes (30 epochs) |
-| Melody-aware | Partial (root pitch only) | Yes (full sequence) |
-| Output diversity | None (always identical) | High (stochastic mode) |
-| Beat regularity | Perfect (hardcoded) | Lower (learned from data) |
-| Bass MAE | 1.43 | **0.77** (det) / **0.26** (stoch) |
-| Drum MAE | 0.60 | **0.06** (det) / **0.24** (stoch) |
-| Total MAE | 2.03 | **0.83** (det) / **0.50** (stoch) |
-| Handles syncopation | No | Yes |
-| Interpretable | Yes | No (black box) |
+|                     | Rule-based                | ConditionalBassDrumLSTM           |
+| ------------------- | ------------------------- | --------------------------------- |
+| Training required   | No                        | Yes (30 epochs)                   |
+| Melody-aware        | Partial (root pitch only) | Yes (full sequence)               |
+| Output diversity    | None (always identical)   | High (stochastic mode)            |
+| Beat regularity     | Perfect (hardcoded)       | Lower (learned from data)         |
+| Bass MAE            | 1.43                      | **0.77** (det) / **0.26** (stoch) |
+| Drum MAE            | 0.60                      | **0.06** (det) / **0.24** (stoch) |
+| Total MAE           | 2.03                      | **0.83** (det) / **0.50** (stoch) |
+| Handles syncopation | No                        | Yes                               |
+| Interpretable       | Yes                       | No (black box)                    |
 
 ### Why LSTM over Transformer?
 
@@ -433,27 +446,71 @@ Deterministic: reproducible evaluation, comparison against baseline
 Stochastic:    generating multiple variations from the same melody
 ```
 
-## Step 7: Reconstruct MIDI
+## Step 7: Full-Song MIDI Generation
 
-Both generation modes output `bass_pred (64,)` and `drum_pred (64, 3)`.
-Pass these to `create_lstm_midi`:
+The model takes a **single melody-only MIDI file** from `processed/melody_samples_v3/`
+as input. It automatically generates bass and drum accompaniment for every 4-bar phrase
+in the song, then assembles the parts into a complete arrangement: the original melody
+plus newly generated bass and drums.
+
+`melody_samples_v3/` contains melody tracks extracted from real synth-pop songs. Each
+file has only the melody line — no bass, no drums. The pipeline adds those two layers.
 
 ```python
-create_lstm_midi(
-    melody_grid=sample_melody,
-    bass_pred=bass_pred,
-    drum_pred=drum_pred,
-    bpm=sample_bpm,
-    output_path="lstm_output.mid"
+input_melody_path = "processed/melody_samples_v3/02_Depeche_Mode_Blasphemous_Rumours.1_v3.mid"
+
+# Rule-based full-song generation
+generate_full_song_rule_based_from_melody_file(
+    melody_path=input_melody_path,
+    output_path="full_song_rule_based.mid"
+)
+
+# LSTM full-song generation (deterministic)
+generate_full_song_from_melody_file(
+    model=model,
+    melody_path=input_melody_path,
+    output_path="full_song_lstm_deterministic.mid",
+    mode="deterministic"
+)
+
+# LSTM full-song generation (stochastic)
+generate_full_song_from_melody_file(
+    model=model,
+    melody_path=input_melody_path,
+    output_path="full_song_lstm_stochastic.mid",
+    mode="stochastic"
 )
 ```
 
-The output MIDI contains three tracks:
+The generation pipeline for each full song:
 
 ```text
-Track 1: Melody Synth Lead   (program 80)
-Track 2: LSTM Bass           (program 38)   <- LSTM-generated
-Track 3: LSTM Drums          (channel 9, is_drum=True)  <- LSTM-generated
+Input Melody MIDI
+      ↓
+Extract BPM from MIDI file
+      ├─── Melody: copy original MIDI notes directly
+      │           (preserves note duration and timing — not re-gridded)
+      │
+      └─── Bass & Drums:
+               Split into 4-bar segments (melody_file_to_4bar_segments)
+                     ↓
+               For each segment: generate bass_pred (64,) + drum_pred (64, 3)
+                     ↓
+               Reassemble using original time offsets
+      ↓
+Export full-song MIDI
+```
+
+The melody is copied from the source MIDI as-is, so quarter notes, half notes, and
+all original rhythms are fully preserved. Bass and drums are generated from the
+16-step grid and reconstructed at 16th-note resolution.
+
+Each output MIDI contains three tracks:
+
+```text
+Track 1: Input Melody Synth Lead    (program 80)  <- original notes, durations preserved
+Track 2: Generated Bass             (program 38)   <- rule-based or LSTM
+Track 3: Generated Drums            (channel 9, is_drum=True)  <- rule-based or LSTM
 ```
 
 ## Evaluation
@@ -519,30 +576,30 @@ A quick sweep of `drum_loss_weight` (w ∈ {0.5, 1.0, 2.0}) confirmed that `w = 
 
 ```python
 import IPython.display as ipd
-print("Rule-based:")
-ipd.display(ipd.Audio("rule_based_synthpop.mid"))
-print("LSTM (deterministic):")
-ipd.display(ipd.Audio("lstm_deterministic.mid"))
-print("LSTM (stochastic):")
-ipd.display(ipd.Audio("lstm_stochastic.mid"))
+print("Rule-Based Full Song:")
+ipd.display(ipd.Audio("full_song_rule_based.mid"))
+print("LSTM Full Song (Deterministic):")
+ipd.display(ipd.Audio("full_song_lstm_deterministic.mid"))
+print("LSTM Full Song (Stochastic):")
+ipd.display(ipd.Audio("full_song_lstm_stochastic.mid"))
 ```
 
 ## Key Parameters Reference
 
-| Parameter | Value | Effect |
-|---|---|---|
-| `random_state=42` | train_test_split | reproducible data split |
-| `torch.manual_seed(42)` | training cell | reproducible model weights |
-| `test_size=0.1` | train_test_split | 10% validation split |
-| `pos_weight` | BCEWithLogitsLoss | corrects drum class imbalance |
-| `num_epochs=30` | training | sufficient convergence (loss 3.1359 → 2.3232) |
-| `rest_penalty=1.5` | deterministic generation | suppresses bass REST collapse |
-| `temperature=0.4` | deterministic generation | sharpens bass distribution |
-| `drum_thresholds=[0.46, 0.40, 0.50]` | deterministic generation | per-drum decision boundary |
-| `drum_scale=[0.65, 0.50, 0.83]` | stochastic generation | reduces drum over-activation |
-| `temperature=1.0` | stochastic generation | controls bass randomness |
-| `STEPS_PER_BAR=16` | grid representation | 16th-note quantization |
-| `BARS_PER_SEGMENT=4` | grid representation | 4-bar (64-step) segments |
+| Parameter                            | Value                    | Effect                                        |
+| ------------------------------------ | ------------------------ | --------------------------------------------- |
+| `random_state=42`                    | train_test_split         | reproducible data split                       |
+| `torch.manual_seed(42)`              | training cell            | reproducible model weights                    |
+| `test_size=0.1`                      | train_test_split         | 10% validation split                          |
+| `pos_weight`                         | BCEWithLogitsLoss        | corrects drum class imbalance                 |
+| `num_epochs=30`                      | training                 | sufficient convergence (loss 3.1359 → 2.3232) |
+| `rest_penalty=1.5`                   | deterministic generation | suppresses bass REST collapse                 |
+| `temperature=0.4`                    | deterministic generation | sharpens bass distribution                    |
+| `drum_thresholds=[0.46, 0.40, 0.50]` | deterministic generation | per-drum decision boundary                    |
+| `drum_scale=[0.65, 0.50, 0.83]`      | stochastic generation    | reduces drum over-activation                  |
+| `temperature=1.0`                    | stochastic generation    | controls bass randomness                      |
+| `STEPS_PER_BAR=16`                   | grid representation      | 16th-note quantization                        |
+| `BARS_PER_SEGMENT=4`                 | grid representation      | 4-bar (64-step) segments                      |
 
 ## What You Should Understand
 
@@ -558,33 +615,35 @@ ipd.display(ipd.Audio("lstm_stochastic.mid"))
 
 ## Related Work
 
-**Lakh MIDI Dataset (LMD)** (Raffel, C., 2016. *Learning-Based Methods for Comparing
-Sequences, with Applications to Audio-to-MIDI Alignment and Matching*. PhD thesis,
+**Lakh MIDI Dataset (LMD)** (Raffel, C., 2016. _Learning-Based Methods for Comparing
+Sequences, with Applications to Audio-to-MIDI Alignment and Matching_. PhD thesis,
 Columbia University.)
 
-**Groove MIDI Dataset** (Gillick, J. et al., 2019. *Learning to Groove with Inverse
-Kinematics*. ICML 2019.)
+**Groove MIDI Dataset** (Gillick, J. et al., 2019. _Learning to Groove with Inverse
+Kinematics_. ICML 2019.)
 
 **GrooVAE** (Google Magenta, 2019.) — VAE-based conditioned drum generation.
 Unlike this project, GrooVAE conditions on a tap rhythm (not melody) and uses
 continuous timing/velocity rather than a discrete grid.
 
-**Pop Music Transformer / REMI** (Huang, Y.S. and Yang, Y.H., 2020. *Pop Music
-Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Music*.
+**Pop Music Transformer / REMI** (Huang, Y.S. and Yang, Y.H., 2020. _Pop Music
+Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Music_.
 ACM MM 2020.)
 
-**Music Transformer** (Huang, C.A. et al., 2018. *Music Transformer: Generating Music
-with Long-Term Structure*. ICLR 2019.) — Transformer direction this LSTM could be
+**Music Transformer** (Huang, C.A. et al., 2018. _Music Transformer: Generating Music
+with Long-Term Structure_. ICLR 2019.) — Transformer direction this LSTM could be
 extended toward with more data.
 
 ### How This Project Differs from Prior Work
 
 Prior work typically:
+
 - Conditions on rhythm input or chord sequence, not a melody pitch sequence
 - Generates only drums OR only bass, not both simultaneously
 - Uses continuous representations (timing, velocity) for expressiveness
 
 This project:
+
 - Conditions directly on the **melody pitch sequence**
 - Generates **both bass and drums jointly** from one model
 - Uses a **discrete 16-step grid** for simplicity
