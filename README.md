@@ -122,9 +122,9 @@ Unlike this prior work, we condition on the **full melody pitch sequence** (not 
 
 | Area | Member |
 |---|---|
-| Data collection, extraction & cleaning (Part 1) | _[name]_ |
-| Task 1 — unconditioned generation | _[name]_ |
-| Task 2 — conditioned generation | _[name]_ |
+| Data collection, extraction & cleaning (Part 1) | Donghyun Hahn |
+| Task 1 — unconditioned generation | Yonghyeon Choi |
+| Task 2 — conditioned generation | Kevin Lee |
 
 ## Acknowledgments
 
