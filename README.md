@@ -1,6 +1,5 @@
 # 🎹 Synth-Pop Symbolic Music Generation
 
-**CSE 153 — Final Project**
 
 Two symbolic-music generators trained on a self-curated **80s synth-pop** MIDI dataset built from the [Lakh MIDI Dataset](https://colinraffel.com/projects/lmd/). We tackle two of the four project tasks, both in the symbolic domain:
 
